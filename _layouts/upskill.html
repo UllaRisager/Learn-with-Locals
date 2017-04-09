@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<section class="grid">
+  <div class="col-12_md-6_xs-12">
+  <h2> {{ page.skill-name}} </h2>
+  <hr>
+  </div>
+  <div class="upskill-details-section col-4_md-6_xs-12 padded">
+    <img class="profile-photo"src="/images/hosts/{{ page.host-photo }}">
+    <h4> Your local friend: </h4> <h5> {{ page.host-name }} </h5>
+    <h4> About: </h4>
+    <p> {{ page.host-bio}} </p>
+    <p> {{ page.about}} </p>
+    {{ content }}
+    </div>
+  </div>
+  <div class="upskill-blurb-section col-8_md-6_xs-12 padded">
+    <h3> Course Details: </h3>
+    <p> Location: {{ page.location}}</p>
+    <p> Duration: {{ page.duration}}</p>
+    <p> Level: {{ page.level}}</p>
+    <p> Price: {{ page.price}}</p>
+
+    <hr>
+
+    <h3> What you'll learn: </h3>
+    <p>{{ page.snippet }}</p>
+    <h3> Where we'll be: </h3>
+    <p>{{ page.where }}</p>
+    <h3> What I'll provide: </h3>
+    <p>{{ page.what }}</p>
+    <h3> Good to know </h3>
+    <p>{{ page.good-to-know }}</p>
+    <hr>
+    <div>
+      <img class="skill-images"src="/images/hosts/{{ page.host-photo }}">
+  </div>
+
+
+  </div>
+</section>

@@ -1,0 +1,95 @@
+---
+layout: default
+title: Learn with locals while you travel
+subtitle: Learn new skills, meet people and have fun
+banner: /images/homepage/homepage-bg.jpg
+---
+
+<!--ABOUT BANNER SECTION  -->
+<section class="about-banner-section center">
+  <div>
+    <h5>Imagine going to Bali and instead of just laying by the pool, you might be able to learn a new skill or upskill an existing one?</h5>
+    <p>Learn with Locals allows you to meet likeminded people and learn something new and why not learn it from locals who know it best? Why not learn how to code that website you've always wanted or brush up on those photography skill? You might also get started with yoga like you've always wanted to try out, but never had the time to do?</p>
+  </div>
+</section>
+
+<!--FEATURED BANNER SECTION  -->
+<section class="featured-banner-section center">
+  <h2>Featured Skills & Experiences</h2>
+
+<!--FEATURE SKILL 1 -->
+<div class="grid">
+{% for upskill in site.upskills %}
+    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
+      <div class="padded">
+        <div class='image-tile' style='background-image:url("{{ upskill.feature-image_path }}");'></div>
+        <h3> {{ upskill.title }}</h3>
+        <p class="snippet"> {{upskill.snippet}}</p>
+        <p class="details">{{upskill.location}}</p>
+        <p class="details"> {{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+      </div>
+    </a>
+  {% endfor %}
+</div>
+</section>
+
+<!-- TESTIMONIAL-SECTION -->
+<section class="grid">
+  <div class="col-4 center">
+      <img src="/images/general/cindy.jpg" alt="cindy.jpg" class="testimonial-image">
+      <h3>Cindy</h3>
+      <h5>Content Strategist</h5>
+    </div>
+    <div class="col-1 quote right">"</div>
+    <div class="col-6-middle testimonial-section center">
+      I always wanted to learn coding, so I signed up for a 3 day experience with Tina. I can honestly say it's been hard as hell, but I've learned how to code my own website and my problem solving skills have improved too. Can only recommend this skill to anyone wanting to better themselves and learn something new.
+    </div>
+    <div class="col-1-bottom quote left">"</div>
+  </div>
+</section>
+
+<!-- CATEGORY SECTION -->
+<section>
+<h2>What do you want to learn?</h2>
+<div class="grid-middle">
+<!-- CATEGORY 1 -->
+{% for cat in site.categories %}
+    <a class="col-3_md-6_xs-12" href="/skills">
+      <div class="category-image category-square" style="background-image:url('/images/categories/{{ cat.feature-image }}')">
+        <div class='overlay grid-middle'>
+          <h4> {{ cat.title }}</h4>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
+</div>
+</section>
+
+<!-- SIGN UP SECTION -->
+<section class="sign-up-section">
+  <div>
+    <h2>
+      Want to offer your skills, learn something new and have fun?
+    </h2>
+    <a class="button" href="/signup.html"> SIGN UP </a>
+  </div>
+</section>
+
+<!-- BLOG SECTION -->
+<section class="blog-section center">
+  <h2>
+    Stories from the blog
+  </h2>
+  <!-- BLOG IMG 1 -->
+  <div class="grid">
+    {% for post in site.posts %}
+    <a class="col-4_md-6_xs-12" href="{{post.url}}">
+  <div class="padded">
+    <img src="{{post.image_path}}" alt="{{post.image-alt}}">
+    <h4>{{post.title}}</h4>
+    <p>{{post.snippet}}</p>
+  </div>
+  </a>
+    {% endfor %}
+  </div>
+</section>

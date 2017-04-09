@@ -1,0 +1,94 @@
+---
+layout: default
+title: What do you want to learn?
+subtitle: Browse categories and skills
+banner: /images/categories/category-skills.jpg
+---
+
+<!--FEATURED BANNER SECTION  -->
+<section class="featured-banner-section center">
+  <h2>Adventure & Outdoors</h2>
+
+<!--FEATURE SKILL 1 -->
+<div class="grid">
+{% for upskill in site.upskills %}
+  {% if upskill.categories contains "adventure" %}
+    <a class="col-4" href="{{upskill.url}}">
+      <div class="padded">
+        <img src="{{ upskill.feature-image_path }}" alt=" {{ upskill.title }}">
+        <h3> {{ upskill.title }}</h3>
+        <p class="snippet"> {{upskill.snippet}}</p>
+        <p class="details">{{upskill.location}}</p>
+        <p class="details"> {{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+</div>
+</section>
+
+<!--FEATURED BANNER SECTION  -->
+<section class="featured-banner-section center">
+  <h2>Arts & Lifestyle</h2>
+
+<!--FEATURE SKILL 1 -->
+<div class="grid">
+{% for upskill in site.upskills %}
+  {% if upskill.categories contains 'art' %}
+    <a class="col-4" href="{{upskill.url}}">
+      <div class="padded">
+        <img src="{{ upskill.feature-image_path }}" alt=" {{ upskill.title }}">
+        <h3> {{ upskill.title }}</h3>
+        <p class="snippet"> {{upskill.snippet}}</p>
+        <p class="details">{{upskill.location}}</p>
+        <p class="details"> {{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+</div>
+</section>
+
+<!--FEATURED BANNER SECTION  -->
+<section class="featured-banner-section center">
+  <h2>Food & Drink</h2>
+
+<!--FEATURE SKILL 1 -->
+<div class="grid">
+{% for upskill in site.upskills %}
+  {% if upskill.categories contains 'food' %}
+    <a class="col-4" href="{{upskill.url}}">
+      <div class="padded">
+        <div <div class='image-tile' style='background-image:url("{{ upskill.feature-image_path }}");'></div>
+        <h3> {{ upskill.title }}</h3>
+        <p class="snippet"> {{upskill.snippet}}</p>
+        <p class="details">{{upskill.location}}</p>
+        <p class="details"> {{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+</div>
+</section>
+
+<!--FEATURED BANNER SECTION  -->
+<section class="featured-banner-section center">
+  <h2>Online Media & Technology</h2>
+
+<!--FEATURE SKILL 1 -->
+<div class="grid">
+{% for upskill in site.upskills %}
+  {% if upskill.categories contains 'tech' %}
+    <a class="col-4" href="{{upskill.url}}">
+      <div class="padded">
+        <img src="{{ upskill.feature-image_path }}" alt=" {{ upskill.title }}">
+        <h3> {{ upskill.title }}</h3>
+        <p class="snippet"> {{upskill.snippet}}</p>
+        <p class="details">{{upskill.location}}</p>
+        <p class="details"> {{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+      </div>
+    </a>
+    {% endif %}
+  {% endfor %}
+</div>
+</section>
