@@ -2,7 +2,7 @@
 layout: post
 title: How I learned the basics of selling online
 subtitle: Setting up an online shop
-image_path: /uploads/how to start and e-commerce shop.jpg
+image_path: 
 image-alt: How I learned the basics of selling online
 banner: /uploads/how-to-start-an-e-commerce-shop.jpg
 snippet: How I learned the basics of selling online
