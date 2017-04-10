@@ -18,10 +18,10 @@ layout: default
   </div>
   <div class="upskill-blurb-section col-8_md-6_xs-12 padded">
     <h3> Course Details: </h3>
-    <p> Location: {{ page.location}}</p>
-    <p> Duration: {{ page.duration}}</p>
-    <p> Level: {{ page.level}}</p>
-    <p> Price: {{ page.price}}</p>
+    <p> <span class='emphasis'>Location:</span> {{ page.location}}</p>
+    <p> <span class='emphasis'>Duration:</span> {{ page.duration}}</p>
+    <p> <span class='emphasis'>Level:</span> {{ page.level}}</p>
+    <p> <span class='emphasis'>Price:</span> {{ page.price}}</p>
 
     <hr class='grey-line'>
 
@@ -40,7 +40,7 @@ layout: default
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31556.36797235373!2d115.1225105043476!3d-8.639507400707775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23861f4589665%3A0x5030bfbca82fd30!2sCanggu%2C+Kuta+Utara%2C+Kabupaten+Badung%2C+Bali!5e0!3m2!1sid!2sid!4v1491119273711" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
     <hr class='grey-line'>
-    
+
     <div>
     {% for image in page.featured-images %}
       <img class="skill-images" src="{{ image.path }}">
