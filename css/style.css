@@ -125,12 +125,13 @@ header a {
   letter-spacing: 4px;
 }
 
-.strapline {
+.strapline h3 {
   border: 2px solid white;
   padding: 0.4em;
-  width: 45rem;
+  max-width: 45rem;
   margin: 15px auto;
   font-size: 20px;
+  color: white;
 }
 
 .title {
