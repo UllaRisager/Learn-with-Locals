@@ -154,7 +154,7 @@ header a {
 /* --- About banner section --- */
 
 .about-banner-section div {
-  max-width: 850px;
+  max-width: 750px;
   margin: auto;
 }
 
@@ -329,15 +329,29 @@ form input[type="submit"] {
 footer {
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: bold;
   letter-spacing: 1px;
   background-color: #41414D;
   padding: 50px 50px;
   color: white;
   text-align: center;
+  font-weight: lighter;
   }
 
 footer i {
     font-size: 1em;
     margin: 0% 10px;
   }
+footer p {
+  text-align: center;
+  color: white;
+  font-weight:normal;
+  letter-spacing: 1px;
+  font-size: 10px;
+  letter-spacing: 1px;
+  background-color: #41414D;
+  padding: 30px 0 0 0;
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+
+}
