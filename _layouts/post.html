@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<section class="grid">
+
+  <div class="blog-post col-8_xs-12 padded">
+    <h1> {{page.title}} </h1>
+    {{ content }}
+  </div>
+  <div class="col-4_xs-12">
+    <img class="profile-photo"src="{{ page.author-photo }}">
+    <h4> Written by: {{ page.author-name }} </h5>
+    <p> {{ page.author-bio}} </p>
+  </div>
+</section>
