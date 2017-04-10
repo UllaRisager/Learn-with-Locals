@@ -13,7 +13,7 @@ banner: /images/categories/category-skills.jpg
 <div class="grid">
 {% for upskill in site.upskills %}
   {% if upskill.categories contains "adventure" %}
-    <a class="col-4" href="{{upskill.url}}">
+    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
       <div class="padded">
         <img src="{{ upskill.feature-image_path }}" alt=" {{ upskill.title }}">
         <h3> {{ upskill.title }}</h3>
@@ -35,7 +35,7 @@ banner: /images/categories/category-skills.jpg
 <div class="grid">
 {% for upskill in site.upskills %}
   {% if upskill.categories contains 'art' %}
-    <a class="col-4" href="{{upskill.url}}">
+    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
       <div class="padded">
         <img src="{{ upskill.feature-image_path }}" alt=" {{ upskill.title }}">
         <h3> {{ upskill.title }}</h3>
@@ -57,7 +57,7 @@ banner: /images/categories/category-skills.jpg
 <div class="grid">
 {% for upskill in site.upskills %}
   {% if upskill.categories contains 'food' %}
-    <a class="col-4" href="{{upskill.url}}">
+    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
       <div class="padded">
         <div <div class='image-tile' style='background-image:url("{{ upskill.feature-image_path }}");'></div>
         <h3> {{ upskill.title }}</h3>
@@ -79,7 +79,7 @@ banner: /images/categories/category-skills.jpg
 <div class="grid">
 {% for upskill in site.upskills %}
   {% if upskill.categories contains 'tech' %}
-    <a class="col-4" href="{{upskill.url}}">
+    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
       <div class="padded">
         <img src="{{ upskill.feature-image_path }}" alt=" {{ upskill.title }}">
         <h3> {{ upskill.title }}</h3>

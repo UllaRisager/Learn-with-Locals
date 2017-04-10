@@ -254,7 +254,12 @@ header a {
 }
 
 /* --- Blog section --- */
-
+.blog-bio-photo {
+  border-radius: 50%;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+}
 
 /* --- Upskill pages --- */
 
@@ -263,6 +268,7 @@ header a {
     width: 80%;
     margin: auto;
 }
+
 
 .skills-images {
   margin: 5vh 0 0 0;s

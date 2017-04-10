@@ -40,7 +40,7 @@
 
       <h1>
         <div class="title">Join the crew</div>
-        <div class="strapline">Sign up now</div>
+        <div class="strapline">Sign up below</div>
       </h1>
     </section>
 
@@ -51,18 +51,19 @@
       Want to offer your skills or learn something new?
     </h2>
     <p> We're currently building our community and looking for people like you.</p>
-    <p> Sign up now and tell us about your kickass skillz.</p>
 
   </div>
 </section>
 
-<section class="sign-up-form">
+<section class="sign-up-form center">
+  <p> Sign up now and tell us about your kickass skillz:</p>
   <form method="POST" action="http://formspree.io/urisager@gmail.com">
   <input type="text" name="name" placeholder="Tell me your name">
   <input type="email" name="email" placeholder="Give me your email">
   <input type="text" id="location" name="location" placeholder="Where are you located?">
   <textarea name="what-will-you-teach" placeholder="What will you teach?" rows="5"></textarea>
   <textarea name="about-you" placeholder="Tell us a little about you" rows="5"></textarea>
+  <input type="hidden" name="_next" value="/index.html"/>
   <button type="submit" class="button">Send</button>
 </form>
 
