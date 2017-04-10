@@ -56,45 +56,33 @@
   </div>
 </section>
 
-			<section>
-				<form id="theForm" class="simform" autocomplete="off">
-					<div class="simform-inner">
-						<ol class="questions">
-							<li>
-								<span><label for="q1">Tell me your kickass skill(z)?</label></span>
-								<input id="q1" name="q1" type="text"/>
-							</li>
-							<li>
-								<span><label for="q2">If you don't kick ass just yet, tell me why?</label></span>
-								<input id="q2" name="q2" type="text"/>
-							</li>
-							<li>
-								<span><label for="q3">What are you gonna do about it?</label></span>
-								<input id="q3" name="q3" type="text"/>
-							</li>
-							<li>
-								<span><label for="q4">What book inspires you?</label></span>
-								<input id="q4" name="q4" type="text"/>
-							</li>
-							<li>
-								<span><label for="q5">If you're not the I'm-putting-down-my-phone-to-read-a-book-kinda-type, tell me what's your favorite tv-show then?</label></span>
-								<input id="q5" name="q5" type="text"/>
-							</li>
-							<li>
-								<span><label for="q6">What are you most excited about in your life right now?</label></span>
-								<input id="q6" name="q6" type="text"/>
-							</li>
-              <li>
-								<span><label for="q6">If you can't answer the above questions, go on...</label></span>
-								<input id="q6" name="q6" type="text"/>
-							</li>
-              <li>
-								<span><label for="q6">Now give me your email so I can review you skills and get back to you!</label></span>
-								<input id="q6" name="q6" type="text"/>
-							</li>
-						</ol><!-- /questions -->
-						<button class="submit" type="submit">Send answers</button>
-			</section>
+<section class="sign-up-form">
+  <form method="POST" action="http://formspree.io/urisager@gmail.com">
+  <input type="text" name="name" placeholder="Tell me your name">
+  <input type="email" name="email" placeholder="Give me your email">
+  <input type="text" id="location" name="location" placeholder="Where are you located?">
+  <textarea name="what-will-you-teach" placeholder="What will you teach?" rows="5"></textarea>
+  <textarea name="about-you" placeholder="Tell us a little about you" rows="5"></textarea>
+  <button type="submit" class="button">Send</button>
+</form>
+
+<!-- Google Maps -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9m-SiYb-AXaiPQzQ6hgcbJ12j30t69Ug&libraries=places"></script>
+  <script>
+    var input = document.getElementById('location');
+      var options = {
+        types: ['(regions)']
+      };
+
+    google.maps.event.addDomListener(input, 'keydown', function(e) {
+      if (e.keyCode == 13) {
+          e.preventDefault();
+      }
+    });
+
+    autocomplete = new google.maps.places.Autocomplete(input, options);
+  </script>
+</section>
 
 
     <!-- FOOTER -->
