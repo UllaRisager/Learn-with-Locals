@@ -269,7 +269,6 @@ header a {
     margin: auto;
 }
 
-
 .skills-images {
   margin: 5vh 0 0 0;s
 }
@@ -344,6 +343,7 @@ form button[type="submit"] {
   font-size: 1rem;
   font-family: 'Open Sans', serif;
 }
+
 /* --- Footer --- */
 footer {
   text-transform: uppercase;
@@ -360,6 +360,7 @@ footer i {
     font-size: 1em;
     margin: 0% 10px;
   }
+
 footer p {
   text-align: center;
   color: white;
