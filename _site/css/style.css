@@ -232,7 +232,6 @@ header a {
   text-align: center;
   padding: 8vh 0;
 }
-
 .sign-up-form {
   margin: auto 25%;
 }
@@ -240,8 +239,8 @@ header a {
 @media (max-width: 768px) {
   .sign-up-form {
     margin: auto;
-  }
 }
+
 .button {
   padding:0.5rem 1rem;
   border: 2px solid rgb(90,90,90);
@@ -288,9 +287,6 @@ color: rgb(72, 72, 72);
   text-align: center;
 }
 
-
-/* --- Sign up form ---*/
-
 /* --- About page --- */
 .about-section div {
   max-width: 850px;
@@ -300,8 +296,7 @@ color: rgb(72, 72, 72);
 
 /* --- Sign up section --- */
 
-form input,
-form textarea {
+form input, form textarea {
   width: 100%;
   margin: 0.5rem 0;
   padding: 0.5rem;
@@ -377,5 +372,4 @@ footer p {
   color: white;
   text-align: center;
   font-weight: lighter;
-
 }
