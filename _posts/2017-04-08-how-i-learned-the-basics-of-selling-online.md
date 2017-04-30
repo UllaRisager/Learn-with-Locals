@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How I learned the basics of selling online
-subtitle: Setting up an online shop
+title: A photography tour of Bali
+subtitle: Epic Instagram tour of Bali
 image_path: /uploads/how-to-start-an-e-commerce-shop.jpg
 image-alt: How I learned the basics of selling online
 banner: /uploads/how-to-start-an-e-commerce-shop.jpg

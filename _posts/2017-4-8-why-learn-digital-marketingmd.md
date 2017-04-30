@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Learning Yoga Helped Me Cope
-subtitle: Mindfullness and patience
+title: Why learn digital marketing in Bali?
+subtitle: Information overload
 image_path: /uploads/ashtanga-yoga-bali-sunset.jpg
 banner: /uploads/ashtanga-yoga-bali-sunset.jpg
 image-alt: How Learning Yoga Helped Me Cope
