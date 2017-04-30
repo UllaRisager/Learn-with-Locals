@@ -2,7 +2,7 @@
 layout: default
 title: Join the crew
 subtitle: Sign up below
-banner: /images/homepage/homepage-bg.jpg
+banner: /images/homepage/brooke-cagle-195777.jpg
 ---
 
 <!-- SIGN UP SECTION -->
@@ -18,15 +18,17 @@ banner: /images/homepage/homepage-bg.jpg
 </section>
 
 <section class="sign-up-form center">
-  <p> Sign up now and you'll be invited to our beta-launch:</p>
+  <p> Sign up for our beta-launch:</p>
   <form method="POST" action="http://formspree.io/urisager@gmail.com">
   <input type="text" name="name" placeholder="Name">
   <input type="email" name="email" placeholder="Email">
   <input type="text" id="location" name="location" placeholder="Where are you located?">
   <textarea name="what-will-you-teach" placeholder="What would you like to teach or learn?" rows="5"></textarea>
+  <textarea name="what-is-your-motivation" placeholder="What is your motivation for signing up?" rows="5"></textarea>
   <textarea name="about-you" placeholder="Tell us a little about you" rows="5"></textarea>
   <input type="hidden" name="_next" value="/index.html"/>
   <button type="submit" class="button">Send</button>
+  <input type="hidden" name="_next" value="../sign-up-thanks.html">
 </form>
 
 <!-- Google Maps -->
