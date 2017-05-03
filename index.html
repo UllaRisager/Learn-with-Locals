@@ -4,6 +4,7 @@ title: Learn with locals while you travel
 subtitle: Upskill and connect with likeminded people
 sign-up: <a class="button" href="/signup.html"> SIGN UP </a>
 banner: /images/homepage/bg-photography.jpg
+button: true
 ---
 <!--ABOUT BANNER SECTION  -->
 <section class="about-banner-section center">
@@ -25,7 +26,9 @@ banner: /images/homepage/bg-photography.jpg
         <div class='image-tile' style='background-image:url("{{ upskill.feature-image_path }}");'></div>
         <h3> {{ upskill.title }}</h3>
         <p class="snippet"> {{upskill.snippet}}</p>
-        <p class="details">{{upskill.location}}</earn with Localsdetails"> {{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+        <p class="details">{{upskill.location}}</p>
+        <p>Learn with Locals details</p>
+        <p>{{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
       </div>
     </a>
   {% endfor %}
@@ -86,8 +89,8 @@ banner: /images/homepage/bg-photography.jpg
   </h2>
   <!-- BLOG IMG 1 -->
   <div class="grid">
-    {% for post in site.posts %}
-    <a class="col-4_md-6_xs-12" href="{{post.url}}">
+    {% for post in site.posts limit:4%}
+    <a class="col-3_md-6_xs-12" href="{{post.url}}">
   <div class="padded">
     <img src="{{post.image_path}}" alt="{{post.image-alt}}">
     <h4>{{post.title}}</h4>
