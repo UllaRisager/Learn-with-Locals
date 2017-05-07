@@ -123,7 +123,7 @@ header a {
   z-index: 9999999999;
   padding: 8px;
 }
-/*this is where you can chand the color of the buttons*/
+
 .burger-button span{
   width: 25px;
   border: 2px solid white;
@@ -147,7 +147,7 @@ header a {
 .burger-bottom{
   bottom: 02px;
 }
-/* make sure this has the same top as the burger button has padding*/
+
 .burger-button.active .burger-top{
   position: absolute;
   top: 8px;
@@ -158,8 +158,6 @@ header a {
   transform: rotateZ(270deg);
   border-color: rgba(0,0,0,0)
 }
-
-/* make sure this has the same bottom as the burger button has padding*/
 
 .burger-button.active .burger-bottom{
   position: absolute;
@@ -196,13 +194,13 @@ header a {
 .burger-menu li{list-style:none}
 .dropdown-nav:hover .dropdown-content {
     display: block;
-} 
+}
 
 /* --- Top banner section --- */
 
 .top-banner-section h1 {
   font-weight: bold;
-  margin: 30vh 0 0 0;
+  margin: 28vh 0 0 0;
   color: white;
   letter-spacing: 4px;
 }
@@ -355,6 +353,8 @@ text-align: center;
   display: inline-block;
   transition: all 0.5s;
   border-radius: 7px;
+  background-color: rgba(30,30,30,0.2);
+
 }
 
 .black-button:hover {
