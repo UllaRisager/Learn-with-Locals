@@ -129,7 +129,7 @@ header a {
   border: 2px solid white;
   display: block;
   border-radius: 22px;
-  /*--transition: 2s;--*/
+  transition: 2s;
 }
 
 .burger-button.active span{
@@ -151,11 +151,11 @@ header a {
 .burger-button.active .burger-top{
   position: absolute;
   top: 8px;
-  /*--transform: rotateZ(45deg);--*/
+  transform: rotateZ(45deg);
 }
 
 .burger-button.active .burger-middle{
-  /*--transform: rotateZ(270deg);--*/
+  transform: rotateZ(270deg);
   border-color: rgba(0,0,0,0)
 }
 
@@ -164,7 +164,7 @@ header a {
 .burger-button.active .burger-bottom{
   position: absolute;
   bottom: 8px;
-  /*--transform: rotateZ(-45deg);--*/
+  transform: rotateZ(-45deg);
 }
 
 .burger-menu {
@@ -194,10 +194,9 @@ header a {
 }
 
 .burger-menu li{list-style:none}
-/*
 .dropdown-nav:hover .dropdown-content {
     display: block;
-} */
+} 
 
 /* --- Top banner section --- */
 
