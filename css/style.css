@@ -346,6 +346,10 @@ header a {
 text-align: center;
 }
 
+.sign-up-form, h5 {
+  padding: 5vh,0,0,0;
+}
+
 @media (max-width: 768px) {
   .sign-up-form {
     margin: auto;
