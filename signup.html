@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Join our community
-subtitle: Sign up to share your passion
+subtitle: Sign up and share your passion
 banner: /images/homepage/bg-photography.jpg
 ---
 
 <!-- SIGN UP SECTION -->
 <section class="about-section" class="center">
 <div>
-<h5> Learn with locals allows you to challenge yourself and connect with likeminded individuals.</h5>
+<h5> Learn with locals allows you to grow your skills while teaching others and connect with likeminded individuals while making money</h5>
   <h5>We belive that everybody has a passion and a set of skills they master and can teach others. Why not share your skills, make money and meet new people while doing so? You don't have to be a professional to teach - passion will do just fine.</h5>
 </div>
 </section>
@@ -18,23 +18,30 @@ banner: /images/homepage/bg-photography.jpg
     <h4>Join our community</h4>
   </div>
   <div>
-    <a class="black-button" target="_blank" href="https://instituteofcode.typeform.com/to/jy54Ug" rel="nofollow"> SIGN UP</a>
+    <a class="black-button" target="_blank" href="https://learnwithlocals.typeform.com/to/r9afK7" rel="nofollow"> SIGN UP</a>
 </div>
-<h5>Get beta access and 20% OFF any future Learning Experience.</h5>
+<h5>Get 20% OFF any future Learning Experience and early beta access.</h5>
+</section>
+
+<section class="blog-section center">
+  <h2>
+    Stories from the blog
+  </h2>
+  <!-- BLOG IMG 1 -->
+  <div class="grid">
+    {% for post in site.posts %}
+    <a class="col-3_md-6_xs-12" href="{{post.url}}">
+  <div class="padded">
+    <img src="{{post.image_path}}" alt="{{post.image-alt}}">
+    <h4>{{post.title}}</h4>
+    <p>{{post.snippet}}</p>
+  </div>
+  </a>
+    {% endfor %}
+  </div>
 </section>
 
 
-  <!-- <form method="POST" action="http://formspree.io/urisager@gmail.com">
-  <input type="text" name="name" placeholder="Name">
-  <input type="email" name="email" placeholder="Email">
-  <input type="text" id="location" name="location" placeholder="Where are you located?">
-  <textarea name="Skill-interest" placeholder="Which skill are you interested in learning/teaching?" rows="5"></textarea>
-  <textarea name="about-you" placeholder="Tell us a little about you" rows="5"></textarea>
-  <textarea name="where-did-you-hear-about-us" placeholder="Where did you hear about us?" rows="5"></textarea>
-  <input type="hidden" name="_next" value="/index.html"/>
-  <button type="submit" class="button">Send</button>
-  <input type="hidden" name="_next" value="../sign-up-thanks.html">
-</form>
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
  <!--<div class="addthis_inline_share_toolbox"></div>
