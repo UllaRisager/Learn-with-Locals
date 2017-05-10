@@ -1,17 +1,17 @@
 ---
 layout: post
 title: The story behind Learn with Locals
-subtitle: How Learn With Locals started with an idea
+subtitle: How LEARN WITH LOCALS started with an idea
 image_path: /uploads/story-learn-with-locals.jpg
 banner: /uploads/story-learn-with-locals.jpg
 image-alt: The story behind Learn with Locals
-snippet: How Learn With Locals started with an idea
+snippet: LEARN WITH LOCALS started with an idea...
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
 author-bio: Ulla is a kickass web developer
 ---
-Vinyl chambray authentic tumblr letterpress, flexitarian snackwave seitan tacos readymade. Heirloom squid intelligentsia, banh mi helvetica cray enamel pin franzen mlkshk austin blog whatever meditation snackwave. Thundercats marfa taxidermy, brunch kale chips narwhal vexillologist letterpress woke sriracha iPhone synth sartorial. Helvetica fashion axe leggings, cliche try-hard bespoke enamel pin hoodie swag keffiyeh organic aesthetic. Deep v kogi tilde next level mixtape. Shoreditch echo park pork belly intelligentsia meggings. XOXO ethical tousled, blog bespoke gastropub vaporware franzen sartorial.
+The idea of Learn With Locals started back in 2015 when I finished my graduate studies in Digital Marketing en E-commerce and I ws writing my final paper on how to innovate Airbnb's business model.
 
 ![Learning how to code](/images/blog/yoga_1.jpg)
 
