@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Why Learn With Locals?
-subtitle: The story behind Learn with Locals
+title: The story behind Learn with Locals
+subtitle: How Learn With Locals started with an idea...
 image_path: /uploads/story-learn-with-locals.jpg
 banner: /uploads/story-learn-with-locals.jpg
 image-alt: The story behind Learn with Locals
-snippet: The story behind Learn with Locals
+snippet: How Learn With Locals started with an idea...
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 11th 2017
