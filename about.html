@@ -8,8 +8,8 @@ banner: /images/homepage/bg-photography.jpg
 <!--Our story section  -->
 <section class="about-section" class="center">
 <div>
-<h5> Learn with locals allows you to find local learning experiences while traveling. Why not become a better photographer of brush up on your writing skills while exploring a destination through locals?</h5>
-<h5> We belive that traveling isn't just about moving and going somewhere but also being moved - which is why we've started Learn with locals so you can learn while you're traveling and connect with likeminded individuals.</h5>
+<h5> Learn with locals allows you to find local learning experiences while traveling. Why not become a better photographer of brush up on your writing skills while exploring a destination?</h5>
+<h5> We belive that traveling isn't just about going somewhere and moving - we travel because we want to be moved - which is why we've started Learn with locals so you can learn while you're traveling, challenge yourself and connect with likeminded individuals.</h5>
 </div>
 </section>
 
@@ -20,11 +20,20 @@ banner: /images/homepage/bg-photography.jpg
   </div>
 </section>
 
-
-
-<section class="about-section" class="center">
-    <div>
-    <h3>Our aim is to inspire you to learn and empower yourself and others</h3>
-    <h4>To cutlivate learning, Growth & Connection</h4>
+<section class="blog-section center">
+  <h2>
+    Stories from the blog
+  </h2>
+  <!-- BLOG IMG 1 -->
+  <div class="grid">
+    {% for post in site.posts %}
+    <a class="col-3_md-6_xs-12" href="{{post.url}}">
+  <div class="padded">
+    <img src="{{post.image_path}}" alt="{{post.image-alt}}">
+    <h4>{{post.title}}</h4>
+    <p>{{post.snippet}}</p>
+  </div>
+  </a>
+    {% endfor %}
   </div>
 </section>
