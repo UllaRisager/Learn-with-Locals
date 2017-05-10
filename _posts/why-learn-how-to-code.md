@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why learn digital marketing?
-subtitle: Information overload
+title: Why learn how to code?
+subtitle: Why I went to Bali to learn how to code
 image_path: /uploads/ashtanga-yoga-bali-sunset.jpg
 banner: /uploads/ashtanga-yoga-bali-sunset.jpg
 image-alt: How Learning Yoga Helped Me Cope
@@ -11,6 +11,8 @@ author-name: Ulla
 blog-date: May 10th 2017
 author-bio: Ulla is a kickass web developer
 ---
+
+
 Vinyl chambray authentic tumblr letterpress, flexitarian snackwave seitan tacos readymade. Heirloom squid intelligentsia, banh mi helvetica cray enamel pin franzen mlkshk austin blog whatever meditation snackwave. Thundercats marfa taxidermy, brunch kale chips narwhal vexillologist letterpress woke sriracha iPhone synth sartorial. Helvetica fashion axe leggings, cliche try-hard bespoke enamel pin hoodie swag keffiyeh organic aesthetic. Deep v kogi tilde next level mixtape. Shoreditch echo park pork belly intelligentsia meggings. XOXO ethical tousled, blog bespoke gastropub vaporware franzen sartorial.
 
 ![Learning how to code](/images/blog/yoga_1.jpg)
