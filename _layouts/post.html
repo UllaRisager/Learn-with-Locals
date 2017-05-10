@@ -4,15 +4,33 @@ layout: default
 
 <section class="grid">
   <div class="blog-post col-8_xs-12 padded">
+  <div class="blog-post col-8_xs-12">
     <h1> {{page.title}} </h1>
-    <div class="addthis_inline_share_toolbox"></div>
-    {{ content }}
+    <hr>
   </div>
-  <div class="col-4_xs-12 blog-bio">
+    <div class="blog-post col-8_xs-12 padded">
+      <h5>{{page.snippet}} </h5>
+    </div>
+    <div>
+    {{ content }}
+    <div class="addthis_inline_share_toolbox"></div>
+  </div>
+
+  </div>
+  </div>
+  <div class="col-4_xs-12 blog-bio padded">
     <img class="blog-bio-photo" src="{{ page.author-photo }}">
         <h5> Written by:</h5>
-        <p> {{ page.author-name }} </p>
-  <h4> About: </h4>
-    <p> {{ page.author-bio}} </p>
-  </div>
+          <h5> {{ page.author-name }} - {{ page.blog-date }}</h5>
+        <h4> About: </h4>
+          <p> {{ page.author-bio}} </p>
+          <script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/18901d70fb1a527e8f2fa6cf850780a5.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+          <section class="sign-up-section">
+            <div>
+              <h4>
+                Sign up now and receive 20% off your first Learning Experience!</h4>
+              <a class="black-button" target="_blank" href="https://learnwithlocals.typeform.com/to/r9afK7" rel="nofollow"> SIGN UP</a>
+            </div>
+          </section>
+
 </section>
