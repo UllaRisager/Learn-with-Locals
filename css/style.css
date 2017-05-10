@@ -338,6 +338,13 @@ header a {
   text-align: center;
   padding: 8vh 0;
 }
+
+.sign-up-section h4 {
+  text-align: center;
+  padding: 1vh 0;
+
+  }
+
 .sign-up-form {
   margin: auto 25%;
 }
@@ -362,6 +369,7 @@ text-align: center;
   transition: all 0.5s;
   border-radius: 7px;
   background-color: rgba(30,30,30,0.2);
+  margin:1rem 1rem;
 
 }
 

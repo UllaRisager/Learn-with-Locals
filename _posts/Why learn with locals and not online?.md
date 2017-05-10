@@ -10,7 +10,17 @@ author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 author-bio: Ulla is a kickass web developer
 ---
-Vinyl chambray authentic tumblr letterpress, flexitarian snackwave seitan tacos readymade. Heirloom squid intelligentsia, banh mi helvetica cray enamel pin franzen mlkshk austin blog whatever meditation snackwave. Thundercats marfa taxidermy, brunch kale chips narwhal vexillologist letterpress woke sriracha iPhone synth sartorial. Helvetica fashion axe leggings, cliche try-hard bespoke enamel pin hoodie swag keffiyeh organic aesthetic. Deep v kogi tilde next level mixtape. Shoreditch echo park pork belly intelligentsia meggings. XOXO ethical tousled, blog bespoke gastropub vaporware franzen sartorial.
+
+<section class="about-section" class="center">
+  <div>
+    <div>
+      <p>Learn with Locals started from the idea that traveling isn't just about going places, it is essentially about people and broadening your horizon. We call it learning, not only learning new skills, but also learning about yourself and about others.</p>
+    </div>
+    <img class="about-photo" src="/images/hosts/ulla.jpg">
+    <h4>Founder</h4>
+    <h4>Ulla Risager</h4>
+  </div>
+</section>
 
 ![Learning how to code](/images/blog/learn-how-to-code_3.jpg)
 
