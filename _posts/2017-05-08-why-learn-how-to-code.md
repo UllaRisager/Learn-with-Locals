@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why learn how to code?
-subtitle: Why I went to Bali to learn how to code
+subtitle: My top 5 reasons for learning how to code
 image_path: /uploads/ashtanga-yoga-bali-sunset.jpg
 banner: /uploads/ashtanga-yoga-bali-sunset.jpg
 image-alt: How Learning Yoga Helped Me Cope
