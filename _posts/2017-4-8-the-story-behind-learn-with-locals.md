@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The story behind Learn with Locals
-subtitle: I went traveling and ended up starting a business
-image_path: /uploads/ashtanga-yoga-bali-sunset.jpg
-banner: /uploads/ashtanga-yoga-bali-sunset.jpg
+subtitle: How I went traveling and ended up starting a business
+image_path: /uploads/story-learn-with-locals.jpg
+banner: /uploads/story-learn-with-locals.jpg
 image-alt: The story behind Learn with Locals
-snippet: I went traveling and ended up starting a business
+snippet: How I went traveling and ended up starting a business
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
