@@ -36,13 +36,13 @@ button: true
 
 <!-- TESTIMONIAL-SECTION -->
 <section class="grid">
-  <div class="col-4_md-6_xs-12 center">
+  <div class="col-4_xs-12 center">
       <img src="/images/general/cindy.jpg" alt="cindy.jpg" class="testimonial-image">
       <h3>Cindy</h3>
       <h5>Content Strategist</h5>
     </div>
     <div class="col-1 quote right">"</div>
-    <div class="col-6-middle testimonial-section center">
+    <div class="col-6_xs-12--middle testimonial-section center">
       I went on a 3 week holiday to Bali and wanted to learn something new and challenge myself, so I signed up for a 3 day coding experience with Tina. Can only recommend this to anyone wanting upskill and learn how to code - in paradise! :)
     <div class="col-1-bottom quote right">"</div>
   </div>
@@ -99,7 +99,7 @@ button: true
   </h2>
   <!-- BLOG IMG 1 -->
   <div class="grid">
-    {% for post in site.posts limit:4 %}
+    {% for post in site.posts limit:3 %}
     <a class="col-3_md-6_xs-12" href="{{post.url}}">
   <div class="padded">
     <img src="{{post.image_path}}" alt="{{post.image-alt}}">
