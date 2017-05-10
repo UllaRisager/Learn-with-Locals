@@ -9,8 +9,8 @@ button: true
 <!--ABOUT BANNER SECTION  -->
 <section class="about-banner-section center">
   <div>
-    <h5>Imagine going to Bali and instead of just doing the typical tourist stuff, you might be able to pick up a new skill and connect with likeminded locals.</h5>
-    <h5>Learn with Locals allows you to learn new skills from local experts while you're traveling.</h5>
+    <h5>Imagine going to Bali and instead of just chilling by the pool or doing the typical tourist stuff, you might be able to upgrade or pick up a new skill.</h5>
+    <h5>Learn with Locals allows you to learn new skills while connecting with likeminded people.</h5>
   </div>
 </section>
 
@@ -27,7 +27,7 @@ button: true
         <h3> {{ upskill.title }}</h3>
         <p class="snippet"> {{upskill.snippet}}</p>
         <p class="details">{{upskill.location}}</p>
-        <p>{{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</p>
+        <h5>{{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</h5>
       </div>
     </a>
   {% endfor %}
