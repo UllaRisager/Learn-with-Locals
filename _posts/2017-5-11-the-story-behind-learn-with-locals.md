@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Learn With Locals when you can learn online?
+title: Why Learn With Locals?
 subtitle: The story behind Learn with Locals
 image_path: /uploads/story-learn-with-locals.jpg
 banner: /uploads/story-learn-with-locals.jpg

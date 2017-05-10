@@ -131,7 +131,7 @@ header a {
 
 .burger-button span{
   width: 25px;
-  border: 2px solid white;
+  border: 2px solid black;
   display: block;
   border-radius: 22px;
   transition: 2s;
@@ -226,7 +226,6 @@ header a {
   padding: 0.4em;
   margin: 15px auto;
   border-radius: 0px;
-
 }
 
 .white-button {
