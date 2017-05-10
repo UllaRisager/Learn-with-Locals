@@ -497,8 +497,8 @@ footer {
   }
 
 footer i {
-    font-size: 1em;
-    margin: 0% 10px;
+  font-size: 1em;
+  margin: 0% 10px;
   }
 
 footer p {
@@ -513,4 +513,7 @@ footer p {
   color: white;
   text-align: center;
   font-weight: lighter;
+}
+.footer-styles {
+  color: white;
 }
