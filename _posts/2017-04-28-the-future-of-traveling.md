@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The future of traveling
-subtitle: We travel not only to  move, but because we want to 'be moved'...
+subtitle: We travel not only to  move, but because we want to 'be moved'
 image_path: /uploads/the-future-of-traveling.jpg
 banner: /uploads/the-future-of-traveling.jpg
 image-alt: The future of traveling
-snippet: We travel not only to  move, but because we want to 'be moved'...
+snippet: We travel not only to  move, but because we want to 'be moved'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
