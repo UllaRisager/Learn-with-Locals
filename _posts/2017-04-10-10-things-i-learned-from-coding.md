@@ -98,7 +98,7 @@ Give yourself some space and don't take things to seriously, have fun, exercise 
 
 ### 9. One step at the time
 
-Rome wasn't built in a day.
+Rome wasn't built in a day. I think that's enough said.
 
 ### &nbsp;
 
