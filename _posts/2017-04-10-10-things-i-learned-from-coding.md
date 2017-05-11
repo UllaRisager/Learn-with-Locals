@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 things I learned from coding
-subtitle: 'What I learned from coding, that isn’t actually about coding.'
+subtitle: 'What I learned from coding, that isn’t actually about coding'
 image_path: /uploads/why-learn-how-to-code.jpg
 banner: /uploads/why-learn-how-to-code.jpg
 image-alt: My top 5 reasons for learning how to code
