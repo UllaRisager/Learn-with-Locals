@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How I learned writing from a digital nomad journalist in Bali
-subtitle: I thought I could write, until I met Ali...
+subtitle: 'I thought I could write, until I met Ali...'
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
-snippet: I thought I could write, until I met Ali...
+snippet: 'I thought I could write, until I met Ali...'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 4th 2017
@@ -22,13 +22,9 @@ Turns our Ali had studied journalism, only she wasn’t really working within th
 
 She gave me a few tricks on writing and how to structure my content - that I would like to share with you here, because I just found this so useful, when I was feeling pretty lost:
 
-1.
+1. The first thing to do once you know more or less what your topic is, is to find your first liner, your headline. One way you can do this is to just empty your mind and let your thoughts lose. E.g. if your topic is journaling and how it has helped your heal, ask yourself what was the most important way journaling helped you heal? And the first and most important thing that comes to your mind, is usually your headline.
 
-The first thing to do once you know more or less what your topic is, is to find your first liner, your headline. One way you can do this is to just empty your mind and let your thoughts lose. E.g. if your topic is journaling and how it has helped your heal, ask yourself what was the most important way journaling helped you heal? And the first and most important thing that comes to your mind, is usually your headline.
-
-2.
-
-Secondly you wanna open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
+2.Secondly you wanna open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
 
 3.
 
@@ -36,11 +32,11 @@ Next up is your body, so just like coding, we also have a body when structuring 
 
 In this case I am going to add 3 points as my body, so point 1-3 could be something like this:
 
-It helped me organize my thoughts (5-8 sentences).
+1. It helped me organize my thoughts (5-8 sentences).
 
-It helped me reflect on my progress (5-8 sentences).
+2. It helped me reflect on my progress (5-8 sentences).
 
-It helped me feel less lonely (5-8 sentences).
+3. It helped me feel less lonely (5-8 sentences).
 
 4.
 
