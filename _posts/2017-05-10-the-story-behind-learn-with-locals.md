@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How being turned down by Airbnb made me start my own business.
+title: The story behind Learn With Locals
 subtitle: How being turned down by Airbnb made me start my own business.
 image_path: /uploads/story-learn-with-locals.jpg
 banner: /uploads/story-learn-with-locals.jpg
