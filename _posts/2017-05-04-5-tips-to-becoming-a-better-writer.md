@@ -22,6 +22,8 @@ Turns our Ali had studied journalism, only she wasn’t really working within th
 
 She gave me a few tricks on writing and how to structure my content - that I would like to share with you here, because I just found this so useful, when I was feeling pretty lost.
 
+&nbsp;
+
 ### 1. Headline
 
 The first thing to do once you know more or less what your topic is, is to find your first liner, your headline. One way you can do this is to just empty your mind and let your thoughts lose. E.g. if your topic is journaling and how it has helped your heal, ask yourself what was the most important way journaling helped you heal? And the first and most important thing that comes to your mind, is usually your headline.
