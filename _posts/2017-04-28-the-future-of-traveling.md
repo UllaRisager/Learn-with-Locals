@@ -5,7 +5,7 @@ subtitle: A Journey Of Inner Transformation
 image_path: /uploads/the-future-of-traveling-cuba.jpg
 banner: /uploads/the-future-of-traveling-cuba.jpg
 image-alt: The future of traveling cuba
-snippet: 'The future is not somewhere you go, it’s something you create'
+snippet: 'The future is not somewhere you go, it’s something you create..'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
@@ -62,6 +62,6 @@ To me, traveling is a journey of inner transformation, but it doesnt' have to st
 
 If you want to learn more about how you can become a part of our community where you can find unique learning experiences while traveling, read more here.
 
-######
+##### #
 
 ###### [Home](/)                   [Back to top](/2017/04/28/the-future-of-traveling.html)                 [More from the blog](/blog.html)
