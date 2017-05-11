@@ -18,9 +18,9 @@ I love writing, but there’s a very big difference between journaling and writi
 
 It wasn’t until I met Ali - a digital nomad, holistic health coach and journalist living in Ubud, Bali, that I realized just how bad my writing actually was.
 
-Turns our Ali had studied journalism, only she wasn’t really working within this field, instead she was a holistic health coach turned digital nomad - who just happened to be at the same co-workation with Institute Of Code that I was also attending.
+Turns our Ali had studied journalism, only she wasn’t really working within this field, instead she was a holistic health coach turned digital nomad - who just happened to be at the same co-workation with [The Institute Of Code](http://www.instituteofcode.com/) that I was also attending.
 
-She gave me a few tricks on writing and how to structure my content - that I would like to share with you here, because I just found this so useful, when I was feeling pretty lost.
+She gave me a few tricks on writing and how to structure my content - that I would like to share with you here.
 
 &nbsp;
 
