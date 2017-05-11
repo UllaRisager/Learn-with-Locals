@@ -14,9 +14,9 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-When we think of traveling, we mostly think or packing a bad a going somewhere, physically, geographically.
+When we think of traveling most people think or packing a bag and going somewhere physically and geographically - moving.
 
-But traveling can also be an inner journey - an inner Transformation and this type of trip is really all about how we experience the journey viscerally and how it changes our current worldview.
+But traveling can also be an inner journey - an inner transformation and this type of trip is all about "being moved" and how we experience the journey viscerally.
 
 [Alain de Botton](http://alaindebotton.com/), renowned Author, Philosopher and founder of ‘The School of Life’ said that:
 
