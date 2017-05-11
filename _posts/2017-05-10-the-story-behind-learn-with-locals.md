@@ -16,7 +16,7 @@ author-about: Follow her on instagram @ulla_nuna.
 
 Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA project paper:
 
-"How to innovate Airbnb’s Business Model?"
+"How to innovate [Airbnb](https://www.airbnb.com/)’s Business Model?"
 
 I came up with the idea of offering Airbnb's, already huge community, of guests’ and travelers a new way of experiencing a destination through real-life experiences.
 
@@ -112,7 +112,7 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or i
 
 I went to Bali to learn how to code, and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
-I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of Airbnb’s Trip Experiences because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
+I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of [Airbnb’s Trip Experiences](https://www.airbnb.com/s/experiences) because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
 
 &nbsp;
 
