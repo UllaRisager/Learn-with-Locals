@@ -56,8 +56,6 @@ It could be baby-boomers who were retired, Millennials who were creating a caree
 
 #### &nbsp;
 
-&nbsp;
-
 #### When I pitched my idea to Chip
 
 Well turns out, I took this idea and went and met [Chip Conley](https://chipconley.com/), who was the Head of Global Hospitality and Strategy at Airbnb at the time.
