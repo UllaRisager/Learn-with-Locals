@@ -81,6 +81,7 @@ hr {
   width: 90px;
   margin: auto;
 }
+
 hr.grey-line {
   width:100%;
   margin: 2rem auto;
@@ -95,9 +96,11 @@ hr.grey-line {
 .right {
   text-align: right;
 }
+
 .left {
   text-align: left;
 }
+
 .padded {
   padding: 5%;
 }
@@ -333,6 +336,7 @@ header a {
     background-color: rgba(60,60,60,0.9);
     transition: all 0.5s;
 }
+
 .overlay:hover h4 {
     margin-top: -5px;
     transition: all 0.5s;
@@ -348,8 +352,7 @@ header a {
 .sign-up-section h4 {
   text-align: center;
   padding: 1vh 0;
-
-  }
+}
 
 .sign-up-form {
   margin: auto 25%;
@@ -399,7 +402,6 @@ text-align: center;
   margin: auto;
   padding: 2rem 1rem;
   text-align: center;
-
 }
 /* --- Upskill pages --- */
 
@@ -470,6 +472,7 @@ form input[type="checkbox"]{
   margin:0.5rem 0;
   font-size: 0.8rem;
 }
+
 .checkboxes {
   margin: 0 0 1.5em;
   padding:0!important;
@@ -524,6 +527,7 @@ footer p {
   text-align: center;
   font-weight: lighter;
 }
+
 .footer-styles {
   color: white;
 }
