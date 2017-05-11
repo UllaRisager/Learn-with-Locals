@@ -86,7 +86,9 @@ I’ve even sent direct emails to Brian Chesky - CEO of Airbnb - twice!
 
 And I think I also semi-stalked his girlfriend [@elissapatel](https://www.instagram.com/elissapatel/) at some point on [Instagram](https://www.instagram.com/elissapatel/), (now I’m just stalking her because I actually think she’s seriously cool).
 
-Anyways, my point is, I ended up giving up - I told myself I wouldn’t give up, but I did, so here I am.
+Anyways, my point is, I ended up giving up.
+
+I told myself I wouldn’t give up, but I did, so here I am.
 
 **Maybe "giving up" was exactly what led me here** - to creating Learn With Locals.
 
