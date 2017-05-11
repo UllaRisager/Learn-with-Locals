@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Five tips to becoming a better writer
-subtitle: 'I thought I could write, until I met Ali in Bali...'
+subtitle: 'So I thought I could write, until I met Ali, a holistic health coach and journalist in Bali'
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
-snippet: 'I thought I could write, until I met Ali in Bali...'
+snippet: So I thought I could write, until I met Ali, a holistic health coach and journalist in Bali
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulllabulla
 blog-date: May 4th 2017
@@ -16,7 +16,7 @@ author-about: Follow her on instagram @ulla_nuna.
 
 I love writing, but there’s a very big difference between journaling and writing content for others to read.
 
-It wasn’t until I met Ali - a digital nomad living in Ubud, Bali, that I realized just how bad my writing actually was.
+It wasn’t until I met Ali - a digital nomad, holistic health coach and journalist living in Ubud, Bali, that I realized just how bad my writing actually was.
 
 Turns our Ali had studied journalism, only she wasn’t really working within this field, instead she was a holistic health coach turned digital nomad - who just happened to be at the same co-workation with Institute Of Code that I was also attending.
 
