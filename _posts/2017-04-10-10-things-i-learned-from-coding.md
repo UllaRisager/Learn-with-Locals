@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 10 things I learned from coding
-subtitle: 'What I learned from coding, that isn’t actually about coding'
+subtitle: 'What I learned from coding, that wasn’t actually about coding'
 image_path: /uploads/why-learn-how-to-code.jpg
 banner: /uploads/why-learn-how-to-code.jpg
 image-alt: My top 5 reasons for learning how to code
-snippet: 'What I learned from coding, that isn’t actually about coding.'
+snippet: 'What I learned from coding, that wasn’t actually about coding.'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 10th 2017
@@ -18,7 +18,7 @@ A while back I attended a 10 day coding bootcamp in Bali with [The Institute Of 
 
 Apart from learning the basics of HTML and CSS, etc. learning how to code isn’t ONLY about the technical stuff, it’s just as much about the personal development and the inner journey - at least it was for me.
 
-So here are 10 things I learned from coding - that isn’t actually about coding:
+So here are 10 things I learned from coding - that wasn’t actually about coding:
 
 ### &nbsp;
 
