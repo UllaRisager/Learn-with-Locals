@@ -46,7 +46,11 @@ I think it is extremely interesting to try and understand this shift and the soc
 
 Everything that we are surrounded by only makes sense in a world where we feel like we belong.
 
+&nbsp;
+
 ![](/uploads/versions/we-love-to-travel---x----1520-1530x---.png)
+
+&nbsp;
 
 Traveling is not simply a destination anymore, but it revolves around the people who make up the atmosphere of a given place, which is creating a visceral place inside of us.
 
@@ -58,10 +62,10 @@ To sum up, traveling is no longer only about the trip or the destination - but i
 
 Death is the only sure and inevitable thing in this world and I’m just trying to make sure I’m prepared to let go when that time comes. I do not want to wake up one day thinking, “what if” and feeling strong emotions of regret for the things I never did, the words I never said, the feelings I never felt and the dreams I never lived.
 
-To me, traveling is a journey of inner transformation, but it doesnt' have to start with going somewhere, it can start within and…with a simple thought - to challenge yourself - that is the future of traveling.
+To me, traveling is a journey of inner transformation, but it doesn't have to start with going somewhere, it can start within and with a simple thought - to challenge yourself - that is the future of traveling.
 
 If you want to learn more about how you can become a part of our community where you can find unique learning experiences while traveling, read more here.
 
-##### #
+&nbsp;
 
-###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/28/the-future-of-traveling.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More from the blog](/blog.html)
+[Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/28/the-future-of-traveling.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More from the blog](/blog.html)
