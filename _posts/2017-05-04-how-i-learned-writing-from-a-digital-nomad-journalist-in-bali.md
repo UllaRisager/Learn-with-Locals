@@ -1,5 +1,6 @@
 ---
 layout: post
+banner-class: dark-class
 title: How I learned writing from a digital nomad journalist in Bali
 subtitle: 'I thought I could write, until I met Ali...'
 image_path: /uploads/become-a-better-writer.jpg
@@ -7,7 +8,7 @@ banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
 snippet: 'I thought I could write, until I met Ali...'
 author-photo: /images/blog/author/ulla.jpg
-author-name: Ulla
+author-name: Ulllabulla
 blog-date: May 4th 2017
 author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.

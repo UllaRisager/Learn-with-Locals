@@ -102,6 +102,10 @@ hr.grey-line {
   padding: 5%;
 }
 
+.dark-class {
+  color: black;
+  border-color: black;
+}
 
 /* --- Header --- */
 
@@ -501,6 +505,10 @@ footer {
 footer i {
   font-size: 1em;
   margin: 0% 10px;
+  }
+
+  footer a {
+    color: white;
   }
 
 footer p {
