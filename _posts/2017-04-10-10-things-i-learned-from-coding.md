@@ -40,7 +40,7 @@ However, the feeling of being able to fix your own bug or fix broken code it jus
 
 ### &nbsp;
 
-### 3. Being a perfectionist has its good and bad sides.
+### 3. Being a perfectionist has its good and bad sides
 
 Being attentive to detail is good, but you certainly don’t have to be perfect. , but you don’t have to be a perfectionist, in the sense that it’s ok if you would like to make things a little&nbsp; bit prettier but don’t know how to do that, then let it be, take a break and live with it, it’s ok, nobody is gonna notice but you.
 
@@ -48,11 +48,11 @@ Sometimes you have to just let it go and be ok with that nagging little error th
 
 ### &nbsp;
 
-### 4. Be patient. Be patient. Be patient&nbsp;
+### 4. Be patient. Be patient. Be patient!&nbsp;
 
 Patience is really key when learning how to code.
 
-***Why?***
+**Why?**
 
 Because you won’t understand everything and that’s ok, but you just have to be patient and be ok with that. I don’t know if my patience has actually improved that much, but I do know that I've become so much more aware of it now than ever before.
 
