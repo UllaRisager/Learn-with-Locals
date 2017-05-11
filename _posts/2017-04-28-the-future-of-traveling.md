@@ -56,7 +56,7 @@ I personally believe that when we’re traveling, we’re of course moving, but 
 
 Because death and taxes are the only sure and inevitable things in this world and I’m just trying to make sure I’m prepared to let go when that time comes. I do not want to wake up one day thinking, “what if” and feeling regret for the things I never did, the words I never said, the feelings I never felt and the dreams I never lived.
 
-To me, traveling truly is a journey of inner transformation, but it doesn't have to start with going somewhere, it can start with learning something new, like coding, with challenging yourself - that to me is the only true future of traveling.
+To me, traveling truly is a journey of inner transformation, but it doesn't have to start with going somewhere, it can start with learning something new, like coding, with challenging yourself this, to me, is the only true way of traveling.
 
 If you want to learn more about how you can become a part of our community where you can find or teach unique learning experiences while traveling, read more [here.](/signup.html)
 
