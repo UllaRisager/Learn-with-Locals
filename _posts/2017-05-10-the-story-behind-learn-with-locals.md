@@ -112,17 +112,13 @@ I tweaked my original concept to fit my own needs, because to be honest, I’ve 
 
 ### The philosophy behind the idea
 
-I believe that the future is not somewhere you go, but you create your own future.
-
-Because we have become more informed than ever, more connected than ever we're also burdened by information overload, so we will start to look for emotional connection and empowerment in all areas of life and ask ourselves: “How can I get more out of my life?”.
+We have become more informed than ever, more connected than ever, but also burdened by information overload, so because of this, we will look for emotional connection and empowerment in all areas of life and ask ourselves: “How can I get more out of my life?”.
 
 This happened to me after survivng the Paris Terrorist Attack in 2015.
 
-I think most people who are at a certain stage in their life want to have life-fulfullling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
+I think most people truly want to have life-fulfullling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
 
-So for me, it really all revolves around people, connections and learning - because traveling is no longer only about the trip and the destination - but it is about how we experience a trip viscerally and how it changes our worldview.
-
-This is what I am trying to touch upon by starting Learn With Locals - so that we can allow people to reach for for personal fulfillment and enriched lives, through experiences, connections and learning.
+I believe this is [the future of traveling](/2017/04/28/the-future-of-traveling.html) and something that I truly want to touch upon by starting Learn With Locals - so that we can allow people to reach for for personal fulfillment and enriched lives, through experiences, connections and learning.
 
 ##### &nbsp;
 
