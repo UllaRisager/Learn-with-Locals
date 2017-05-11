@@ -20,7 +20,7 @@ The future is not somewhere you go, it’s something you create - just like you 
 
 So what exactly is a journey?
 
-Alain de Botton, renowned Author, Philosopher and founder of ‘The School of Life’ said that:
+[Alain de Botton](http://alaindebotton.com/), renowned Author, Philosopher and founder of ‘The School of Life’ said that:
 
 > &nbsp;“A journey is a process of feeling and inner transformation  and travel is a psychological experience and the psychological ingredient of happiness is why we travel.”&nbsp;
 
