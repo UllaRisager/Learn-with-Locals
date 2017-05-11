@@ -129,3 +129,7 @@ I think most people who are at a certain stage in their life want to have life-f
 So for me, it really all revolves around people, connections and learning - because traveling is no longer only about the trip and the destination - but it is about how we experience a trip viscerally and how it changes our worldview.
 
 This is what I am trying to touch upon by starting Learn With Locals - so that we can allow people to reach for for personal fulfillment and enriched lives, through experiences, connections and learning.
+
+##### &nbsp;
+
+###### [Back to top!](/2017/05/10/the-story-behind-learn-with-locals.html)
