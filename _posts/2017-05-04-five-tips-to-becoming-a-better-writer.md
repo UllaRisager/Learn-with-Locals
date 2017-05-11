@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Five tips to becoming a better writer
-subtitle: How I upskilled my writing through a holistic health coach and journalist in Bali
+subtitle: How I upskilled my writing in Bali
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
-snippet: 'How I upskilled my writing when I met Ali, a holistic health coach and journalist in Bali'
+snippet: How I upskilled my writing in Bali
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 4th 2017
