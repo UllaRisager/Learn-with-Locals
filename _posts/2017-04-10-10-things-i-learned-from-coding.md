@@ -42,9 +42,9 @@ However, the feeling of being able to fix your own bug or fix broken code it jus
 
 ### 3. Being a perfectionist has its good and bad sides
 
-Being attentive to detail is good, but you certainly don’t have to be perfect. , but you don’t have to be a perfectionist, in the sense that it’s ok if you would like to make things a little&nbsp; bit prettier but don’t know how to do that, then let it be, take a break and live with it, it’s ok, nobody is gonna notice but you.
+Being attentive to detail is good, but you certainly don’t have to be perfect. Being a perfectionist can be a good and bad thing, in the sense that it’s ok if you would like to make things, like elements on your site a little bit prettier but don’t know how to do that, then let it be, take a break and live with it, it’s ok, nobody is gonna notice but you.
 
-Sometimes you have to just let it go and be ok with that nagging little error that you know is somewhere deep down inside your CSS, but nobody can see but you - I’ve definitely learned this the rather frustrating hard way as I am very perfectionist.
+Sometimes you have to just let it go and be ok with that nagging little error that you know is somewhere deep down inside your CSS, but nobody can see but you - I’ve definitely learned this the rather frustrating way as I am quite the perfectionist.
 
 ### &nbsp;
 
