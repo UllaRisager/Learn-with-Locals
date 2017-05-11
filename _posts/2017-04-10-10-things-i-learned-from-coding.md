@@ -56,7 +56,7 @@ Patience is really key when learning how to code.
 
 Because you won’t understand everything and that’s ok, but you just have to be patient and be ok with that. I don’t know if my patience has actually improved that much, but I do know that I've become so much more aware of it now than ever before.
 
-Especially when it comes to coding, sometimes there will be things out of your control, like poor internet connection or some line of code is acting weird and you don’t know why, if you can't be patient and you rush to try and fix it, you might end up doing even &nbsp;more damage.
+Especially when it comes to coding, sometimes there will be things out of your control, like poor internet connection or some line of code is acting weird and you don’t know why, if you can't be patient and you rush to try and fix it, you might end up doing even more damage.
 
 Instead, maybe that error will fix itself or you will think of a solution later on, so as with everything in life, patience is key to learning.
 
