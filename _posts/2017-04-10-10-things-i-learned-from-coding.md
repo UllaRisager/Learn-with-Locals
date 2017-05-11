@@ -110,12 +110,14 @@ Never giving up, never give up on practicing, playing around, discovering new to
 
 &nbsp;
 
-<br>![Learning how to code](/images/blog/learn-how-to-code_5.jpg)
+If you're interested in getting a taste of coding and web development, check out out our&nbsp;[3 day Web Development learning experience in Bali.](/upskills/learn-web-development.html)
 
 &nbsp;
 
-If you're interested in getting a taste of coding and web develpment, check out out our&nbsp;[3 day Web Development learning experience in Bali.](/upskills/learn-web-development.html)
+<br>![Learning how to code](/images/blog/learn-how-to-code_5.jpg)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAACWCAYAAACW5+B3AAAE0UlEQVR4Xu3UQQkAMAwEwca/k5hsoSL2NTFwMISd3b3HESBAgEAmMMKbWRsiQIDAFxBej0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQEF4/QIAAgVhAeGNwcwQIEBBeP0CAAIFYQHhjcHMECBAQXj9AgACBWEB4Y3BzBAgQeEl6wOSLDs9SAAAAAElFTkSuQmCC)
+###### &nbsp;
 
-###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/10/10-things-i-learned-from-coding.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More from the blog](/blog.html)
+&nbsp;
+
+###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/10/10-things-i-learned-from-coding.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More stories](/blog.html)
