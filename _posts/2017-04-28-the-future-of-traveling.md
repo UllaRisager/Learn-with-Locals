@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: The Future of Traveling
 subtitle: A Journey Of Inner Transformation
 image_path: /uploads/the-future-of-traveling-cuba.jpg
 banner: /uploads/the-future-of-traveling-cuba.jpg
