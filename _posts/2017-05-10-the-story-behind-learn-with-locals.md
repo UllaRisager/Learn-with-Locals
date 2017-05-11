@@ -34,6 +34,8 @@ This person could be anyone, your mom or dad, your aunt or cousin.
 
 It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
 
+#### ![](/uploads/versions/the-local---x----1261-1542x---.png)
+
 #### A lot of options here, agree?
 
 Well turns out, I took this idea and went and met Chip Conley, who was the Head of Global Hospitality and Strategy at Airbnb at the time.
