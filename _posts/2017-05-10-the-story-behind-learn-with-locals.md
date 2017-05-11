@@ -128,9 +128,9 @@ I tweaked my original concept to fit my own needs, because to be honest, I’ve 
 
 We have become more informed than ever, more connected than ever, but also burdened by information overload, so because of this, we will look for emotional connection and empowerment in all areas of life and ask ourselves: “How can I get more out of my life?”.
 
-This happened to me after survivng the Paris Terrorist Attack in 2015.
+This happened to me after surviving the Paris Terrorist Attack in 2015.
 
-I think most people truly want to have life-fulfullling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
+I think most people truly want to have life-fulfilling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
 
 I believe this is [the future of traveling](/2017/04/28/the-future-of-traveling.html) and something that I truly want to touch upon by starting Learn With Locals - so that we can allow people to reach for for personal fulfillment and enriched lives, through experiences, connections and learning.
 
