@@ -80,7 +80,7 @@ I am not lying when I tell you that I've sent over 12 job applications through f
 
 I made it to the last round for one role but was declined only to find that the role had been taken down.
 
-I’ve talked to a dozen of recruiters, taken online tests and made self-promotional videos.
+I’ve talked to a dozen recruiters, taken online tests and made self-promotional videos.
 
 I’ve even sent direct emails to Brian Chesky - CEO of Airbnb - twice!
 
