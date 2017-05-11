@@ -62,9 +62,13 @@ Instead, maybe that error will fix itself or you will think of a solution later 
 
 ### &nbsp;
 
-### 5. Keep learning and it’s amazing what you can do
+### 5. Keep learning and continue to practice, practice, practice&nbsp;
 
-It really is amazing what you can do with the internet these days and if you keep learning, you will be able to build a lot of stuff, it’s one thing that you will be aware of when learning how to code.
+It really is amazing what you can do if you keep learning and practicing.
+
+Think about kids when learning how to code, because kids never give up, they just keep going and going until they've mastered what they set out to do - and so should you!
+
+So keep this in mind when learning.
 
 &nbsp;
 
@@ -98,10 +102,14 @@ Rome wasn't built in a day.
 
 &nbsp;
 
-### 10. Persevere and continue to practice, practice, practice&nbsp;
+### 10. Always persevere&nbsp;
 
-Keeping this in mind will help you a long way.
+Never giving up, never give up on practicing, playing around, discovering new tools and tricks and reading up on new developments and most importantly, being curious.
 
-![Learning how to code](/images/blog/learn-how-to-code_3.jpg)
+(I am writing this one for me too!)
+
+If you're interested in getting a taste of coding and web develpment, check out out our&nbsp;[3 day Web Development learning experience in Bali.](/upskills/learn-web-development.html)
+
+&nbsp;
 
 ![Learning how to code](/images/blog/learn-how-to-code_5.jpg)
