@@ -13,17 +13,21 @@ author-bio: "Always curious and on the move, that's how Ulla describes herself. 
 author-about: Follow her on instagram @ulla_nuna.
 ---
 
+
 Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA project paper:
 
 "How to innovate Airbnb’s Business Model?"
 
- I came up with the idea of offering Airbnb's, already huge community, of guests’ and travelers a new way of experiencing a destination through real-life experiences.
+I came up with the idea of offering Airbnb's, already huge community, of guests’ and travelers a new way of experiencing a destination through real-life experiences.
 
 #### I called this concept ‘Meet a Local’
 
 It would give Airbnb Hosts and local people a chance to create new sources of income while helping people experience their destination in new and meaningful ways.
 
+![](/uploads/versions/meet-a-local---x----1242-1550x---.png)
+
 #### 'The Local'
+
 Airbnb’s new segment; ‘The Local’ would be a person who could offer unique cultural experiences from design, photography and street art, to ethnic food tours, private dinners, beer tastings and underground history, sightseeing and immersive cultural exchanges.
 
 This person could be anyone, your mom or dad, your aunt or cousin.
