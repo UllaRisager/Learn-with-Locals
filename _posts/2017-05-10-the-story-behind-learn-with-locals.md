@@ -118,7 +118,7 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or p
 
 ### The birth of Learn With Locals
 
-**I closed that chapter** and started thinking about my concept of ‘Meet A Local’.
+**I closed that chapter and started thinking about my concept of ‘Meet A Local’.**
 
 [I went to Bali to learn how to code](/2017/04/10/what-I-learned-from-coding.html), and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
