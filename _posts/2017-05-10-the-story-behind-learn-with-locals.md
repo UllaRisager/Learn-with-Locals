@@ -26,8 +26,6 @@ I came up with the idea of offering Airbnb's already huge community of guests’
 
 #### ![](/uploads/versions/meet-a-local---x----1242-1550x---.png)
 
-&nbsp;
-
 It would give Airbnb Hosts and local people a chance to create new sources of income while helping people experience their destination in new and meaningful ways.
 
 #### &nbsp;
@@ -36,19 +34,11 @@ It would give Airbnb Hosts and local people a chance to create new sources of in
 
 ![](/uploads/versions/profile-local---x----1263-1540x---.png)
 
-&nbsp;
-
 Airbnb’s new segment; ‘The Local’ would be a person who could offer unique cultural experiences from design, photography and street art, to ethnic food tours, private dinners, beer tastings and underground history, sightseeing and immersive cultural exchanges.
-
-&nbsp;
 
 ![](/uploads/versions/the-local---x----1261-1542x---.png)
 
-&nbsp;
-
 This person could be anyone, your mom or dad, your aunt or cousin. It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and were looking for other ways to make a living.
-
-&nbsp;
 
 #### ![](/uploads/versions/become-a-local---x----1274-1544x---.png)
 
@@ -114,8 +104,6 @@ I didn’t even bother to look at my google analytics because I knew that no-one
 
 I guess Airbnb's creativity hasn’t yet permeated into their HR department or perhaps it was never meant to.
 
-&nbsp;
-
 ### The birth of Learn With Locals
 
 **I closed that chapter and started thinking about my concept of ‘Meet A Local’.**
@@ -123,8 +111,6 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or p
 [I went to Bali to learn how to code](/2017/04/10/what-I-learned-from-coding.html), and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
 I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of [Airbnb’s Trip Experiences](https://www.airbnb.com/s/experiences) because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
-
-&nbsp;
 
 ### The philosophy behind the idea
 
@@ -138,4 +124,4 @@ I believe this is [the future of traveling](/2017/04/28/the-future-of-traveling.
 
 ##### &nbsp;
 
-###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[Back to top](/2017/05/10/the-story-behind-learn-with-locals.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More stories](/blog.html)
+###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/05/10/the-story-behind-learn-with-locals.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More stories](/blog.html)
