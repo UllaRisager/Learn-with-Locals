@@ -42,11 +42,29 @@ However, the feeling of being able to fix your own bug or fix broken code it jus
 
 ### 3. Being a perfectionist has its good and bad sides.
 
-Being attentive to detail is good, but you certainly don’t have to be perfect. , but you don’t have to be a perfectionist, in the sense that it’s ok if you would like to make things a little&nbsp; bit prettier but don’t know how to do that, then let it be, take a break and live with it - it’s ok, nobody is gonna notice but you. Sometimes you have to just let it go and be ok with that nagging little error that you know is somewhere deep downside your CSS, but nobody can see but you - I’ve definitely learned this the hard way.
+Being attentive to detail is good, but you certainly don’t have to be perfect. , but you don’t have to be a perfectionist, in the sense that it’s ok if you would like to make things a little&nbsp; bit prettier but don’t know how to do that, then let it be, take a break and live with it, it’s ok, nobody is gonna notice but you.
 
-Be patient. Be patient. Be patient&nbsp; Patience is really key when learning how to code. Why? Because you won’t understand everything and that’s ok, but you just have to be patient and be ok with that. I don’t know if my patience has actually improved, but I am so much more aware of it now than ever before. Especially now I know that when it comes to coding, sometimes there will be things out of your control, like poor internet connection or something is acting weird and you don’t know why, if you can stay patient, maybe that error will fix itself or you will think of a solution later on, so with everything in life, patience is key to learning.
+Sometimes you have to just let it go and be ok with that nagging little error that you know is somewhere deep down inside your CSS, but nobody can see but you - I’ve definitely learned this the rather frustrating hard way as I am very perfectionist.
 
-Keep learning and it’s amazing what you can do. It really is amazing what you can do with the internet these days and if you keep learning, you will be able to build a lot of stuff, it’s one thing that you will be aware of, not saying that I am doing it, but I am aware of how that all works now.
+### &nbsp;
+
+### 4. Be patient. Be patient. Be patient&nbsp;
+
+Patience is really key when learning how to code.
+
+***Why?***
+
+Because you won’t understand everything and that’s ok, but you just have to be patient and be ok with that. I don’t know if my patience has actually improved that much, but I do know that I've become so much more aware of it now than ever before.
+
+Especially when it comes to coding, sometimes there will be things out of your control, like poor internet connection or some line of code is acting weird and you don’t know why, if you can't be patient and you rush to try and fix it, you might end up doing even &nbsp;more damage.
+
+Instead, maybe that error will fix itself or you will think of a solution later on, so as with everything in life, patience is key to learning.
+
+### &nbsp;
+
+### 5. Keep learning and it’s amazing what you can do.
+
+It really is amazing what you can do with the internet these days and if you keep learning, you will be able to build a lot of stuff, it’s one thing that you will be aware of, not saying that I am doing it, but I am aware of how that all works now.
 
 You don’t have to remember everything. You can google anything. I’ve also learned to be a better google. Yes, before I wasn’t so sure how I could google things, but now I’ve learned that you can google almost anything
 
