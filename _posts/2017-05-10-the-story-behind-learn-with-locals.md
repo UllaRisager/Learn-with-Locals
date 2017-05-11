@@ -24,7 +24,11 @@ I came up with the idea of offering Airbnb's, already huge community, of guestsâ
 
 #### ![](/uploads/versions/meet-a-local---x----1242-1550x---.png)
 
+&nbsp;
+
 It would give Airbnb Hosts and local people a chance to create new sources of income while helping people experience their destination in new and meaningful ways.
+
+#### &nbsp;
 
 #### 'The Local'
 
@@ -38,7 +42,15 @@ This person could be done by anyone, your mom or dad, your aunt or cousin.
 
 It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenXâ€™ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
 
-#### A lot of options here, agree?
+&nbsp;
+
+#### ![](/uploads/versions/become-a-local---x----1274-1544x---.png)
+
+#### &nbsp;
+
+#### When I pitched my idea to Chip
+
+&nbsp;
 
 Well turns out, I took this idea and went and met Chip Conley, who was the Head of Global Hospitality and Strategy at Airbnb at the time.
 
