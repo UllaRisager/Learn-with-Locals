@@ -1,18 +1,21 @@
 ---
 layout: post
 title: The story behind Learn with Locals
-subtitle: How being turned down by Airbnb made me start my own business.
+subtitle: How being turned down by Airbnb made me start my own business
 image_path: /uploads/story-learn-with-locals.jpg
 banner: /uploads/story-learn-with-locals.jpg
 image-alt: The story behind Learn with Locals
-snippet: LEARN WITH LOCALS started with an idea...
+snippet: How being turned down by Airbnb made me start my own business
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
-author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
+author-bio: Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals.
 author-about: Follow her on instagram @ulla_nuna.
 ---
+The idea of Learn With Locals started back in 2015 when I finished my graduate studies in Digital Marketing en E-commerce and I ws writing my final paper on how to innovate Airbnb's business model.
 
+
+The story behind Learn With Locals
 
 How being turned down by Airbnb made me start my own business.
 
@@ -40,7 +43,7 @@ I’m not embarrassed to mention this, because maybe “giving up” was exactly
 
 I think what finally led me to stop chasing down a job with Airbnb was when I was traveling in Mexico and the perfect job came up, market manager for their new Trips Experiences, no 10 year experience needed, just an entrepreneurial outlook and willingness to travel, sounded like the perfect role for me, so I applied, but I didn’t create a standard Cover Letter - no way, I created a web site and hooked it up with google analytics to track visits. I then sent it off and 2 days later, i got a reply back that I was not suitable for the role, I then went and looked at the analytics, only to find that no one had visited my page, so I tracked down the Head recruiter in Dublin, Ireland and sent er an in mail through Linkedin, it worked, two days later the role had been taken down, deleted everywhere, I had just spent so much time making my application and it was taken down. I was pretty upset and angry to be honest.
 
-Then when that same role, in a different wording came back up a few weeks later, I sent off that same application and this time I got a reply back 3 weeks later that I wasn’t a suitable candidate and I didn’t even bother to look at google analytics because I knew that no-one had even looked at my page. So much for trying to be creative and a little bit different and innovative with one of the worlds most disruptive startups. I guess the startup creativity hasn’t permeated into their HR department or it was never there. To be honest all of the recruiters I ever talked to sounded like they’d rather be somewhere else.&nbsp;
+Then when that same role, in a different wording came back up a few weeks later, I sent off that same application and this time I got a reply back 3 weeks later that I wasn’t a suitable candidate and I didn’t even bother to look at google analytics because I knew that no-one had even looked at my page. So much for trying to be creative and a little bit different and innovative with one of the worlds most disruptive startups. I guess the startup creativity hasn’t permeated into their HR department or it was never there. To be honest all of the recruiters I ever talked to sounded like they’d rather be somewhere else.
 
 So I closed that chapter and started thinking about my concept of ‘Meet A Local’. I went to Bali to learn how to code, and when the day came to make up wireframes for our portfolio websites, I said to my mentor, I’m gonna do a blog and he said, no you’re gonna do this business idea, we can create a fully working MVP, so I did it - of course with the help of everyone at IOC, but the idea was mine and I tweaked it to fit my own needs, because to be honest, I’ve never booked any of Airbb’s Trip Experiences because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that and that’s where LEARN WITH LOCALS started.
 
@@ -54,4 +57,4 @@ Ultimately, it all comes down to seeing something in others, that touches someth
 
 Traveling is no longer only about the trip and the destination - but it is about how we experience the trip viscerally and how it changes our worldview - so this is what I am trying to touch upon by starting Learn With Locals.
 
-&nbsp;
+![Learning how to code](/images/blog/yoga_1.jpg)
