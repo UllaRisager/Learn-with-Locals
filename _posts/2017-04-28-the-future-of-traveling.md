@@ -46,6 +46,8 @@ I think it is extremely interesting to try and understand this shift and the soc
 2. Connections
 3. Relationships.
 
+&nbsp;
+
 Everything that we are surrounded by only makes sense in a world where we feel like we belong.
 
 &nbsp;
