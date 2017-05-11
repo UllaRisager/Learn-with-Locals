@@ -1,6 +1,5 @@
 ---
 layout: post
-banner-class: dark-text
 title: How I learned writing from a digital nomad journalist in Bali
 subtitle: 'I thought I could write, until I met Ali...'
 image_path: /uploads/become-a-better-writer.jpg
