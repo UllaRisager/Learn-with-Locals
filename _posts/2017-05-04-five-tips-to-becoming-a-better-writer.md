@@ -74,4 +74,4 @@ Learn more about our [Writing and Content Creation experience here.](/upskills/b
 
 &nbsp;
 
-###### [Back to top](/2017/05/04/five-tips-to-becoming-a-better-writer.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
+###### [Back to top](/2017/05/04/five-tips-to-becoming-a-better-writer.html)!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
