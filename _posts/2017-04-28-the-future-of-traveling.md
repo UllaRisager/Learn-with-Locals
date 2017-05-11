@@ -2,7 +2,7 @@
 layout: post
 title: The Future Of Traveling
 subtitle: A Journey Of Inner Transformation
-image_path: /uploads/the-future-of-traveling.jpg
+image_path:
 banner: /uploads/the-future-of-traveling.jpg
 image-alt: The future of traveling
 snippet: "We travel not only to  move, but because we want to 'be moved'"
