@@ -76,7 +76,7 @@ So keep this in mind when learning.
 
 Remember you can google anything. Pretty much. But one thing is to google something and another is to understand how to google and what your answers are. I’ve definitely also learned how to be a better googler, it sounds strange, but it's so true.&nbsp;
 
-So remember when you are learning how to code, you don't have to remember everything, but if you learn how to google stuff, you will have come a long way.
+So remember when you are learning how to code, you don't have to remember everything, but if you learn how to google stuff, you will be doing yourself a big favor.
 
 ### &nbsp;
 
