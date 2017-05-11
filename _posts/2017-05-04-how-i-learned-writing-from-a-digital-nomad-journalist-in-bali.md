@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How I learned writing from a digital nomad journalist in Bali
-subtitle: 'I thought I could write, until I met Ali...'
+title: Five tips to becoming a better writer
+subtitle: 'I thought I could write, until I met Ali in Bali...'
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
-snippet: 'I thought I could write, until I met Ali...'
+snippet: 'I thought I could write, until I met Ali in Bali...'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulllabulla
 blog-date: May 4th 2017
@@ -24,19 +24,16 @@ She gave me a few tricks on writing and how to structure my content - that I wou
 
 #### 1. Headline
 
-#### &nbsp;
 
 The first thing to do once you know more or less what your topic is, is to find your first liner, your headline. One way you can do this is to just empty your mind and let your thoughts lose. E.g. if your topic is journaling and how it has helped your heal, ask yourself what was the most important way journaling helped you heal? And the first and most important thing that comes to your mind, is usually your headline.
 
 #### 2. Opening
 
-#### &nbsp;
 
 Secondly you wanna open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
 
 #### 3. Body
 
-#### &nbsp;
 
 Next up is your body, so just like coding, we also have a body when structuring our writing.
 
@@ -50,18 +47,12 @@ It helped me feel less lonely (5-8 sentences).
 
 #### 4. Closing
 
-#### &nbsp;
 
 Last but not least, you’ll want to add a Closing, this is very important as it helps call to action and sum up the entire point of the story. Keep it short and to the point and always remember to include a call to action, especially if you are writing a blog and trying to grow your audience.
 
-<<<<<<< HEAD
-5.
- 
-## So why am I sharing this?
-=======
 #### 5. What did I learn and why learn with a local?
 
-**1.****Personal recomendations** is something you don't get from watching tutorial or reading how-to-blogs online, not even this will give you personal recommendations, so if you want the personal touch, you really have to get up and go meet someone in person, because it is just done so much better in real-life and not behind a screen.
+**1. Personal recomendations** is something you don't get from watching tutorial or reading how-to-blogs online, not even this will give you personal recommendations, so if you want the personal touch, you really have to get up and go meet someone in person, because it is just done so much better in real-life and not behind a screen.
 
 Because Ali actually sat down and read through some of my writing, she was able to give me a personal recommendation based on my content and struggles. She divided my content into sections and explained me about the above mentioned basic structure and how I could emphasize the most important parts, something I had no clue how to do before meeting Ali.
 
@@ -69,6 +60,8 @@ Because Ali actually sat down and read through some of my writing, she was able 
 >>>>>>> origin/master
 
 **3. All the stuff in between**. The stuff that Ali taught me was just so invaluable and what's even better, is that when I then went to visit her in Ubud, she shared with me all her little secret spots around Ubud and it was just so amazing to meet her and learn more about what she does. It truly left me inspired to do something on my own.
+
+### So why am I sharing this?
 
 I think learning from someone like Ali, just makes all the difference than learning on your own at home when you're stressed and not really open to learning and meeting people in the same way as you are when you're traveling and on holiday in relaxed surroundings.
 
