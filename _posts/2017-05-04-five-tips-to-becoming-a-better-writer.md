@@ -5,7 +5,7 @@ subtitle: 'So I thought I could write, until I met Ali, a holistic health coach 
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
-snippet: So I thought I could write, until I met Ali, a holistic health coach and journalist in Bali
+snippet: 'So I thought I could write, until I met Ali, a holistic health coach and journalist in Bali'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulllabulla
 blog-date: May 4th 2017
@@ -24,16 +24,13 @@ She gave me a few tricks on writing and how to structure my content - that I wou
 
 #### 1. Headline
 
-
 The first thing to do once you know more or less what your topic is, is to find your first liner, your headline. One way you can do this is to just empty your mind and let your thoughts lose. E.g. if your topic is journaling and how it has helped your heal, ask yourself what was the most important way journaling helped you heal? And the first and most important thing that comes to your mind, is usually your headline.
 
 #### 2. Opening
 
-
 Secondly you wanna open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
 
 #### 3. Body
-
 
 Next up is your body, so just like coding, we also have a body when structuring our writing.
 
@@ -47,7 +44,6 @@ It helped me feel less lonely (5-8 sentences).
 
 #### 4. Closing
 
-
 Last but not least, you’ll want to add a Closing, this is very important as it helps call to action and sum up the entire point of the story. Keep it short and to the point and always remember to include a call to action, especially if you are writing a blog and trying to grow your audience.
 
 #### 5. What did I learn and why learn with a local?
@@ -56,8 +52,7 @@ Last but not least, you’ll want to add a Closing, this is very important as it
 
 Because Ali actually sat down and read through some of my writing, she was able to give me a personal recommendation based on my content and struggles. She divided my content into sections and explained me about the above mentioned basic structure and how I could emphasize the most important parts, something I had no clue how to do before meeting Ali.
 
-**2. Creating relevant and unique content**, people's attention spans are very short, so when you write unfiltered and with not limits, all you are doing is probably making people leave your site. Ali also taught me not to write a novel when
->>>>>>> origin/master
+**2. Creating relevant and unique content**, people's attention spans are very short, so when you write unfiltered and with not limits, all you are doing is probably making people leave your site. Ali also taught me not to write a novel when &raquo;&raquo;&raquo;&gt; origin/master
 
 **3. All the stuff in between**. The stuff that Ali taught me was just so invaluable and what's even better, is that when I then went to visit her in Ubud, she shared with me all her little secret spots around Ubud and it was just so amazing to meet her and learn more about what she does. It truly left me inspired to do something on my own.
 
@@ -67,10 +62,6 @@ I think learning from someone like Ali, just makes all the difference than learn
 
 If you’re interested in writing and becoming a better writer or content creator, I strongly recommend learning from someone like Ali, it doesn’t have to be in Bali and it doesn’t have to be her, but what better way to learn that from a passionate person who inspires you?
 
-Learn more about our Writing and Content Creation Experience here.
+Learn more about our [Writing and Content Creation Experience](/upskills/blogging-content-creation.html) here.
 
-![Learning how to code](/images/blog/learn-how-to-code_3.jpg)
-
-![Learning how to code](/images/blog/learn-how-to-code_4.jpg)
-
-![Learning how to code](/images/blog/learn-how-to-code_5.jpg)
+> ###### [Back to top!](/2017/05/04/how-i-learned-writing-from-a-digital-nomad-journalist-in-bali.html)
