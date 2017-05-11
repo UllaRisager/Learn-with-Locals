@@ -66,7 +66,7 @@ Instead, maybe that error will fix itself or you will think of a solution later 
 
 It really is amazing what you can do if you keep learning and practicing.
 
-Think about kids when learning how to code, because kids never give up, they just keep going and going until they've mastered what they set out to do - and so should you!
+Think about kids when learning how to code, because kids never give up, they just keep going and going until they've mastered what they've set out to do - and so should you!
 
 So keep this in mind when learning.
 
