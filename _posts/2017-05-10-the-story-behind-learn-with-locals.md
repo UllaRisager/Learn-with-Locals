@@ -80,7 +80,7 @@ And I think I also semi-stalked his girlfriend [@elissapatel](https://www.instag
 
 Anyways, my point is, I ended up giving up - I told myself I wouldn’t give up, but I did, so here I am.
 
-**Maybe “giving up” was exactly what led me here** - to creating Learn With Locals.
+**Maybe 'giving up' was exactly what led me here** - to creating Learn With Locals.
 
 I think it was perhaps an inevitable path that finally led me to stop chasing down a job with Airbnb.
 
