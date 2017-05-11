@@ -45,8 +45,8 @@ It helped me feel less lonely (5-8 sentences).
 Last but not least, you’ll want to add a Closing, this is very important as it helps call to action and sum up the entire point of the story. Keep it short and to the point and always remember to include a call to action, especially if you are writing a blog and trying to grow your audience.
 
 5.
-
-# So why am I sharing this?
+ 
+## So why am I sharing this?
 
 Because Ali actually sat down and read some of my writing, she then divided my content into sections and explained me about structure and how I could emphasize the most important parts, something I had no clue how to do before meeting Ali. I felt kinda lost because I wanted to write but whenever I would start, I would end up writing a novel. The stuff that Ali taught me was just so invaluable and what's even better, is that when I then went to visit her in Ubud, she shared with me all her little secret spots around Ubud and it was just so amazing to meet her and learn more about what she does. It truly left me inspired to do something on my own.
 
