@@ -5,7 +5,7 @@ subtitle: A Journey Of Inner Transformation
 image_path: /uploads/the-future-of-traveling-cuba.jpg
 banner: /uploads/the-future-of-traveling-cuba.jpg
 image-alt: The future of traveling cuba
-snippet: "Traveling is no longer only about the trip or the destination - it's about how we experience it viscerally"
+snippet: "Traveling is no longer only about the trip or the destination - it's about how we experience it viscerally."
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
