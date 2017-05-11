@@ -72,6 +72,4 @@ If you’re interested in writing and becoming a better writer or content creato
 
 Learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
 
-&nbsp;
-
-###### [Back to top](/2017/05/04/five-tips-to-becoming-a-better-writer.html)!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
+###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/05/04/five-tips-to-becoming-a-better-writer.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
