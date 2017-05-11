@@ -5,7 +5,7 @@ subtitle: A Journey Of Inner Transformation
 image_path: /uploads/the-future-of-traveling-cuba.jpg
 banner: /uploads/the-future-of-traveling-cuba.jpg
 image-alt: The future of traveling cuba
-snippet: "Traveling is no longer only about the trip or the destination - it's about how we experience it viscerally."
+snippet: "Traveling is no longer about the trip or the destination - it's about how we experience it viscerally."
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
@@ -24,7 +24,7 @@ But traveling can also be an inner journey - an inner transformation and this ty
 
 > “Travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
 
-### &nbsp;
+###
 
 ### So what does the future of travel actually look like?
 
@@ -34,23 +34,17 @@ So if traveling is a journey of inner transformation, it probably has ambition t
 
 Ultimately, I think this is the future of traveling, because this is what drives a change in behaviour and mindset among a given group of people.
 
-Early adopters and innovators &nbsp;will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
+Early adopters and innovators  will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
 
 Not just a shift promoting learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
 
-&nbsp;
-
 ![](/uploads/versions/we-love-to-travel---x----1520-1530x---.png)
-
-&nbsp;
 
 ### How so?
 
 There's a big difference between traveling and going on a holiday for most people, but does it really have to be this way? Who says we can't take time off from our "real lives" to go explore a destination and still challenge ourselves and learn and grow?
 
 I personally believe that when we’re traveling, we’re of course moving, but we also want to be moved! Experiences that “move” us are usually those we tell our friends and family about when we come back, because those are the ones that stick.
-
-&nbsp;
 
 ### So why travel and learn?
 
@@ -60,6 +54,4 @@ To me, traveling truly is a journey of inner transformation, but it doesn't have
 
 If you want to learn more about how you can become a part of our community where you can find or teach unique learning experiences while traveling, read more [here.](/signup.html)
 
-&nbsp;
-
-###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/28/the-future-of-traveling.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More stories](/blog.html)
+###### [Home](/)                   [Back to top](/2017/04/28/the-future-of-traveling.html)                 [More stories](/blog.html)
