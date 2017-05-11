@@ -14,9 +14,9 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-A Journey Of Inner Transformation
+When we think of traveling, we mostly think or packing a bad a going somewhere, physically, geographically.
 
-Traveling is no longer only about the trip or the destination - but it's about how we experience the trip viscerally and how it changes our current worldview.
+But traveling can also be an inner journey - an inner Transformation and this type of trip is really all about how we experience the journey viscerally and how it changes our current worldview.
 
 [Alain de Botton](http://alaindebotton.com/), renowned Author, Philosopher and founder of ‘The School of Life’ said that:
 
@@ -41,6 +41,8 @@ Ultimately, I think this is the future of traveling, because this is what drives
 Early adopters and innovators &nbsp;will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
 
 Not just a shift promoting learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
+
+&nbsp;
 
 ### How so?
 
