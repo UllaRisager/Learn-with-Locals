@@ -72,7 +72,7 @@ I think learning from someone like Ali, just makes all the difference than learn
 
 If you’re interested in writing and becoming a better writer or content creator, I strongly recommend learning from someone like Ali, it doesn’t have to be in Bali and it doesn’t have to be her, but what better way to learn that from a passionate person who inspires you?
 
-Learn more about our [Writing and Content Creation experience](/upskills/blogging-content-creation.html) here.
+Learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
 
 &nbsp;
 
