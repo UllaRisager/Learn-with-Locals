@@ -37,13 +37,19 @@ Ultimately, I think this is the future of traveling, because this is what drives
 Early adopters and innovators &nbsp;will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
 <br>Not just a shift promoting learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
 
+&nbsp;
+
 ![](/uploads/versions/we-love-to-travel---x----1520-1530x---.png)
+
+&nbsp;
 
 ### How so?
 
 There's a big difference between traveling and going on a holiday for most people, but does it really have to be this way? Who says we can't take time off from our "real lives" to go explore a destination and still challenge ourselves and learn and grow?
 
 I personally believe that when we’re traveling, we’re of course moving, but we also want to be moved! Experiences that “move” us are usually those we tell our friends and family about when we come back, because those are the ones that stick.
+
+&nbsp;
 
 ### So why travel and learn?
 
@@ -52,5 +58,7 @@ Because death and taxes are the only sure and inevitable things in this world an
 To me, traveling truly is a journey of inner transformation, but it doesn't have to start with going somewhere, it can start with learning something new, like coding, with challenging yourself - that to me is the only true future of traveling.
 
 If you want to learn more about how you can become a part of our community where you can find or teach unique learning experiences while traveling, read more [here.](/signup.html)
+
+&nbsp;
 
 ###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/28/the-future-of-traveling.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More from the blog](/blog.html)
