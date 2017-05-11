@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 5 tips to becoming a better writer
-subtitle: How I stepped up my writing game in Bali
+subtitle: What I learned from a professional journalist in Bali and how she helped me step up my writing game
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: Five tips to becoming a better writer
-snippet: How I stepped up my writing game in Bali.
+snippet: What I learned from a professional journalist in Bali and how she helped me step up my writing game.
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 4th 2017
