@@ -128,7 +128,7 @@ I tweaked my original concept to fit my own needs, because to be honest, I’ve 
 
 ### The philosophy behind the idea
 
-We have become more informed than ever, more connected than ever, but also burdened by information overload, so because of this, we will look for emotional connection and empowerment in all areas of life and ask ourselves: “How can I get more out of my life?”.
+I think that in the future, people will look for emotional connection and empowerment in all areas of life and ask themselves: “How can I get more out of my life?”.
 
 This happened to me after surviving the Paris Terrorist Attack in 2015.
 
