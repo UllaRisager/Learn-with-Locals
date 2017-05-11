@@ -107,6 +107,7 @@ Rome wasn't built in a day.
 Never giving up, never give up on practicing, playing around, discovering new tools and tricks and reading up on new developments and most importantly, being curious.
 
 (I am writing this one for me too!)
+<br>![Learning how to code](/images/blog/learn-how-to-code_5.jpg)
 
 &nbsp;
 
@@ -114,4 +115,4 @@ If you're interested in getting a taste of coding and web develpment, check out 
 
 &nbsp;
 
-![Learning how to code](/images/blog/learn-how-to-code_5.jpg)
+&nbsp;
