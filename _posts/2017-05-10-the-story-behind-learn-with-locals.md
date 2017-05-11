@@ -5,7 +5,7 @@ subtitle: How being turned down by Airbnb made me start my own business
 image_path: /uploads/story-learn-with-locals.jpg
 banner: /uploads/story-learn-with-locals.jpg
 image-alt: The story behind Learn with Locals
-snippet: How being turned down by Airbnb made me start my own business
+snippet: How being turned down by Airbnb made me start my own business.
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
@@ -13,9 +13,7 @@ author-bio: "Always curious and on the move, that's how Ulla describes herself. 
 author-about: Follow her on instagram @ulla_nuna.
 ---
 
-How did being turned down by Airbnb made me start my own business?
-
-Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside in Denmark, writing on my final BA project paper:
+Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA project paper:
 
 "How to innovate Airbnb’s Business Model?"
 
@@ -30,7 +28,7 @@ Airbnb’s new segment; ‘The Local’ would be a person who could offer unique
 
 This person could be anyone, your mom or dad, your aunt or cousin.
 
-It could be baby-boomers who were retired, Millennials who were creating a career for themselves or a GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
+It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
 
 #### A lot of options here, agree?
 
@@ -46,7 +44,7 @@ I never got a job, but I ended up going to Paris for their Airbnb Open Conferenc
 
 I met a bunch of creative and inspiring people and I also survived a Terrorist Attack - yes believe it or not.
 
-#### So where does Learn With Locals fit in at all?
+#### So what does Airbnb have to do with starting Learn With Locals?
 
 Well it turns out that I tried to get a job with Airbnb for the next two years.
 
@@ -60,14 +58,13 @@ I’ve even sent direct emails to Brian Chesky - CEO of Airbnb - twice!
 
 And I think I also semi-stalked his girlfriend at some point on Instagram, (now I’m just stalking her because I actually think she’s way cooler than him).
 
-Anyways, my point is, I ended up giving up. I told myself I wouldn’t give up, but I did, so here I am.
-
+Anyways, my point is, I ended up giving up - I told myself I wouldn’t give up, but I did, so here I am.
 
 **Maybe “giving up” was exactly what led me here** - to creating Learn With Locals.
 
 I think it was perhaps an inevitable path that finally led me to stop chasing down a job with Airbnb.
 
-### I got tired of trying to land a job with Airbnb when obviously they didn't care
+### I got tired of trying to land a job with a company that didn't seem to care
 
 I got tired of trying. In my last attempt, I didn’t create a standard Cover Letter - no way, I created an entire website with wix.com and hooked it up with google analytics to track visits.
 
@@ -91,18 +88,18 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or i
 
 I went to Bali to learn how to code, and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
-I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of Airbnb’s Trip Experiences because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and **learn**, so I put everything into that perspective and that’s actually how LEARN WITH LOCALS started.
+I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of Airbnb’s Trip Experiences because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
 
-### The philosophy behind Learn With Locals?
-
-**It all revolves around people, connections and learning.**
+### The philosophy behind the idea
 
 I believe that the future is not somewhere you go, but you create your own future.
 
 Because we have become more informed than ever, more connected than ever we're also burdened by information overload, so we will start to look for emotional connection and empowerment in all areas of life and ask ourselves: “How can I get more out of my life?”.
 
-People want to have life-fulfullling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
+This happened to me after survivng the Paris Terrorist Attack in 2015.
 
-So traveling is no longer only about the trip and the destination - but it is about how we experience a trip viscerally and how it changes our worldview.
+I think most people who are at a certain stage in their life want to have life-fulfullling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
 
-This is what I am trying to touch upon by starting Learn With Locals so that we can allow people to reach for for personal fulfillment and enriched lives through experiences, people and learning.
+So for me, it really all revolves around people, connections and learning - because traveling is no longer only about the trip and the destination - but it is about how we experience a trip viscerally and how it changes our worldview.
+
+This is what I am trying to touch upon by starting Learn With Locals - so that we can allow people to reach for for personal fulfillment and enriched lives, through experiences, connections and learning.
