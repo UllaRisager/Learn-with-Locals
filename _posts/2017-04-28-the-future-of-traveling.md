@@ -5,7 +5,7 @@ subtitle: A Journey Of Inner Transformation
 image_path: /uploads/the-future-of-traveling-cuba.jpg
 banner: /uploads/the-future-of-traveling-cuba.jpg
 image-alt: The future of traveling cuba
-snippet: "We travel not only to  move, but because we want to 'be moved'"
+snippet: 'The future is not somewhere you go, it’s something you create - just like you create your own life journey.'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
