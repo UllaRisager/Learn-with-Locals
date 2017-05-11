@@ -38,7 +38,7 @@ I personally believe that when we’re traveling, we’re of course moving, but 
 
 In my opinion, travelers want to forge deeper connections to people, traditions and customs of the places they are visiting because these experiences add a meaningful and memorable component to a trip or holiday.
 
-This idea is clearly supported by a so-called paradigm shift from brand-centric to customer-centric - seen everywhere -as we have become self-empowered through digital technology and innovation.
+This idea is clearly supported by the so-called paradigm shift from brand-centric to customer-centric as we have become self-empowered through digital technology and innovation.
 
 I think it is extremely interesting to try and understand this shift and the social motivators and drivers behind it and I have discovered that it all revolves around three things:
 
