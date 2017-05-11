@@ -52,8 +52,6 @@ In this case I would add 3 points as my body, so point 1-3 would be something li
 
 Last but not least, you’ll want to add a Closing, this is very important as it helps call to action and sum up the entire point of the story. Keep it short and to the point and always remember to include a call to action, especially if you are writing a blog and trying to grow your audience.
 
-&nbsp;
-
 #### 5. What did I learn and why learn with a local?
 
 **1. Personal recomendations** is something you don't get from watching tutorial or reading how-to-blogs online, not even this will give you personal recommendations, so if you want the personal touch, you really have to get up and go meet someone in person, because it is just done so much better in real-life and not behind a screen.
@@ -74,6 +72,4 @@ If you’re interested in writing and becoming a better writer or content creato
 
 Learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
 
-&nbsp;
-
-> ###### [Back to top!](/2017/05/04/five-tips-to-becoming-a-better-writer.html)
+> ###### [Back to top](/2017/05/04/five-tips-to-becoming-a-better-writer.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Home](/)
