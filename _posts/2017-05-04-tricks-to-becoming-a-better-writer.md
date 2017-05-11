@@ -9,9 +9,8 @@ snippet: "So you think you can write? Think again, there's always room for impro
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 4th 2017
-author-bio:  Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals.
+author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.
-
 ---
 
 
@@ -37,9 +36,11 @@ Next up is your body, so just like coding, we also have a body when structuring 
 
 In this case I am going to add 3 points as my body, so point 1-3 could be something like this:
 
-It helped me organize my thoughts (5-8 sentences)
-It helped me reflect on my progress (5-8) sentences
-It helped me feel less lonely (5-8 sentences)
+It helped me organize my thoughts (5-8 sentences).
+
+It helped me reflect on my progress (5-8 sentences).&nbsp;
+
+It helped me feel less lonely (5-8 sentences).
 
 4.
 
