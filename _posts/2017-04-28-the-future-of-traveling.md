@@ -28,7 +28,7 @@ So what exactly what does this mean? Well in my opinion it means that traveling 
 
 > “Travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
 
-There's a big difference between traveling and going on a holiday for most people, but does't it really have to be this way? Who says we can't take time off from our "real lives" to go explore a destination and still challenge ourselves and learn and grow?
+There's a big difference between traveling and going on a holiday for most people, but does it really have to be this way? Who says we can't take time off from our "real lives" to go explore a destination and still challenge ourselves and learn and grow?
 
 I personally believe that when we’re traveling, we’re of course moving, but we also want to be moved! Experiences that “move” us are usually those we telll our friends and family about when we come back, because those are the ones that stick.
 
@@ -64,4 +64,4 @@ If you want to learn more about how you can become a part of our community where
 
 ##### #
 
-###### [Home](/)                   [Back to top](/2017/04/28/the-future-of-traveling.html)                 [More from the blog](/blog.html)
+###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/28/the-future-of-traveling.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More from the blog](/blog.html)
