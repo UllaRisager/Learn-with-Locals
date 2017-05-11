@@ -9,9 +9,8 @@ snippet: "We travel not only to  move, but because we want to 'be moved'"
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
-author-bio: Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals.
+author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.
-
 ---
 
 
@@ -40,3 +39,7 @@ I do not want to wake up one day thinking, “what if” and feeling strong emot
 Death is the only sure and inevitable thing in this world and I’m just trying to make sure I’m prepared to let go when that time comes.
 
 Traveling is a journey &nbsp;but it doesnt' have to start with going somwhere, it can start within and…with a simple thought - to challenge yourself - that is the future of traveling.
+
+&nbsp;
+
+###### [Back to top!&nbsp;](/2017/04/28/the-future-of-traveling.html) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
