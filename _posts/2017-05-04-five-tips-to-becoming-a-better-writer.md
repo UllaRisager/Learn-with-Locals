@@ -2,7 +2,7 @@
 layout: post
 title: Five tips to becoming a better writer
 subtitle: How I upskilled my writing in Bali
-image_path: /uploads/5-tips.jpg
+image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
 snippet: How I upskilled my writing in Bali
@@ -22,19 +22,19 @@ Turns our Ali had studied journalism, only she wasn’t really working within th
 
 She gave me a few tricks on writing and how to structure my content - that I would like to share with you here, because I just found this so useful, when I was feeling pretty lost:
 
-####
+### #
 
 #### 1. Headline
 
 The first thing to do once you know more or less what your topic is, is to find your first liner, your headline. One way you can do this is to just empty your mind and let your thoughts lose. E.g. if your topic is journaling and how it has helped your heal, ask yourself what was the most important way journaling helped you heal? And the first and most important thing that comes to your mind, is usually your headline.
 
-####
+### #
 
 #### 2. Opening
 
 Secondly you wanna open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
 
-####
+### #
 
 #### 3. Body
 
@@ -46,7 +46,7 @@ In this case I would add 3 points as my body, so point 1-3 would be something li
 * It helped me reflect on my progress (5-8 sentences).
 * It helped me feel less lonely (5-8 sentences).
 
-####
+### #
 
 #### 4. Closing
 
@@ -62,7 +62,7 @@ Because Ali actually sat down and read through some of my writing, she was able 
 
 **3. All the stuff in between,** the stuff that Ali taught me was just so invaluable and what's even better, is that when I then went to visit her in Ubud, she shared with me all her little secret spots around Ubud and it was just so amazing to meet her and learn more about what she does. It truly left me inspired to do something on my own.
 
-###
+## #
 
 #### So why am I sharing this?
 
