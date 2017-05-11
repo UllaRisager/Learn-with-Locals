@@ -32,7 +32,7 @@ The first thing to do once you know more or less what your topic is, is to find 
 
 ### 2. Opening
 
-Secondly you wanna open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
+Secondly you'll want to open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling? This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
 
 &nbsp;
 
