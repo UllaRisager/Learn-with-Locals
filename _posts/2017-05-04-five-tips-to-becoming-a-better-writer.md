@@ -74,4 +74,6 @@ If you’re interested in writing and becoming a better writer or content creato
 
 Learn more about our [Writing and Content Creation experience](/upskills/blogging-content-creation.html) here.
 
+&nbsp;
+
 > ###### [Back to top!](/2017/05/04/how-i-learned-writing-from-a-digital-nomad-journalist-in-bali.html)
