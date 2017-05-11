@@ -108,6 +108,8 @@ Never giving up, never give up on practicing, playing around, discovering new to
 
 (I am writing this one for me too!)
 
+&nbsp;
+
 If you're interested in getting a taste of coding and web develpment, check out out our&nbsp;[3 day Web Development learning experience in Bali.](/upskills/learn-web-development.html)
 
 &nbsp;
