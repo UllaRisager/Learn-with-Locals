@@ -7,7 +7,7 @@ banner: /uploads/become-a-better-writer.jpg
 image-alt: learning coding
 snippet: 'How I upskilled my writing when I met Ali, a holistic health coach and journalist in Bali'
 author-photo: /images/blog/author/ulla.jpg
-author-name: Ulllabulla
+author-name: Ulla
 blog-date: May 4th 2017
 author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.
