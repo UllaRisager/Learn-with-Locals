@@ -54,4 +54,6 @@ To me, traveling truly is a journey of inner transformation, but it doesn't have
 
 If you want to learn more about how you can become a part of our community where you can find or teach unique learning experiences while traveling, read more [here.](/signup.html)
 
+###### &nbsp;
+
 ###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/04/28/the-future-of-traveling.html)&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More stories](/blog.html)
