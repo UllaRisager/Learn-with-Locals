@@ -9,7 +9,7 @@ snippet: How being turned down by Airbnb made me start my own business.
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
-author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
+author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler and digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.
 ---
 

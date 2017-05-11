@@ -9,7 +9,7 @@ snippet: 'How I upskilled my writing when I met Ali, a holistic health coach and
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 4th 2017
-author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals."
+author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler and digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.
 ---
 
