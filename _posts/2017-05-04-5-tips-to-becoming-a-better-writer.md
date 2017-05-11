@@ -92,7 +92,9 @@ If you’re interested in writing and becoming a better writer or content creato
 
 &nbsp;
 
-If you - or someone you know who would like to teach a skill, please let me know by signing up [here](/signup.html). You can also learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
+If you - or someone you know who would like to teach a skill, please let me know by signing up [here](/signup.html).
+
+You can also learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
 
 &nbsp;
 
