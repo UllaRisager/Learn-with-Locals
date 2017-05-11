@@ -14,11 +14,13 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA paper:
+Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA project paper:
 
 "How to innovate Airbnb’s Business Model?"
 
 I came up with the idea of offering Airbnb's, already huge community, of guests’ and travelers a new way of experiencing a destination through real-life experiences.
+
+#### &nbsp;
 
 #### I called this concept ‘Meet a Local’
 
@@ -42,15 +44,11 @@ This person could be done by anyone, your mom or dad, your aunt or cousin.
 
 It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
 
-&nbsp;
-
 #### ![](/uploads/versions/become-a-local---x----1274-1544x---.png)
 
 #### &nbsp;
 
 #### When I pitched my idea to Chip
-
-&nbsp;
 
 Well turns out, I took this idea and went and met Chip Conley, who was the Head of Global Hospitality and Strategy at Airbnb at the time.
 
@@ -63,6 +61,8 @@ So I pitched my idea and he said: “That’s exactly what we’re doing - send 
 I never got a job, but I ended up going to Paris for their Airbnb Open Conference.
 
 I met a bunch of creative and inspiring people and I also survived a Terrorist Attack - yes believe it or not.
+
+#### &nbsp;
 
 #### So what does Airbnb have to do with starting Learn With Locals?
 
@@ -84,6 +84,8 @@ Anyways, my point is, I ended up giving up - I told myself I wouldn’t give up,
 
 I think it was perhaps an inevitable path that finally led me to stop chasing down a job with Airbnb.
 
+### &nbsp;
+
 ### I got tired of trying to land a job with a company that didn't seem to care
 
 I got tired of trying. In my last attempt, I didn’t create a standard Cover Letter - no way, I created an entire website with wix.com and hooked it up with google analytics to track visits.
@@ -102,6 +104,8 @@ I didn’t even bother to look at my google analytics because I knew that no-one
 
 I guess Airbnb's creativity hasn’t yet permeated into their HR department or it was never meant to.
 
+&nbsp;
+
 ### The birth of Learn With Locals
 
 **I closed that chapter** and started thinking about my concept of ‘Meet A Local’.
@@ -109,6 +113,8 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or i
 I went to Bali to learn how to code, and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
 I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of Airbnb’s Trip Experiences because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
+
+&nbsp;
 
 ### The philosophy behind the idea
 
