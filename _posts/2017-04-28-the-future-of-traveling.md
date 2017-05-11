@@ -9,7 +9,9 @@ snippet: "We travel not only to  move, but because we want to 'be moved'"
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
-author-bio: Ulla is a kickass web developer
+author-bio: Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals.
+author-about: Follow her on instagram @ulla_nuna.
+
 ---
 
 

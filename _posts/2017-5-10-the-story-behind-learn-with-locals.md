@@ -9,7 +9,8 @@ snippet: LEARN WITH LOCALS started with an idea...
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
-author-bio: Ulla is a kickass web developer
+author-bio: Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals.
+author-about: Follow her on instagram @ulla_nuna.
 ---
 The idea of Learn With Locals started back in 2015 when I finished my graduate studies in Digital Marketing en E-commerce and I ws writing my final paper on how to innovate Airbnb's business model.
 

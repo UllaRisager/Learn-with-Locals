@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I learned how to code
+title: What I learned from coding
 subtitle: My top 5 reasons for learning how to code
 image_path: /uploads/why-learn-how-to-code.jpg
 banner: /uploads/why-learn-how-to-code.jpg
@@ -9,7 +9,9 @@ snippet: My top 5 reasons for learning how to code
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 10th 2017
-author-bio: Ulla is a kickass web developer
+author-bio: Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler turned digital nomad and also the founder of Learn With Locals.
+author-about: Follow her on instagram @ulla_nuna.
+
 ---
 Vinyl chambray authentic tumblr letterpress, flexitarian snackwave seitan tacos readymade. Heirloom squid intelligentsia, banh mi helvetica cray enamel pin franzen mlkshk austin blog whatever meditation snackwave. Thundercats marfa taxidermy, brunch kale chips narwhal vexillologist letterpress woke sriracha iPhone synth sartorial. Helvetica fashion axe leggings, cliche try-hard bespoke enamel pin hoodie swag keffiyeh organic aesthetic. Deep v kogi tilde next level mixtape. Shoreditch echo park pork belly intelligentsia meggings. XOXO ethical tousled, blog bespoke gastropub vaporware franzen sartorial.
 
