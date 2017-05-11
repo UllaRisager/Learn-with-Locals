@@ -112,7 +112,7 @@ I didn’t even bother to look at my google analytics because I knew that no-one
 
 **So much for trying to be creative** and being a little bit different with one of the worlds most disruptive startups.
 
-I guess Airbnb's creativity hasn’t yet permeated into their HR department or it was never meant to.
+I guess Airbnb's creativity hasn’t yet permeated into their HR department or perhaps it was never meant to.
 
 &nbsp;
 
