@@ -14,7 +14,7 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA project paper:
+Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA paper:
 
 "How to innovate Airbnb’s Business Model?"
 
