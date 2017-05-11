@@ -62,19 +62,45 @@ Instead, maybe that error will fix itself or you will think of a solution later 
 
 ### &nbsp;
 
-### 5. Keep learning and it’s amazing what you can do.
+### 5. Keep learning and it’s amazing what you can do
 
-It really is amazing what you can do with the internet these days and if you keep learning, you will be able to build a lot of stuff, it’s one thing that you will be aware of, not saying that I am doing it, but I am aware of how that all works now.
+It really is amazing what you can do with the internet these days and if you keep learning, you will be able to build a lot of stuff, it’s one thing that you will be aware of when learning how to code.
 
-You don’t have to remember everything. You can google anything. I’ve also learned to be a better google. Yes, before I wasn’t so sure how I could google things, but now I’ve learned that you can google almost anything
+&nbsp;
 
-don’t be afraid to ask for help, people are generally super helpful when it comes to answering questions and sharing learning experiences. Take advantage of that.
+### 6. You don’t have to remember everything
 
-Remember your brain is a hard drive, sometimes it’s full too, so you need to clean it up and create some space, this is very important
+Remember you can google anything. Pretty much. But one thing is to google something and another is to understand how to google and what your answers are. I’ve definitely also learned how to be a better googler, it sounds strange, but it's so true.&nbsp;
 
-Remember to have fun, exercise and don’t take things to seriously
+So remember when you are learning how to code, you don't have to remember everything, but if you learn how to google stuff, you will have come a long way.
 
-One step at the time and continuous practice will help you a long way.
+&nbsp;
+
+### 7. Don’t be afraid to ask for help
+
+When you're learning, you are most likely going to be needing some help at some point, so instead of trying to do, learn and understand everything yourself, it's ok to ask for help.
+
+People are generally super helpful when it comes to answering questions and sharing learning experiences online and in real-life. Take advantage of that.
+
+&nbsp;
+
+### 8. Remember your brain is like a hard drive
+
+Sometimes it is full too, so you'll need to clean it up and free up some space, this is very very important when learning.
+
+Give yourself some space and don't take things to seriously, have fun, exercise and take breaks, recharge and do something completely different. Often you'll see that when you return to your task, the problem that you were trying to solve has solved itself.
+
+&nbsp;
+
+### 9. One step at the time
+
+Rome wasn't built in a day.
+
+&nbsp;
+
+### 10. Persevere and continue to practice
+
+Keeping this in mind will help you a long way.
 
 ![Learning how to code](/images/blog/learn-how-to-code_3.jpg)
 
