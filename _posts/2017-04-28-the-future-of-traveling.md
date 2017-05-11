@@ -32,7 +32,9 @@ There's a big difference between traveling and going on a holiday for most peopl
 
 I personally believe that when we’re traveling, we’re of course moving, but we also want to be moved! Experiences that “move” us are usually those we telll our friends and family about when we come back, because those are the ones that stick.
 
-So what does the future of travel actually look like?
+&nbsp;
+
+### So what does the future of travel actually look like?
 
 In my opinion, travelers want to forge deeper connections to people, traditions and customs of the places they are visiting because these experiences add a meaningful and memorable component to a trip or holiday.
 
