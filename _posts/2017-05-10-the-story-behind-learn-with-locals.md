@@ -92,7 +92,7 @@ I got tired of trying. In my last attempt, I didn’t create a standard Cover Le
 
 I then sent it off and two days later, I got a reply back that I was not suitable for the role, I then went and looked at the analytics, only to find that no one had visited my page.
 
-So I tracked down the Head recruiter in Dublin, Ireland and sent her an inmail through Linkedin, no reply, but it worked, she visited my page, however two days later the role had been taken down and deleted everywhere.
+So I tracked down the Head recruiter in Dublin, Ireland and sent her an inmail through [Linkedin](https://www.linkedin.com/), no reply, but it worked, she visited my page, however two days later the role had been taken down and deleted everywhere.
 
 I was upset, I had just spent an entire week making my application and it was taken down.
 
@@ -110,7 +110,7 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or i
 
 **I closed that chapter** and started thinking about my concept of ‘Meet A Local’.
 
-I went to Bali to learn how to code, and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
+[I went to Bali to learn how to code](/2017/04/10/what-I-learned-from-coding.html), and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
 I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of [Airbnb’s Trip Experiences](https://www.airbnb.com/s/experiences) because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
 
