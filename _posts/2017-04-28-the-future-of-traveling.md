@@ -24,7 +24,7 @@ But traveling can also be an inner journey - an inner transformation and this ty
 
 > “Travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
 
-## #
+### &nbsp;
 
 ### So what does the future of travel actually look like?
 
