@@ -26,6 +26,8 @@ I came up with the idea of offering Airbnb's, already huge community, of guests�
 
 #### ![](/uploads/versions/meet-a-local---x----1242-1550x---.png)
 
+&nbsp;
+
 It would give Airbnb Hosts and local people a chance to create new sources of income while helping people experience their destination in new and meaningful ways.
 
 #### &nbsp;
@@ -34,17 +36,27 @@ It would give Airbnb Hosts and local people a chance to create new sources of in
 
 ![](/uploads/versions/profile-local---x----1263-1540x---.png)
 
+&nbsp;
+
 Airbnb’s new segment; ‘The Local’ would be a person who could offer unique cultural experiences from design, photography and street art, to ethnic food tours, private dinners, beer tastings and underground history, sightseeing and immersive cultural exchanges.
 
+&nbsp;
+
 ![](/uploads/versions/the-local---x----1261-1542x---.png)
+
+&nbsp;
 
 This person could be done by anyone, your mom or dad, your aunt or cousin.
 
 It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
 
+&nbsp;
+
 #### ![](/uploads/versions/become-a-local---x----1274-1544x---.png)
 
 #### &nbsp;
+
+&nbsp;
 
 #### When I pitched my idea to Chip
 
