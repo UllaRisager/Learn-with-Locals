@@ -46,6 +46,8 @@ I think it is extremely interesting to try and understand this shift and the soc
 
 Everything that we are surrounded by only makes sense in a world where we feel like we belong.&nbsp;
 
+![](/uploads/versions/we-love-to-travel---x----1520-1530x---.png)
+
 Traveling is not simply a destination anymore, but it revolves around the people who make up the atmosphere of a given place, which is creating a visceral place inside of us.
 
 Ultimately, I think that the way traveling is changing in the future is not only through learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
