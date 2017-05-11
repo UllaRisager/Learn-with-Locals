@@ -110,7 +110,7 @@ Never giving up, never give up on practicing, playing around, discovering new to
 
 &nbsp;
 
-If you're interested in getting a taste of coding and web development, check out out our&nbsp;[3 day Web Development learning experience in Bali.](/upskills/learn-web-development.html)
+If you're interested in getting a taste of coding and web development, check out out the&nbsp;[3 day Web Development learning experience in Bali.](/upskills/learn-web-development.html)
 
 &nbsp;
 
