@@ -32,9 +32,11 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0.8em 0;
 }
 
-p {
+p, li {
   margin-bottom: 0.2em;
   font-size: 0.9rem;
+  color: rgb(72, 72, 72);
+  list-style-position: inside;
 }
 
 .upskill-details-section p, h4 {
