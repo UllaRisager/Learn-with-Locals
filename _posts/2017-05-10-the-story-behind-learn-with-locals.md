@@ -64,7 +64,7 @@ I met a bunch of creative and inspiring people and I also survived a Terrorist A
 
 #### &nbsp;
 
-#### So what does Airbnb have to do with starting Learn With Locals?
+#### So what does Airbnb have to do with Learn With Locals?
 
 Well it turns out that I tried to get a job with Airbnb for the next two years.
 
