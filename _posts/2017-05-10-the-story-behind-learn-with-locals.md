@@ -92,7 +92,7 @@ I told myself I wouldn’t give up, but I did, so here I am.
 
 **Maybe "giving up" was exactly what led me here** **- to creating Learn With Locals.**
 
-I think it was perhaps an inevitable path that finally led me to stop chasing down a job with Airbnb.
+I think it was perhaps an inevitable path that finally led me to stop chasing down a job with Airbnb and start thinking of my own ideas.
 
 ### &nbsp;
 
