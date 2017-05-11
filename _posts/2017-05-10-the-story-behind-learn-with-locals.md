@@ -62,7 +62,9 @@ I said to Chip: "I have an idea, I would like to show you."
 
 He said: "Let me get my glasses."
 
-So I pitched my idea and he said: “That’s exactly what we’re doing - send me an email.” So I did.
+So I pitched my idea and he said: “That’s exactly what we’re doing - send me an email.”
+
+So I did.
 
 I never got a job, but I ended up going to Paris for their Airbnb Open Conference.
 
