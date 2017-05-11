@@ -14,11 +14,11 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA project paper:
+Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside of Denmark, writing on my final BA paper:
 
 "How to innovate [Airbnb](https://www.airbnb.com/)’s Business Model?"
 
-I came up with the idea of offering Airbnb's, already huge community, of guests’ and travelers a new way of experiencing a destination through real-life experiences.
+I came up with the idea of offering Airbnb's already huge community of guests’ and travelers, a new way of experiencing a destination through real-life experiences.
 
 #### &nbsp;
 
