@@ -20,7 +20,7 @@ But traveling can also be an inner journey - an inner transformation and this ty
 
 [Alain de Botton](http://alaindebotton.com/), renowned Author, Philosopher and founder of ‘The School of Life’ said that:
 
-> “A journey is a process of feeling and inner transformation  and travel is a psychological experience and the psychological ingredient of happiness is why we travel.”
+> *“A journey is a process of feeling and inner transformation  and travel is a psychological experience and the psychological ingredient of happiness is why we travel.”*
 
 > “Travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
 
@@ -35,7 +35,8 @@ So if traveling is a journey of inner transformation, it probably has ambition t
 Ultimately, I think this is the future of traveling, because this is what drives a change in behaviour and mindset among a given group of people.
 
 Early adopters and innovators &nbsp;will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
-<br>Not just a shift promoting learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
+
+Not just a shift promoting learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
 
 &nbsp;
 
