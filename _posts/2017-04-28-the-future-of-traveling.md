@@ -68,7 +68,7 @@ Death is the only sure and inevitable thing in this world and I’m just trying 
 
 To me, traveling is a journey of inner transformation, but it doesn't have to start with going somewhere, it can start within and with a simple thought - to challenge yourself - that is the future of traveling.
 
-If you want to learn more about how you can become a part of our community where you can find unique learning experiences while traveling, read more here.
+If you want to learn more about how you can become a part of our community where you can find or teach unique learning experiences while traveling, read more [here.](/signup.html)
 
 &nbsp;
 
