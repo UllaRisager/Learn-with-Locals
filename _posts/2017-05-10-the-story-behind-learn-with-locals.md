@@ -14,8 +14,6 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-The story behind Learn With Locals
-
 How being turned down by Airbnb made me start my own business.
 
 Exactly two years ago in 2015, I sat in my parent’s living room in the remote countryside in Denmark, writing on my final BA thesis on how to innovate Airbnb’s business model and I came up with one idea; to offers Airbnb guests’ and travelers a new way of experiencing a destination through real-life experiences.
