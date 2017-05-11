@@ -46,7 +46,7 @@ Airbnb’s new segment; ‘The Local’ would be a person who could offer unique
 
 &nbsp;
 
-This person could be anyone, your mom or dad, your aunt or cousin. It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
+This person could be anyone, your mom or dad, your aunt or cousin. It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and were looking for other ways to make a living.
 
 &nbsp;
 
