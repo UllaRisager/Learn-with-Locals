@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The future of traveling
-subtitle: "We travel not only to  move, but because we want to 'be moved'"
+title: The Future Of Traveling
+subtitle: A Journey Of Inner Transformation
 image_path: /uploads/the-future-of-traveling.jpg
 banner: /uploads/the-future-of-traveling.jpg
 image-alt: The future of traveling
@@ -16,29 +16,49 @@ author-about: Follow her on instagram @ulla_nuna.
 
 A Journey Of Inner Transformation&nbsp;
 
+The future is not somewhere you go, it’s something you create - just like you create your own journey in life.
+
+So what exactly is a journey?
+
 Alain de Botton, renowned Author, Philosopher and founder of ‘The School of Life’ said that:
 
-&nbsp;“A journey is a process of feeling and inner transformation . Travel is a psychological experience and the psychological ingredient of happiness is why we travel – and travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
+> &nbsp;“A journey is a process of feeling and inner transformation  and travel is a psychological experience and the psychological ingredient of happiness is why we travel.”&nbsp;
 
-This pretty much sums it up - when you’re traveling you’re moving, but you also want to be moved!&nbsp;
+So what exactly what does this mean? Well in my opinion it means that traveling has ambition to change something in the inner world, but the only way for this to happen is if we challenge ourselves and learn while traveling.&nbsp;
 
-“Traveling has ambition to change something in the inner world”  but the only way for this to happen is if we challenge ourselves and learn while traveling. There's a big difference between traveling and going on a holiday for most people, but does't it really have to be this way? Who says we can't take time off from our "real lives" to go explore a destination and still challenge ourselves and learn and grow?
+> “Travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
 
-Well now you can.
+There's a big difference between traveling and going on a holiday for most people, but does't it really have to be this way? Who says we can't take time off from our "real lives" to go explore a destination and still challenge ourselves and learn and grow?
 
-I know exactly why I’m traveling and it essentially all comes down to three things:
+I personally believe that when we’re traveling, we’re of course moving, but we also want to be moved! Experiences that “move” us are usually those we telll our friends and family about when we come back, because those are the ones that stick.
 
-Connection
+So what does the future of travel actually look like?
 
-Growth
+In my opinion, travelers want to forge deeper connections to people, traditions and customs of the places they are visiting because these experiences add a meaningful and memorable component to a trip or holiday.
 
-Meaning
+This idea is clearly supported by a so-called paradigm shift from brand-centric to customer-centric - seen everywhere -as we have become self-empowered through digital technology and innovation.
 
-I do not want to wake up one day thinking, “what if” and feeling strong emotions of regret for the things I never did, the words I never said, the feelings I never felt and the dreams I never lived.
+I think it is extremely interesting to try and understand this shift and the social motivators and drivers behind it and I have discovered that it all revolves around three things:
 
-Death is the only sure and inevitable thing in this world and I’m just trying to make sure I’m prepared to let go when that time comes.
+1. People
+2. Connections
+3. Relationships.
 
-Traveling is a journey &nbsp;but it doesnt' have to start with going somwhere, it can start within and…with a simple thought - to challenge yourself - that is the future of traveling.
+Everything that we are surrounded by only makes sense in a world where we feel like we belong.&nbsp;
+
+Traveling is not simply a destination anymore, but it revolves around the people who make up the atmosphere of a given place, which is creating a visceral place inside of us.
+
+Ultimately, I think that the way traveling is changing in the future is not only through learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
+
+I believe that this is what drives a change in behaviour and mindset among a given group of people - early adopters and innovators and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
+
+To sum up, traveling is no longer only about the trip or the destination - but it is about how we experience the trip viscerally and how it changes our current worldview.
+
+Death is the only sure and inevitable thing in this world and I’m just trying to make sure I’m prepared to let go when that time comes. I do not want to wake up one day thinking, “what if” and feeling strong emotions of regret for the things I never did, the words I never said, the feelings I never felt and the dreams I never lived.
+
+To me, traveling is a journey of inner transformation, but it doesnt' have to start with going somewhere, it can start within and…with a simple thought - to challenge yourself - that is the future of traveling.
+
+If you want to learn more about how you can become a part of our community where you can find unique learning experiences while traveling, read more here.
 
 &nbsp;
 
