@@ -2,9 +2,9 @@
 layout: post
 title: The Future Of Traveling
 subtitle: A Journey Of Inner Transformation
-image_path:
-banner: /uploads/the-future-of-traveling.jpg
-image-alt: The future of traveling
+image_path: /uploads/the-future-of-traveling-cuba.jpg
+banner: /uploads/the-future-of-traveling-cuba.jpg
+image-alt: The future of traveling cuba
 snippet: "We travel not only to  move, but because we want to 'be moved'"
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
@@ -14,7 +14,7 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-A Journey Of Inner Transformation&nbsp;
+A Journey Of Inner Transformation
 
 The future is not somewhere you go, it’s something you create - just like you create your own journey in life.
 
@@ -22,9 +22,9 @@ So what exactly is a journey?
 
 [Alain de Botton](http://alaindebotton.com/), renowned Author, Philosopher and founder of ‘The School of Life’ said that:
 
-> &nbsp;“A journey is a process of feeling and inner transformation  and travel is a psychological experience and the psychological ingredient of happiness is why we travel.”&nbsp;
+> “A journey is a process of feeling and inner transformation  and travel is a psychological experience and the psychological ingredient of happiness is why we travel.”
 
-So what exactly what does this mean? Well in my opinion it means that traveling has ambition to change something in the inner world, but the only way for this to happen is if we challenge ourselves and learn while traveling.&nbsp;
+So what exactly what does this mean? Well in my opinion it means that traveling has ambition to change something in the inner world, but the only way for this to happen is if we challenge ourselves and learn while traveling.
 
 > “Travel, culture and art exist in the people we meet, so we need to be the creator of the ingredient and make life into a life of art!”
 
@@ -44,7 +44,7 @@ I think it is extremely interesting to try and understand this shift and the soc
 2. Connections
 3. Relationships.
 
-Everything that we are surrounded by only makes sense in a world where we feel like we belong.&nbsp;
+Everything that we are surrounded by only makes sense in a world where we feel like we belong.
 
 ![](/uploads/versions/we-love-to-travel---x----1520-1530x---.png)
 
@@ -62,6 +62,4 @@ To me, traveling is a journey of inner transformation, but it doesnt' have to st
 
 If you want to learn more about how you can become a part of our community where you can find unique learning experiences while traveling, read more here.
 
-&nbsp;
-
-###### [Back to top!&nbsp;](/2017/04/28/the-future-of-traveling.html) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
+###### [Back to top!](/2017/04/28/the-future-of-traveling.html)          [More from the blog](/blog.html)
