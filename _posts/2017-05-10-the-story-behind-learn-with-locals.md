@@ -122,4 +122,4 @@ I believe this is [the future of traveling](/2017/04/28/the-future-of-traveling.
 
 ##### &nbsp;
 
-###### [Back to top!](/2017/05/10/the-story-behind-learn-with-locals.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More from the blog](/blog.html)
+###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top&nbsp;](/2017/05/10/the-story-behind-learn-with-locals.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[More from the blog](/blog.html)
