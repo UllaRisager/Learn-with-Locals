@@ -22,19 +22,21 @@ I came up with the idea of offering Airbnb's, already huge community, of guests�
 
 #### I called this concept ‘Meet a Local’
 
-It would give Airbnb Hosts and local people a chance to create new sources of income while helping people experience their destination in new and meaningful ways.
+#### ![](/uploads/versions/meet-a-local---x----1242-1550x---.png)
 
-![](/uploads/versions/meet-a-local---x----1242-1550x---.png)
+It would give Airbnb Hosts and local people a chance to create new sources of income while helping people experience their destination in new and meaningful ways.
 
 #### 'The Local'
 
+![](/uploads/versions/profile-local---x----1263-1540x---.png)
+
 Airbnb’s new segment; ‘The Local’ would be a person who could offer unique cultural experiences from design, photography and street art, to ethnic food tours, private dinners, beer tastings and underground history, sightseeing and immersive cultural exchanges.
 
-This person could be anyone, your mom or dad, your aunt or cousin.
+![](/uploads/versions/the-local---x----1261-1542x---.png)
+
+This person could be done by anyone, your mom or dad, your aunt or cousin.
 
 It could be baby-boomers who were retired, Millennials who were creating a career for themselves or GenX’ers who had grown tired of the corporate suit-and-tie-world and was looking for other ways to make a living.
-
-#### ![](/uploads/versions/the-local---x----1261-1542x---.png)
 
 #### A lot of options here, agree?
 
