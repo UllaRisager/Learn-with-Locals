@@ -98,7 +98,7 @@ Rome wasn't built in a day.
 
 &nbsp;
 
-### 10. Persevere and continue to practice
+### 10. Persevere and practice, practice, practice&nbsp;
 
 Keeping this in mind will help you a long way.
 
