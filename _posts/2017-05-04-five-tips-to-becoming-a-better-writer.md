@@ -4,7 +4,7 @@ title: Five tips to becoming a better writer
 subtitle: How I upskilled my writing in Bali
 image_path: /uploads/become-a-better-writer.jpg
 banner: /uploads/become-a-better-writer.jpg
-image-alt: learning coding
+image-alt: Five tips to becoming a better writer
 snippet: How I upskilled my writing in Bali
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
