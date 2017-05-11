@@ -102,6 +102,8 @@ I didn’t even bother to look at my google analytics because I knew that no-one
 
 I guess Airbnb's creativity hasn’t yet permeated into their HR department or it was never meant to.
 
+&nbsp;
+
 ### The birth of Learn With Locals
 
 **I closed that chapter** and started thinking about my concept of ‘Meet A Local’.
@@ -109,6 +111,8 @@ I guess Airbnb's creativity hasn’t yet permeated into their HR department or i
 [I went to Bali to learn how to code](/2017/04/10/what-I-learned-from-coding.html), and when the day came to make up wireframes, I said to my mentor: "I’m gonna do a blog and he said: "No you’re not, you're gonna do this business idea you told me about last night!" "Ulla, you can create a fully working MVP", he said that with twinkles in his eyes, so I did it, I couldn't let him or myself down.
 
 I tweaked my original concept to fit my own needs, because to be honest, I’ve never booked any of [Airbnb’s Trip Experiences](https://www.airbnb.com/s/experiences) because they were either too expensive or too “average” despite being super curated and cool, I would rather upskill and learn, so I put everything into that idea and that’s how LEARN WITH LOCALS started.
+
+&nbsp;
 
 ### The philosophy behind the idea
 
