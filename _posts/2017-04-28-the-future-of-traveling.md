@@ -46,6 +46,8 @@ There's a big difference between traveling and going on a holiday for most peopl
 
 I personally believe that when we’re traveling, we’re of course moving, but we also want to be moved! Experiences that “move” us are usually those we tell our friends and family about when we come back, because those are the ones that stick.
 
+### &nbsp;
+
 ### So why travel and learn?
 
 Because death and taxes are the only sure and inevitable things in this world and I’m just trying to make sure I’m prepared to let go when that time comes. I do not want to wake up one day thinking, “what if” and feeling regret for the things I never did, the words I never said, the feelings I never felt and the dreams I never lived.
