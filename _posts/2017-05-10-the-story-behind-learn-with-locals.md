@@ -98,7 +98,7 @@ I was upset, I had just spent an entire week making my application and it was ta
 
 Then when that same role, in a different wording came back up a few weeks later, I sent off that same application and this time I got a reply back 3 weeks later that I wasn’t a suitable candidate.
 
-I didn’t even bother to look at my google analytics because I knew that no-one had even visited my page.
+I didn’t even bother to look at my google analytics because I knew that nobody had visited my page.
 
 **So much for trying to be creative** and being a little bit different with one of the worlds most disruptive startups.
 
@@ -120,7 +120,7 @@ This happened to me after surviving the Paris Terrorist Attack in 2015.
 
 I think most people truly want to have life-fulfilling experiences, not only at home, but also when they travel and they are seeking travel experiences that closely align to their own personal values.
 
-I believe this is [the future of traveling](/2017/04/28/the-future-of-traveling.html) and something that I truly want to touch upon by starting Learn With Locals - so that we can allow people to reach for for personal fulfillment and enriched lives, through experiences, connections and learning.
+I believe this is [the future of traveling](/2017/04/28/the-future-of-traveling.html) and something that I truly want to touch upon by starting Learn With Locals - so that we can allow people to reach for personal fulfillment and enriched lives, through experiences, connections and learning.
 
 ##### &nbsp;
 
