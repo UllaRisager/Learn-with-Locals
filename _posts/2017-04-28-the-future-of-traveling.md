@@ -34,7 +34,7 @@ So if traveling is a journey of inner transformation, it probably has ambition t
 
 Ultimately, I think this is the future of traveling, because this is what drives a change in behaviour and mindset among a given group of people.
 
-Early adopters and innovators &nbsp;will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
+Early adopters and innovators will see this and their behaviour will eventually manifest into more and more people’s minds and feelings, creating a new paradigm and thus a shift in travel behaviour.
 
 Not just a shift promoting learning, experiential traveling and personal empowerment, but it all comes down to feeling like we belong somewhere and connection - about seeing something in others, that touches something in us.
 
