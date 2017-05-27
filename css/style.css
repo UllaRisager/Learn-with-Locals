@@ -105,8 +105,11 @@ hr.grey-line {
   padding: 5%;
 }
 
-.dark-text {
+.top-banner-section .dark-text {
   color: black;
+}
+
+.dark-text .title {
   border-color: black;
 }
 
@@ -225,7 +228,7 @@ header a {
   padding: 0.4em;
   margin: 15px auto;
   font-size: 20px;
-  color: white;
+  color: inherit;
 }
 
 .title {
