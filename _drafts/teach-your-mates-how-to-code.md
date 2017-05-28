@@ -2,7 +2,7 @@
 layout: post
 title: Teach Your Mates How To Code
 subtitle: '“Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”'
-image_path: /uploads/teach-your-mates-how-to-code.png
+image_path:
 banner: /uploads/teach-your-mates-how-to-code.png
 image-alt: Teach Your Mates How To Code
 snippet: 'Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”'
