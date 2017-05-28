@@ -244,7 +244,7 @@ header a {
   margin: 3vh 0 0 0;
   font-size: 18px;
   padding:0.5rem 1rem;
-  border: 2px solid white;
+  border: 1px solid white;
   display: inline-block;
   transition: all 0.5s;
   color: white;
@@ -349,7 +349,6 @@ header a {
 /* --- Sign up section --- */
 .sign-up-section {
   text-align: center;
-  padding: 8vh 0;
 }
 
 .sign-up-section h4 {

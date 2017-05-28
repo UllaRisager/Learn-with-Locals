@@ -54,6 +54,7 @@
         </header>
 
 <header>
+  {% if page.menu == true %}
   <nav>
     <div class="burger-button">
         <span class="burger-top"></span>
@@ -81,6 +82,7 @@
       <ul>
     </div>
   </nav>
+    {% endif %}
 </header>
       <h1 class="{{page.banner-class}}">
         <div class="title ">{{page.title}}</div>
