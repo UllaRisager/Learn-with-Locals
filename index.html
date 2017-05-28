@@ -14,83 +14,49 @@ button: true
   </div>
 </section>
 
-<!--FEATURED BANNER SECTION  -->
-<section class="featured-banner-section center">
-  <h2>What do you want to learn?</h2>
-
-<!--FEATURE SKILL 1 -->
-<div class="grid">
-{% for upskill in site.upskills %}
-    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
-      <div class="padded">
-        <div class='image-tile' style='background-image:url("{{ upskill.feature-image_path }}");'></div>
-        <h3> {{ upskill.title }}</h3>
-        <p class="snippet"> {{upskill.snippet}}</p>
-        <p class="details">{{upskill.location}}</p>
-        <h5>{{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</h5>
-      </div>
-    </a>
-  {% endfor %}
-</div>
-</section>
-
-<!-- TESTIMONIAL-SECTION -->
-<section class="grid">
-  <div class="col-4_xs-12 center">
-      <img src="/images/general/cindy.jpg" alt="cindy.jpg" class="testimonial-image">
-      <h3>Cindy</h3>
-      <h5>Content Strategist</h5>
-    </div>
-    <div class="col-1 quote right">"</div>
-    <div class="col-6_xs-12--middle testimonial-section center">
-      I went on a 3 week holiday to Bali and wanted to learn something new and challenge myself, so I signed up for a 3 day coding experience with Tina. Can only recommend this to anyone wanting upskill and learn how to code - in paradise! :)
-    <div class="col-1-bottom quote right">"</div>
-  </div>
-</section>
-
-<!-- CATEGORY SECTION -->
-
-
-
-
-<!--<h2>What do you want to learn?</h2>
-<div class="grid-middle">
-{% for cat in site.categories %}
-    <a class="col-3_md-6_xs-12" href="/skills">
-      <div class="category-image category-square" style="background-image:url('/images/categories/{{ cat.feature-image }}')">
-        <div class='overlay grid-middle'>
-          <h4> {{ cat.title }}</h4>
-        </div>
-      </div>
-    </a>
-  {% endfor %}
-</div>
-</section>
- -->
 
 <!-- SIGN UP SECTION -->
 
-<section class="sign-up-section">
+<section class="sign-up-section" id="sign-up">
   <div>
     <h2>
-      Want to offer your skills and learn something new?
-    </h2>
-    <h5> We're currently building our community and looking for people like you!</h5>
+      Want to offer your skills and learn something new?</h2>
+    <p>
+      <h5>We're currently building our community and looking for people like you!</h5>
+    </p>
+    <h4>Join our community and get early access.</h4>
   </div>
-  <div>
-    <a class="black-button" target="_blank" href="https://learnwithlocals.typeform.com/to/r9afK7" rel="nofollow"> SIGN UP</a>
-</div>
-<h5>Join our community and get 20% OFF any Learning Experience.</h5>
-</section>
 
-<!-- <div>
-    <h2>
-      Want to offer your skills and learn something new?
-    </h2>
-    <h5>Join our community and recieve 20% off any learning experience!</h5>
-    <a class="black-button" href="/signup.html"> SIGN UP </a>
-  </div>
-</section> -->
+<form action="https://formspree.io/hello@learnwithlocals.io" method="POST" class="sign-up-form">
+
+        <label for="name"></label>
+        <input type="text" name="name" id="name" placeholder="Your name *" />
+
+        <label for="email"></label>
+        <input type="email" name="_replyto" id="email" placeholder="Your email *" />
+
+        <label for="phone"></label>
+        <input type="tel" name="phone" id="phone" placeholder="+(Country Code) Phone Number" />
+
+        <h5><label for="level"> Would you like to teach or learn?</label></h5>
+        <select name="level">
+            <option value="teach">Teach</option>
+            <option value="learn">Learn</option>
+            <option value="both"> Both</option>
+        </select>
+        <P>
+        <h5><label for="level"> What skills are you most interested in? </label></h5>
+        <textarea name="message" id="message" placeholder="E.g. I want to teach coding and learn photography + blogging, etc. *"></textarea>
+      </p>
+        <input type="submit" value="Submit" class="button" />
+
+  <!-- These are hidden fields -->
+  <input type="hidden" name="_cc" value="hello@learnwithlocals.io" />
+  <input type="text" name="_gotcha" style="display:none" />
+  <input type="hidden" name="_next" value="../register/blogging-thanks" />
+</div></form>
+</section>
+</section>
 
 <!-- BLOG SECTION -->
 <section class="blog-section center">

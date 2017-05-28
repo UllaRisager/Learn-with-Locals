@@ -1,0 +1,113 @@
+---
+layout: default
+title: Learn With Locals while you travel
+subtitle: Upskill and connect with likeminded people
+sign-up: <a class="button" href="/signup.html"> JOIN </a>
+banner: /images/homepage/bg-photography.jpg
+button: true
+---
+<!--ABOUT BANNER SECTION  -->
+<section class="about-banner-section center">
+  <div>
+    <h5>Imagine going to Bali and instead of just chilling by the pool or doing the typical tourist stuff, you might be able to upgrade or pick up a new skill.</h5>
+    <h5>Learn with Locals allows you to find unique travel experiences and learn while connecting with likeminded people.</h5>
+  </div>
+</section>
+
+<!--FEATURED BANNER SECTION  -->
+<section class="featured-banner-section center">
+  <h2>What do you want to learn?</h2>
+
+<!--FEATURE SKILL 1 -->
+<div class="grid">
+{% for upskill in site.upskills %}
+    <a class="col-4_md-6_xs-12" href="{{upskill.url}}">
+      <div class="padded">
+        <div class='image-tile' style='background-image:url("{{ upskill.feature-image_path }}");'></div>
+        <h3> {{ upskill.title }}</h3>
+        <p class="snippet"> {{upskill.snippet}}</p>
+        <p class="details">{{upskill.location}}</p>
+        <h5>{{ upskill.duration }} - {{ upskill.host-name }} - {{ upskill.price }}</h5>
+      </div>
+    </a>
+  {% endfor %}
+</div>
+</section>
+
+<!-- TESTIMONIAL-SECTION -->
+<section class="grid">
+  <div class="col-4_xs-12 center">
+      <img src="/images/general/cindy.jpg" alt="cindy.jpg" class="testimonial-image">
+      <h3>Cindy</h3>
+      <h5>Content Strategist</h5>
+    </div>
+    <div class="col-1 quote right">"</div>
+    <div class="col-6_xs-12--middle testimonial-section center">
+      I went on a 3 week holiday to Bali and wanted to learn something new and challenge myself, so I signed up for a 3 day coding experience with Tina. Can only recommend this to anyone wanting upskill and learn how to code - in paradise! :)
+    <div class="col-1-bottom quote right">"</div>
+  </div>
+</section>
+
+<!-- CATEGORY SECTION -->
+
+
+
+
+<!--<h2>What do you want to learn?</h2>
+<div class="grid-middle">
+{% for cat in site.categories %}
+    <a class="col-3_md-6_xs-12" href="/skills">
+      <div class="category-image category-square" style="background-image:url('/images/categories/{{ cat.feature-image }}')">
+        <div class='overlay grid-middle'>
+          <h4> {{ cat.title }}</h4>
+        </div>
+      </div>
+    </a>
+  {% endfor %}
+</div>
+</section>
+ -->
+
+<!-- SIGN UP SECTION -->
+
+<section class="sign-up-section">
+  <div>
+    <h2>
+      Want to offer your skills and learn something new?
+    </h2>
+    <h5> We're currently building our community and looking for people like you!</h5>
+  </div>
+  <div>
+    <a class="black-button" target="_blank" href="https://learnwithlocals.typeform.com/to/r9afK7" rel="nofollow"> SIGN UP</a>
+</div>
+<h5>Join our community and get 20% OFF any Learning Experience.</h5>
+</section>
+
+<!-- <div>
+    <h2>
+      Want to offer your skills and learn something new?
+    </h2>
+    <h5>Join our community and recieve 20% off any learning experience!</h5>
+    <a class="black-button" href="/signup.html"> SIGN UP </a>
+  </div>
+</section> -->
+
+<!-- BLOG SECTION -->
+<section class="blog-section center">
+  <h2>
+    Stories from the blog
+  </h2>
+  <!-- BLOG IMG 1 -->
+  <div class="grid">
+    {% for post in site.posts limit:4 %}
+    <a class="col-3_md-6_xs-12" href="{{post.url}}">
+  <div class="padded">
+    <img src="{{post.image_path}}" alt="{{post.image-alt}}">
+    <h4>{{post.title}}</h4>
+    <p>{{post.snippet}}</p>
+  </div>
+  </a>
+    {% endfor %}
+  </div>
+
+</section>

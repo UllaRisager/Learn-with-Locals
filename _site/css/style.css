@@ -440,13 +440,62 @@ color: rgb(72, 72, 72);
 
 /* --- Sign up section --- */
 
+
+.padded {
+  padding: 2%;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border: 1px solid rgb(220,220,220);
+}
+
+textarea {
+  min-height: 4rem;
+}
+
+form label {
+  font-family: 'Open Sans', serif;
+  margin: 1rem 0 0;
+  display: inline-block; /* This ads margin above each label. You need display inline block, because by default it's an inline element that won't accept vertical margin.*/
+  color: rgb(72, 72, 72);
+  font-weight: bold;
+}
+
+/* Checkbox styles */
+
+form input[type="checkbox"]{
+  margin: 0 1em;
+  width: auto;
+  display:inline-block;
+}
+
+.checkboxes p {
+  margin:0.5rem 0;
+  font-size: 0.8rem;
+}
+.checkboxes {
+  margin: 0 0 1.5em;
+  padding:0!important;
+}
+
+form input[type="submit"] {
+  background-color:#6C7A89;
+  color:white;
+  border: none;
+}
+
+
 form input, form textarea {
   width: 100%;
   margin: 0.5rem 0;
   padding: 0.5rem;
   border: 1px solid rgb(220,220,220);
   min-height: 3rem;
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-family: 'Open Sans', serif;
 }
 
@@ -459,7 +508,7 @@ textarea {
 form label {
   margin: 1rem 0 0;
   display: inline-block; /* This ads margin above each label. You need display inline block, because by default it's an inline element that won't accept vertical margin.*/
-  color: #6C7A89;
+  color: rgb(72, 72, 72);
   font-weight: bold;
 }
 
