@@ -100,8 +100,6 @@ Follow Johnny on T[witter](https://twitter.com/jonatanfekete).
 
 If you're interested in learning more about how you can get started teaching or learning a new skill, join our community [here](http://www.learnwithlocals.io/#sign-up).
 
-\*\*\*
-
-###### [Home](/)
+[Home](/)
 
 ###### [More stories](/blog.html)
