@@ -23,8 +23,6 @@ Turns our Ali had studied journalism, only she wasn’t really working within th
 
 She gave me a few tricks on writing and how to structure my content - that I would like to share with you here.
 
-&nbsp;
-
 ### 1. Headline
 
 The first thing to do once you know more or less what your topic is, is to find your first liner, your headline.
@@ -35,15 +33,11 @@ E.g Journaling has helped me heal, so the next question is; what was the most im
 
 From the first and most important thing that comes to your mind, you can usually extract your headline.
 
-&nbsp;
-
 ### 2. Opening
 
 Secondly you'll want to open your story with an Opening, so in this case, ask yourself, what triggered you to start journaling?
 
 This shouldn’t be more than a few lines long. (No more than 7-10 sentences).
-
-&nbsp;
 
 ### 3. Body
 
@@ -55,15 +49,11 @@ In this case I would add 3 points as my body, so point 1-3 would be something li
 * It helped me reflect on my progress (5-8 sentences).
 * It helped me feel less lonely (5-8 sentences).
 
-&nbsp;
-
 ### 4. Closing
 
 Last but not least, you’ll want to add a Closing, this is very important as it helps call to action and sum up the entire point of the story.
 
 Keep it short and to the point and always remember to include a call to action, especially if you are writing a blog and trying to grow your audience.
-
-&nbsp;
 
 ### 5. Why learn with a local?
 
@@ -81,8 +71,6 @@ Ali also taught me how not to write a novel but keep it short, (although I still
 
 **3. All the stuff in between - exactly!**All the stuff that Ali taught me was just so invaluable and what's even better is that when I then went to visit her in Ubud, she shared with me all her little secret spots around Ubud and it was just so amazing to meet her and learn more about what she does. It truly left me inspired to do something on my own.
 
-&nbsp;
-
 ### So why am I sharing this?
 
 I think learning from someone like Ali, just makes all the difference than opposed to learning on your own at home.
@@ -91,12 +79,10 @@ At home you're probably stressed out and not really open to learning and meeting
 
 If you’re interested in writing and becoming a better writer or content creator, I strongly recommend learning from someone like Ali, it doesn’t have to be in Bali and it doesn’t have to be her, but what better way to learn than from a passionate person who inspires you?
 
-&nbsp;
-
 If you - or someone you know who would like to teach a skill, please let me know by signing up [here](/signup.html).
 
 You can also learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
 
-&nbsp;
+[Home](/)
 
-###### [Home](/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Back to top](/2017/05/04/five-tips-to-becoming-a-better-writer.html)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[More stories](/blog.html)
+[More stories](/blog.html)
