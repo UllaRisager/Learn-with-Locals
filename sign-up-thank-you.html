@@ -1,0 +1,56 @@
+---
+layout: default
+title: Thank you for signing up
+subtitle: We'll be in touch
+banner: /images/homepage/bg-photography.jpg
+---
+
+<!-- SIGN UP SECTION -->
+<section class="about-section" class="center">
+<div>
+<h5> Learn with locals allows you to grow your skills while teaching others and connect with likeminded individuals while making money</h5>
+  <h5>We belive that everybody has a passion and a set of skills they master and can teach others. Why not share your skills, make money and meet new people while doing so? You don't have to be a professional to teach - passion will do just fine.</h5>
+</div>
+</section>
+
+
+<section class="blog-section center">
+  <h2>
+    Stories from the blog
+  </h2>
+  <!-- BLOG IMG 1 -->
+  <div class="grid">
+    {% for post in site.posts %}
+    <a class="col-3_md-6_xs-12" href="{{post.url}}">
+  <div class="padded">
+    <img src="{{post.image_path}}" alt="{{post.image-alt}}">
+    <h4>{{post.title}}</h4>
+    <p>{{post.snippet}}</p>
+  </div>
+  </a>
+    {% endfor %}
+  </div>
+</section>
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+ <!--<div class="addthis_inline_share_toolbox"></div>
+
+<!-- Google Maps -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9m-SiYb-AXaiPQzQ6hgcbJ12j30t69Ug&libraries=places"></script>
+  <script>
+    var input = document.getElementById('location');
+      var options = {
+        types: ['(regions)']
+      };
+
+    google.maps.event.addDomListener(input, 'keydown', function(e) {
+      if (e.keyCode == 13) {
+          e.preventDefault();
+      }
+    });
+
+    autocomplete = new google.maps.places.Autocomplete(input, options);
+  </script>
+</section>
