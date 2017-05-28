@@ -72,17 +72,17 @@ Maybe sometimes it would have been easier to explain things in person, but thank
 
 #### So why teach your mates how to code?
 
-* You can move forward with your own projects as you can use them as example tasks.
+- You can move forward with your own projects as you can use them as example tasks.
 
-* You can work on your own projects, the ones that you always neglected due to 'lack of time'.
+-You can work on your own projects, the ones that you always neglected due to 'lack of time'.
 
-* You can learn a lot of new stuff on-the-go, get a better overview of what you already know and learn how to organize your existing knowledge
+- You can learn a lot of new stuff on-the-go, get a better overview of what you already know and learn how to organize your existing knowledge
 
-* You can help people improve their skills and get better at the technologies that I know.
+- You can help people improve their skills and get better at the technologies that I know.
 
-* You can spend more time with your mates, so our relationships will improve.
+- You can spend more time with your mates, so our relationships will improve.
 
-* And for good karma; coding is an extremely valuable knowledge, you might help your friends change their careers, get better jobs or you might even start working together in the future. A real win-win!
+- And for good karma; coding is an extremely valuable knowledge, you might help your friends change their careers, get better jobs or you might even start working together in the future. A real win-win!
 
 ### &nbsp;
 
