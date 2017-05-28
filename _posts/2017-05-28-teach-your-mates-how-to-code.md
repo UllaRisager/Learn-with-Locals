@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Teach Your Mates How To Code
-subtitle: "Teaching my friends actually freed up time for me to work on my own projects that had been sitting there collecting dust for so long."
+subtitle: Teaching my friends actually freed up time for me to work on my own projects.
 image_path: /uploads/teach-your-mates-how-to-code.jpg
 banner: /uploads/teach-your-mates-how-to-code.jpg
 image-alt: Teach Your Mates How To Code
-snippet: "Teaching my friends actually freed up time for me to work on my own projects that had been sitting there collecting dust for so long."
+snippet: "Teaching my friends actually freed up time for me to work on my own projects that had been collecting dust for so long."
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 28th 2017
