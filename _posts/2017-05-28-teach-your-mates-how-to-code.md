@@ -66,6 +66,8 @@ The initial list of what to teach and where to start was tricky to write. For ex
 
 Maybe sometimes it would have been easier to explain things in person, but thanks to screen sharing and Skype calls, there was not that much of a difference.
 
+&nbsp;
+
 > #### "Teaching my friends actually freed up time for me to work on my own projects that had been sitting there collecting dust for so long."
 
 ### &nbsp;
