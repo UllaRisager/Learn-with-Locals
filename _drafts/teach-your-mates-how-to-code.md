@@ -14,6 +14,8 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
+&nbsp;
+
 “Half a year ago I was drowning in work. I had a lot on my mind, and I didn’t have any time to move forward with my personal projects - and I can tell you one thing; I’m always full of new ideas, but completing them takes a lot of time.”
 
 Meet Johnny Fekete - a digital nomad who originally comes from a business background, but taught himself how to code and is now a self-taught full-stack developer and entrepreneur. He is also the co-founder of Danish startup [Ditaso](https://ditaso.net/en/index.php), (a digital talent sourcing and recruitment tool.)
@@ -66,16 +68,23 @@ The initial list of what to teach and where to start was tricky to write. For ex
 
 Maybe sometimes it would have been easier to explain things in person, but thanks to screen sharing and Skype calls, there was not that much of a difference.
 
+> #### "Teaching my friends actually freed up time for me to work on my own projects that had been sitting there collecting dust for so long.
+
 #### &nbsp;
 
-#### What were some of the benefits of teaching your mates?
+#### So why teach your mates how to code?
 
-Actually, I found it very rewarding in many ways:
+&nbsp;
 
-* I could help two great people to get better with technologies that I know.
-* I could also learn about new stuff on the go and give a nice overview/structure for my own knowledge.
-* My own projects moved forward as we used them as example tasks, so teaching them, actually freed up time for me to work on my&nbsp; own projects that had been sitting there collecting dust for so long.
-* I could spend a lot more time with them (virtually), so our relationships improved a lot.
+* You can move forward with your own projects as you can use them as example tasks.
+* You can work on your own projects, the ones that you always neglected due to "lack of time."
+* You can learn a lot of new stuff on-the-go, get a better overview of what you already know and learn how to organize your existing knowledge
+
+* You can help people improve their skills and get better at the technologies that I know.
+
+* You can spend more time with your mates, so our relationships will improve.
+
+* And for good karma; coding is an extremely valuable knowledge, you might help your friends change their careers, get better jobs or you might even start working together in the future. A real win-win!
 
 #### &nbsp;
 
@@ -83,18 +92,12 @@ Actually, I found it very rewarding in many ways:
 
 Yes, I became quite a pro in react native, a technology I always wanted to master, and I learned how to explain and provide a structure for my existing knowledge.
 
-###### Check out the project that the three friends ended up creating over a weekend hackathon [here](http://guesswhatapp.net/#social-game).
+\*\*\*
 
-&nbsp;
+Check out the project that Johnny and his friends ended up creating over a weekend hackathon [here](http://guesswhatapp.net/#social-game).
 
-#### So why teach coding for a friend?
+Read the full story on [Medium](https://medium.com/@johnnyfekete/teach-your-mates-to-code-9cbe5a53f673).
 
-* You can work on your own projects, the ones that you always neglected because of the lack of time — so at the end, you’re not ‘wasting’ time
+Follow Johnny on T[witter](https://twitter.com/jonatanfekete).
 
-* You can learn a lot of new things, get a better overview of what you already know, organize your existing knowledge
-
-* You can spend more time with your friends (although I managed to find a lot of materials online which really reduced the times when we had to talk directly — they learned from articles, books, and video tutorials, and asked questions if they had any)
-
-* And for good karma: coding is an extremely valuable knowledge, you might help them in changing their careers, get better jobs or start working together in the future
-
-You can follow Johnny on [twitter](https://twitter.com/jonatanfekete):&nbsp;
+If you're interested in learning more about how you can get started teaching or learning a new skill, join our community [here](http://www.learnwithlocals.io/#sign-up).
