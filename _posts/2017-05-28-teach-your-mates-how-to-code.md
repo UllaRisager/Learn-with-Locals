@@ -100,7 +100,7 @@ Read the full story on [Medium](https://medium.com/@johnnyfekete/teach-your-mate
 
 Follow Johnny on T[witter](https://twitter.com/jonatanfekete).
 
-If you're interested in learning more about how you can get started teaching or learning a new skill, join our community [here](http://www.learnwithlocals.io/#sign-up).
+If you're interested in learning more about how you can get started teaching or learning a new skill, [join our community](/).
 
 ###### [Home](/)
 
