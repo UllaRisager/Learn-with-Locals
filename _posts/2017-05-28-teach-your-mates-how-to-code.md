@@ -20,7 +20,7 @@ Meet Johnny Fekete - a digital nomad who originally comes from a business backgr
 
 Besides developing things and teaching others, he loves long boarding and learning how to play the guitar.
 
-Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
+##### Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year...
 
 ### &nbsp;
 
@@ -30,7 +30,7 @@ Learn how Johnny taught his mates how to code and how they went from zero to her
 
 At the same time, my brother had also decided that he needed a career change, he told me that he could really imagine himself as a front-end developer…
 
-“Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”
+*“Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”*
 
 ### &nbsp;
 
@@ -62,7 +62,7 @@ I live in another country, so we had Skype sessions with screen share, where I c
 
 #### What were some of the challenges you encountered during the process?
 
-The initial list of what to teach and where to start was tricky to write. For example, I tried to google: “What does a front-end developer have to know", but I didn't really find anything in details.
+The initial list of what to teach and where to start was tricky to write. For example, I tried to google: *“What does a front-end developer have to know"*, but I didn't really find anything in details.
 
 Maybe sometimes it would have been easier to explain things in person, but thanks to screen sharing and Skype calls, there was not that much of a difference.
 
