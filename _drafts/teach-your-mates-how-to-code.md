@@ -34,37 +34,41 @@ At the same time, my brother had also decided that he needed a career change, he
 
 #### &nbsp;
 
-#### Talking about it is one thing and starting is another, but when and how did you &nbsp;actually start?
+#### Talking about it is one thing and starting is another, but when did you actually start?
 
-I don’t think there was an exact moment when I made a decision to start teaching my friends.
+I don’t think there was an exact moment when I made a decision to start teaching my friends, we just started.
 
-I was in a situation where I had a lot of ideas that I couldn't bring to life because of the lack of time and I had some friends, including my brother, who were interested in learning something new - especially my brother who was really thinking in a career change.
+I was in a situation where I had a lot of ideas that I couldn't bring to life because of the lack of time and I had some friends, including my brother, who were interested in learning something new - especially my brother who was really thinking about a career change.
 
-The idea was that if I would spend some time on teaching them, they could help me with my own projects. It would be a great practice for them too, as they need experience, and my projects would finally move forward.
+The idea was that if I would spend some time on teaching them, they could actually help me with my own projects as we'd be using my projects as learning examples. It would be a great practice for them too, as they need experience, and my projects would finally move forward.
 
 We talked about it many times, we figured out which areas interested them, and we found that we had similar interests in exchanging our skills.
 
 😃 A real win-win situation.
 
-Can you tell me a little about how did you taught them, did your create your own learning material or did you mostly use online materials?
+#### &nbsp;
 
-First of all I created a list for both of them about the subject/tools/techniques that I thought were relevant. Like a TO-DO list: if you learn this and this and that, you'll know enough to start developing yourself - in my opinion.
+#### Can you tell me a little more about how you taught them? Did your create your own learning materials?
 
-Then I tried to look up as many materials online, as I could.&nbsp; Luckily, coding are based on popular technologies that are really well covered, so very easy to find information and learning material to put together my own foundation.
+First of all I created a list for both of them about the subject/tools/techniques that I thought were relevant. Like a to-do list: if you learn this and this and that...you'll know enough to start developing yourself - in my opinion.
 
-How did you go about teaching?
+Then I tried to look up as many materials online, as I could. Luckily, coding are based on popular technologies that are really well covered, so very easy to find information and learning material to put together my own foundation.
 
 Once we had the learning direction, my mates could move in their own pace, ask me questions when they got stuck, and I also asked questions to make sure that they understood everything.
 
 I live in another country, so we had Skype sessions with screen share, where I could see what they were doing. Also, the very first thing I taught them was how to use Git, so from the first time I could review their codes.
 
-What were some of the challenges you encountered during the process?
+#### &nbsp;
+
+#### What were some of the challenges you encountered during the process?
 
 The initial list of what to teach and where to start was tricky to write. For example, I tried to google: “What does a front-end developer have to know", but I didn't really find anything in details.
 
 Maybe sometimes it would have been easier to explain things in person, but thanks to screen sharing and Skype calls, there was not that much of a difference.
 
-What were some of the rewarding aspects of teaching your mates?
+#### &nbsp;
+
+#### Any rewarding aspects of teaching your mates?
 
 Actually, I found it very rewarding in many ways:
 
