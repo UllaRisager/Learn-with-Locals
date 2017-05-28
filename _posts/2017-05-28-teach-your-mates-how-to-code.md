@@ -5,7 +5,6 @@ subtitle: How teaching my mates freed up time for my own projects
 image_path: /uploads/teach-your-mates-how-to-code.jpg
 banner: /uploads/teach-your-mates-how-to-code.jpg
 image-alt: Teach Your Mates How To Code
-snippet: "Teaching my mates actually freed up time for me to work on my own projects that had been collecting dust for so long."
 snippet: Teaching my friends actually freed up time for me to work on my own projects that had been collecting dust for so long.
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
@@ -24,6 +23,7 @@ Besides developing things and teaching others, he loves long boarding and learni
 Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
 
 ### &nbsp;
+
 #### **Where did the idea of teaching your friends come from**?
 
 “Half a year ago I had a conversation with my friend Szabi, who mentioned  that he would be interested in learning mobile programming.
@@ -32,8 +32,8 @@ At the same time, my brother had also decided that he needed a career change, he
 
 “Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”
 
-
 ### &nbsp;
+
 #### Talking about it is one thing and starting is another, but when did you actually start?
 
 I don’t think there was an exact moment when I made a decision to start teaching my friends, we just started.
@@ -45,7 +45,6 @@ The idea was that if I would spend some time on teaching them, they could actual
 We talked about it many times, we figured out which areas interested them, and we found that we had similar interests in exchanging our skills.
 
 😃 A real win-win situation.
-
 
 ### &nbsp;
 
@@ -59,7 +58,6 @@ Once we had the learning direction, my mates could move in their own pace, ask m
 
 I live in another country, so we had Skype sessions with screen share, where I could see what they were doing. Also, the very first thing I taught them was how to use Git, so from the first time I could review their codes.
 
-
 ### &nbsp;
 
 #### What were some of the challenges you encountered during the process?
@@ -69,7 +67,6 @@ The initial list of what to teach and where to start was tricky to write. For ex
 Maybe sometimes it would have been easier to explain things in person, but thanks to screen sharing and Skype calls, there was not that much of a difference.
 
 > #### "Teaching my friends actually freed up time for me to work on my own projects that had been sitting there collecting dust for so long."
-
 
 ### &nbsp;
 
@@ -88,6 +85,7 @@ Maybe sometimes it would have been easier to explain things in person, but thank
 * And for good karma; coding is an extremely valuable knowledge, you might help your friends change their careers, get better jobs or you might even start working together in the future. A real win-win!
 
 ### &nbsp;
+
 #### Apart from everything, did you learn or improve any specific skills yourself?
 
 Yes, I became quite a pro in react native, a technology I always wanted to master, and I learned how to explain and provide a structure for my existing knowledge.
@@ -101,3 +99,7 @@ Read the full story on [Medium](https://medium.com/@johnnyfekete/teach-your-mate
 Follow Johnny on T[witter](https://twitter.com/jonatanfekete).
 
 If you're interested in learning more about how you can get started teaching or learning a new skill, join our community [here](http://www.learnwithlocals.io/#sign-up).
+
+[Home](/)
+
+[More stories](/blog.html)
