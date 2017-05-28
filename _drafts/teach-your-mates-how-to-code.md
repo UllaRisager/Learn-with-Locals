@@ -68,23 +68,26 @@ Maybe sometimes it would have been easier to explain things in person, but thank
 
 #### &nbsp;
 
-#### Any rewarding aspects of teaching your mates?
+#### What were some of the benefits of teaching your mates?
 
 Actually, I found it very rewarding in many ways:
 
-I could help two great people to get better with technologies that I know.
+* I could help two great people to get better with technologies that I know.
+* I could also learn about new stuff on the go and give a nice overview/structure for my own knowledge.
+* My own projects moved forward as we used them as example tasks, so teaching them, actually freed up time for me to work on my&nbsp; own projects that had been sitting there collecting dust for so long.
+* I could spend a lot more time with them (virtually), so our relationships improved a lot.
 
-I could also learn about new stuff on the go and give a nice overview/structure for my own knowledge.
+#### &nbsp;
 
-My own projects moved forward as we used them as example tasks, so teaching them, actually freed up time for me to work on my&nbsp; own projects that had been sitting there collecting dust for so long.
-
-I could spend a lot more time with them (virtually), so our relationships improved a lot.
-
-Can you point out one thing in particular that you learned in the process of teaching your friends?
+#### Apart from everything, did you learn or improve any specific skills yourself?
 
 Yes, I became quite a pro in react native, a technology I always wanted to master, and I learned how to explain and provide a structure for my existing knowledge.
 
-So why teach coding for a friend?
+###### Check out the project that the three friends ended up creating over a weekend hackathon [here](http://guesswhatapp.net/#social-game).
+
+&nbsp;
+
+#### So why teach coding for a friend?
 
 * You can work on your own projects, the ones that you always neglected because of the lack of time — so at the end, you’re not ‘wasting’ time
 
