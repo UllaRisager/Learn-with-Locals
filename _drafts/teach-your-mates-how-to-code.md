@@ -16,17 +16,25 @@ author-about: Follow her on instagram @ulla_nuna.
 
 “Half a year ago I was drowning in work. I had a lot on my mind, and I didn’t have any time to move forward with my personal projects - and I can tell you one thing; I’m always full of new ideas, but completing them takes a lot of time.”
 
-Meet Johnny Fekete - a digital nomad who originally comes from a business background, but taught himself how to code and is now a self-taught full-stack developer and entrepreneur. He is also the co-founder of Danish startup [Ditaso](https://ditaso.net/en/index.php), ( a digital talent sourcing and recruitment tool.)
+Meet Johnny Fekete - a digital nomad who originally comes from a business background, but taught himself how to code and is now a self-taught full-stack developer and entrepreneur. He is also the co-founder of Danish startup [Ditaso](https://ditaso.net/en/index.php), (a digital talent sourcing and recruitment tool.)
 
-Besides developing things and teaching others, he loves long boarding and learning how to play the guitar.&nbsp; Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
+Besides developing things and teaching others, he loves long boarding and learning how to play the guitar.
 
-Where did the idea of teaching your mates come from
+Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
 
-“Half a year ago I talked a lot with Szabi — a friend of mine — that he would be interested in learning mobile programming; at the same time, my brother also decided that he needs a career change, and he could imagine himself as a front-end developer.”
+### &nbsp;
+
+#### **Where did the idea of teaching your friends come from**?
+
+“Half a year ago I had a conversation with my friend Szabi, who mentioned  that he would be interested in learning mobile programming.&nbsp;
+
+At the same time, my brother had also decided that he needed a career change, he told me that he could really imagine himself as a front-end developer...
 
 “Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”
 
-Can you tell me how it all started?
+#### &nbsp;
+
+#### Talking about it is one thing and starting is another, but when and how did you &nbsp;actually start?
 
 I don’t think there was an exact moment when I made a decision to start teaching my friends.
 
