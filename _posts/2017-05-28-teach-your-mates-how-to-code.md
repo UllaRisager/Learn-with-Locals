@@ -44,7 +44,7 @@ The idea was that if I would spend some time on teaching them, they could actual
 
 We talked about it many times, we figured out which areas interested them, and we found that we had similar interests in exchanging our skills.
 
-😃 A real win-win situation.
+A real win-win situation! 😃
 
 ### &nbsp;
 
