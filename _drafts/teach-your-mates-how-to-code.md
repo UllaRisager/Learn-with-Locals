@@ -14,13 +14,11 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-Teach your mates how to code
-
 “Half a year ago I was drowning in work. I had a lot on my mind, and I didn’t have any time to move forward with my personal projects - and I can tell you one thing; I’m always full of new ideas, but completing them takes a lot of time.”
 
-Meet Johnny Fekete - a digital nomad who originally comes from a business background, but taught himself how to code and is now a self-taught full-stack developer and entrepreneur. He is also the co-founder of Danish startup Ditaso, (https://ditaso.net/en/index.php a digital talent sourcing and recruitment tool.)
+Meet Johnny Fekete - a digital nomad who originally comes from a business background, but taught himself how to code and is now a self-taught full-stack developer and entrepreneur. He is also the co-founder of Danish startup [Ditaso](https://ditaso.net/en/index.php), ( a digital talent sourcing and recruitment tool.)
 
-Besides developing things and teaching others, he loves long boarding and learning how to play the guitar.  Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
+Besides developing things and teaching others, he loves long boarding and learning how to play the guitar.&nbsp; Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
 
 Where did the idea of teaching your mates come from
 
@@ -44,7 +42,7 @@ Can you tell me a little about how did you taught them, did your create your own
 
 First of all I created a list for both of them about the subject/tools/techniques that I thought were relevant. Like a TO-DO list: if you learn this and this and that, you'll know enough to start developing yourself - in my opinion.
 
-Then I tried to look up as many materials online, as I could.  Luckily, coding are based on popular technologies that are really well covered, so very easy to find information and learning material to put together my own foundation.
+Then I tried to look up as many materials online, as I could.&nbsp; Luckily, coding are based on popular technologies that are really well covered, so very easy to find information and learning material to put together my own foundation.
 
 How did you go about teaching?
 
@@ -66,7 +64,7 @@ I could help two great people to get better with technologies that I know.
 
 I could also learn about new stuff on the go and give a nice overview/structure for my own knowledge.
 
-My own projects moved forward as we used them as example tasks, so teaching them, actually freed up time for me to work on my  own projects that had been sitting there collecting dust for so long.
+My own projects moved forward as we used them as example tasks, so teaching them, actually freed up time for me to work on my&nbsp; own projects that had been sitting there collecting dust for so long.
 
 I could spend a lot more time with them (virtually), so our relationships improved a lot.
 
@@ -84,4 +82,4 @@ So why teach coding for a friend?
 
 * And for good karma: coding is an extremely valuable knowledge, you might help them in changing their careers, get better jobs or start working together in the future
 
-You can follow Johnny on twitter:  https://twitter.com/jonatanfekete
+You can follow Johnny on [twitter](https://twitter.com/jonatanfekete):&nbsp;
