@@ -38,11 +38,14 @@ button: true
         <label for="phone"></label>
         <input type="tel" name="phone" id="phone" placeholder="+(Country Code) Phone Number" />
 
-        <h5><label for="level"> Would you like to teach or learn?</label></h5>
-        <select name="level">
-            <option value="teach">Teach</option>
-            <option value="learn">Learn</option>
-            <option value="both"> Both</option>
+          <h5>
+          <label> Would you like to teach or learn??  </label>                 </h5>
+                 <div class="checkboxes">
+                 <p>TEACH<input type="checkbox" name="interests" value="fly" /> </p>
+                 <p>LEARN<input type="checkbox" name="interests" value="surf" /> </p>
+                 <p>BOTH<input type="checkbox" name="interests" value="following" /> </p>
+               </div>
+
         </select>
         <P>
         <h5><label for="level"> What skills are you most interested in? </label></h5>
@@ -63,6 +66,9 @@ button: true
   <h2>
     Stories from the blog
   </h2>
+  <div>
+    <hr>
+  </div>
   <!-- BLOG IMG 1 -->
   <div class="grid">
     {% for post in site.posts limit:4 %}

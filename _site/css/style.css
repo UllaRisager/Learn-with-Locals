@@ -79,7 +79,7 @@ a {
 hr {
   border: 1px solid red;
   width: 90px;
-  margin: auto;
+  margin: 25px auto;
 }
 
 hr.grey-line {
