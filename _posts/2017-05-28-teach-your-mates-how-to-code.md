@@ -5,11 +5,8 @@ subtitle: How teaching my mates freed up time for my own projects
 image_path: /uploads/teach-your-mates-how-to-code.jpg
 banner: /uploads/teach-your-mates-how-to-code.jpg
 image-alt: Teach Your Mates How To Code
-<<<<<<< HEAD
 snippet: "Teaching my mates actually freed up time for me to work on my own projects that had been collecting dust for so long."
-=======
 snippet: Teaching my friends actually freed up time for me to work on my own projects that had been collecting dust for so long.
->>>>>>> origin/master
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 28th 2017
@@ -26,11 +23,7 @@ Besides developing things and teaching others, he loves long boarding and learni
 
 Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year.
 
-<<<<<<< HEAD
 ### &nbsp;
-
-=======
->>>>>>> origin/master
 #### **Where did the idea of teaching your friends come from**?
 
 “Half a year ago I had a conversation with my friend Szabi, who mentioned  that he would be interested in learning mobile programming.
@@ -39,11 +32,8 @@ At the same time, my brother had also decided that he needed a career change, he
 
 “Higher education takes a lot of time, and they often teach outdated knowledge when it comes to fast-moving technologies. Besides that, my mates were both so busy with their lives, so no time for universities nor going back to school, they needed something faster and more efficient.”
 
-<<<<<<< HEAD
-### &nbsp;
 
-=======
->>>>>>> origin/master
+### &nbsp;
 #### Talking about it is one thing and starting is another, but when did you actually start?
 
 I don’t think there was an exact moment when I made a decision to start teaching my friends, we just started.
@@ -56,11 +46,9 @@ We talked about it many times, we figured out which areas interested them, and w
 
 😃 A real win-win situation.
 
-<<<<<<< HEAD
+
 ### &nbsp;
 
-=======
->>>>>>> origin/master
 #### Can you tell me a little more about how you taught them? Did your create your own learning materials?
 
 First of all I created a list for both of them about the subject/tools/techniques that I thought were relevant. Like a to-do list: if you learn this and this and that…you'll know enough to start developing yourself - in my opinion.
@@ -71,11 +59,9 @@ Once we had the learning direction, my mates could move in their own pace, ask m
 
 I live in another country, so we had Skype sessions with screen share, where I could see what they were doing. Also, the very first thing I taught them was how to use Git, so from the first time I could review their codes.
 
-<<<<<<< HEAD
+
 ### &nbsp;
 
-=======
->>>>>>> origin/master
 #### What were some of the challenges you encountered during the process?
 
 The initial list of what to teach and where to start was tricky to write. For example, I tried to google: “What does a front-end developer have to know", but I didn't really find anything in details.
@@ -84,11 +70,9 @@ Maybe sometimes it would have been easier to explain things in person, but thank
 
 > #### "Teaching my friends actually freed up time for me to work on my own projects that had been sitting there collecting dust for so long."
 
-<<<<<<< HEAD
+
 ### &nbsp;
 
-=======
->>>>>>> origin/master
 #### So why teach your mates how to code?
 
 * You can move forward with your own projects as you can use them as example tasks.
@@ -103,11 +87,7 @@ Maybe sometimes it would have been easier to explain things in person, but thank
 
 * And for good karma; coding is an extremely valuable knowledge, you might help your friends change their careers, get better jobs or you might even start working together in the future. A real win-win!
 
-<<<<<<< HEAD
 ### &nbsp;
-
-=======
->>>>>>> origin/master
 #### Apart from everything, did you learn or improve any specific skills yourself?
 
 Yes, I became quite a pro in react native, a technology I always wanted to master, and I learned how to explain and provide a structure for my existing knowledge.
