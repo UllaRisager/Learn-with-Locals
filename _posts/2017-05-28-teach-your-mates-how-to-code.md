@@ -20,13 +20,13 @@ Meet Johnny Fekete - a digital nomad who originally comes from a business backgr
 
 Besides developing things and teaching others, he loves long boarding and learning how to play the guitar.
 
-##### Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year...
+##### Learn how Johnny taught his mates how to code and how they went from zero to hero in just less than half a year…
 
 ### &nbsp;
 
 #### **Where did the idea of teaching your friends come from**?
 
-“Half a year ago I had a conversation with my friend Szabi, who mentioned  that he would be interested in learning mobile programming.
+Half a year ago I had a conversation with my friend Szabi, who mentioned  that he would be interested in learning mobile programming.
 
 At the same time, my brother had also decided that he needed a career change, he told me that he could really imagine himself as a front-end developer…
 
@@ -80,9 +80,9 @@ You can work on your own projects, the ones that you always neglected due to 'la
 
 You can learn a lot of new stuff on-the-go, get a better overview of what you already know and learn how to organize your existing knowledge
 
-You can help people improve their skills and get better at the technologies that I know.
+You can help people improve their skills and get better at the technologies that you know.
 
-You can spend more time with your mates, so our relationships will improve.
+You can spend more time with your mates, so your relationships will improve.
 
 And for good karma; coding is an extremely valuable knowledge, you might help your friends change their careers, get better jobs or you might even start working together in the future. A real win-win!
 
