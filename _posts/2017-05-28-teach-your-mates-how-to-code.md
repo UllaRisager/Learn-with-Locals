@@ -98,7 +98,7 @@ Check out the project that Johnny and his friends ended up creating over a weeke
 
 Read the full story on [Medium](https://medium.com/@johnnyfekete/teach-your-mates-to-code-9cbe5a53f673).
 
-Follow Johnny on T[witter](https://twitter.com/jonatanfekete).
+Follow Johnny on [Twitter](https://twitter.com/jonatanfekete).
 
 If you're interested in learning more about how you can get started teaching or learning a new skill, [join our community](/).
 
