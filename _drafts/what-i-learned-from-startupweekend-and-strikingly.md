@@ -14,27 +14,29 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at Strikingly.
+&nbsp;
+
+A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com/s).
 
 I was attending a [Startup Weekend](http://startupweekend.org/) event here in Bali. We were all there to pitch our ideas and learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
-I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She burst out laughing and shrugged her shoulders, (in a good way), then looked at me - smiled and said: "That's because you're a developer, our product is not meant for people who can code."&nbsp;
+I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She burst out laughing and shrugged her shoulders, (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."&nbsp;*
 
-I remember thinking: “Ok, well I just wanted to move a small sign up box slightly to the left when I was playing around with it earlier. I was just curious - perhaps I could tweak my theme, just like with Wordpress, being quite the perfectionist when it comes to how things look…
+I remember thinking: *Ok, well I just wanted to move a small sign up box slightly to the left when I was playing around with it earlier.* I was just curious - perhaps I could tweak my theme, just like with Wordpress, being quite the perfectionist when it comes to how things look…
 
-But I also remember thinking: “WOW, this girl knows her shit!” She was VERY clear on what Strikingly was and was NOT and who their audience was and I was very fascinated by the clarity of her voice.
+But I also remember thinking: *WOW, this girl knows her shit!*&nbsp;She was VERY clear on what Strikingly was and wasn't and who their audience was and I was very fascinated by her clarity.&nbsp;
 
-"At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them"
+*"At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them"*
 
-EVERYONE. Not just people with specific skills, but everyone.
+*Everyone.* Not just people with specific skills, but everyone.
 
 Susan then went on to tell me the story of three guys and how they applied to [YCombinator​](http://www.ycombinator.com/), got rejected and then applied again and became [YCombinator's](http://www.ycombinator.com/) first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.&nbsp;
 
-Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is HOW they acquired their users.
+Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how*&nbsp;they acquired their users.
 
-Susan told me about how she joined the company 2 years in, how the entire team of maybe 2 people besides the three co-founders had to move to China, because their Visas ran out and they were not able to renew or get green cards.
+Susan told me about how she joined the company 2 years in, how the entire team of maybe 2 people besides the three co-founders had to move to China, because their visas ran out and they were not able to renew or get green cards.
 
 She told me about how she, and one of the co-founders, would personally add people on Facebook and follow them on Instagram, people who were building sites with Strikingly and people who had questions or who didn’t finish their site for some reasons, they would immediately email these people and ask WHY they stopped and what they could do to improve the product.
 
