@@ -2,10 +2,10 @@
 layout: post
 title: What I learned from Strikingly and  Startup Weekend in Bali
 subtitle: How teaching my mates freed up time for my own projects
-image_path: /uploads/teach-your-mates-how-to-code.jpg
-banner: /uploads/teach-your-mates-how-to-code.jpg
-image-alt: Teach Your Mates How To Code
-snippet: Teaching my friends actually freed up time for me to work on my own projects that had been collecting dust for so long.
+image_path: /uploads/strikingly.jpg
+banner: /uploads/strikingly.jpg
+image-alt: Strikingly
+snippet: 'At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 28th 2017
@@ -30,7 +30,7 @@ But I also remember thinking: “WOW, this girl knows her shit!” She was VERY 
 
 EVERYONE. Not just people with specific skills, but everyone.
 
-Susan then went on to tell me the story of three guys and how they applied to YCombinator​, got rejected and then applied again and became YCombinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.&nbsp;
+Susan then went on to tell me the story of three guys and how they applied to [YCombinator​](http://www.ycombinator.com/), got rejected and then applied again and became [YCombinator's](http://www.ycombinator.com/) first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.&nbsp;
 
 Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is HOW they acquired their users.
 
