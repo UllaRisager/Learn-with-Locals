@@ -18,7 +18,7 @@ A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Str
 
 ![](/uploads/versions/strikingly---x----1024-683x---.jpg)
 
-I was attending a[Startup Weekend](http://startupweekend.org/) event here in Bali. We were all there to pitch our ideas and learn.
+I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali. We were all there to pitch our ideas and learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
