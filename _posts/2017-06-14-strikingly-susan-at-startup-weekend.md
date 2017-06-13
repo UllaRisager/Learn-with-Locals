@@ -142,13 +142,15 @@ Not a website or coding skills or any other skills for that matter, it JUST TAKE
 
 ##### **So why am I sharing this story of meeting Strikingly Susan with you?**
 
-Well because: &nbsp;*1. I am inspired and I would like to pass that inspiration and feeling on to you*.
+Well because:
 
-Someone might be reading this and perhaps be inspired to take action.
+1. I am inspired and I would like to pass that inspiration and feeling on to you.
 
-And: 2. *Because I want you to live a life full of creativity, empowerment and belonging.*
+Someone might be reading this and perhaps be inspired to take action and:
 
-1. Pablo Picasso said:
+2. Because I want you to live a life full of creativity, empowerment and belonging.
+
+3. Pablo Picasso said:
 
 > *“The meaning of life is to find your gift and the purpose of life is to give it away.”*
 
