@@ -50,6 +50,8 @@ It's really that simple.
 
 Abraham Maslow created the[ Hierarchy of Needs Pyramid](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) - we are all familiar with this, and Chip Conley, former Head of Hospitality and Strategy at Airbnb has taken this theory and applied it to building a business, a brand, a brand voice and a culture through peak-experiences. In his [book](https://chipconley.com/getting-more-mojo-from-maslow/); '[How Great Companies Get Their Mojo From Maslow'](https://www.amazon.com/Peak-Companies-Maslow-non-Franchise-Leadership-ebook/dp/B0067KS0VS/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1497374507&amp;sr=1-1&amp;keywords=mojo+from+maslow): Chip explains how helping people understand their full potential and help them transform themselves, you can help people reach their peak-performance and unleash a life full of abundant talent, creativity and commitment.&nbsp;
 
+![](/uploads/versions/maslows-hierarchy-of-needs1---x----1344-1000x---.jpg)
+
 AND the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls:&nbsp;*Peak-experiences.*Conley argues that any individuals’ deepest motivations sit at the top of the pyramid - and take on an inspirational quality.
 
 Which brings me to my next point of this story:
@@ -70,13 +72,25 @@ Had that been today, I would have been thrilled to get a way out, off the hook o
 
 Did any of you ever have a teacher like that? Well I never knew it back then, but he was GOLD. Iver was his name.
 
-So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch upon or play around with the upper shelf? The very top block that covers the self-actualization and peak-performance needs?
+So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch this need?
 
-Our very best version of ourselves, where we are inspired and motivated to do good and to give away wisdom? Well not very often in most cases, and I am only speaking for myself.
+The very top block that covers the self-actualization and peak-performance needs?
+
+Where the very best version of ourselves just sits there.
+
+Where we are inspired and motivated to do good and to give away wisdom?
+
+Well not very often in most cases. I am only speaking for myself, but I'm pretty sure many of you can relate.
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
-So my last thought for this piece, is to ask, why aren’t we doing this, why aren’t we living a life full of peak-performances and self-actualisation?
+So my last thought for this piece, is to ask:
+
+&nbsp;*"Why aren’t we doing this, why aren’t we living a life full of peak-performances and self-actualisation ever single day?"*
+
+Well...here's a potential answer:
+
+![](/uploads/versions/maslow-2014-wifi---x----894-894x---.jpg)
 
 And what can we do to foster and nurture this transition, make it less hard to reach that very top shelf?
 
