@@ -14,17 +14,15 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-&nbsp;
-
 A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com/s).
 
 I was attending a [Startup Weekend](http://startupweekend.org/) event here in Bali. We were all there to pitch our ideas and learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
-I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She burst out laughing and shrugged her shoulders, (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."&nbsp;*
+I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She started laughing and shrugged her shoulders, (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."&nbsp;*
 
-I remember thinking: *Ok, well I just wanted to move a small sign up box slightly to the left when I was playing around with it earlier.* I was just curious - perhaps I could tweak my theme, just like with Wordpress, being quite the perfectionist when it comes to how things look…
+I remember thinking: *Ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier.* I was just curious - perhaps I could tweak my theme, just like with Wordpress, being quite the perfectionist when it comes to how things look.
 
 But I also remember thinking: *WOW, this girl knows her shit!*&nbsp;She was VERY clear on what Strikingly was and wasn't and who their audience was and I was very fascinated by her clarity.&nbsp;
 
@@ -32,11 +30,11 @@ But I also remember thinking: *WOW, this girl knows her shit!*&nbsp;She was VERY
 
 *Everyone.* Not just people with specific skills, but everyone.
 
-Susan then went on to tell me the story of three guys and how they applied to [YCombinator​](http://www.ycombinator.com/), got rejected and then applied again and became [YCombinator's](http://www.ycombinator.com/) first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.&nbsp;
+Susan told me the story of three guys. How they applied to [YCombinator​](http://www.ycombinator.com/), got rejected and then applied again and became [YCombinator's](http://www.ycombinator.com/) first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.&nbsp;
 
 Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how*&nbsp;they acquired their users.
 
-Susan told me about how she joined the company 2 years in, how the entire team of maybe 2 people besides the three co-founders had to move to China, because their visas ran out and they were not able to renew or get green cards.
+Susan told me about how she joined the company 2 years ago and how the entire team of maybe 2 people besides the three co-founders had to move to China, because their visas ran out and they were not able to renew or get green cards.
 
 She told me about how she, and one of the co-founders, would personally add people on Facebook and follow them on Instagram, people who were building sites with Strikingly and people who had questions or who didn’t finish their site for some reasons, they would immediately email these people and ask WHY they stopped and what they could do to improve the product.
 
@@ -44,21 +42,37 @@ Susan would also (in her own words “stalk”) or more accurately; add users to
 
 Which brings me to my next point.
 
-We, as people, users we don’t just wanna sign up to services or simply BUY services, hell no - we want experiences, interaction with REAL people, peers, experts and mentors. WE WANT TO LEARN and we want to help and give knowledge to others so we ourselves can grow and feel good abut ourselves.
+I believe that we, as people don't just wanna be seen as users we don’t just wanna sign up to services or simply BUY services, hell no - we want to acknowledged as human beings and we buy in to experiences, interactions with REAL people, peers, experts and mentors.
 
-Abraham Maslow created the Hierarchy of Needs Pyramid - we are all familiar with this, and Chip Conley, former Head of Hospitality and Strategy at Airbnb has taken this theory and applied it to building a business, a brand, a brand voice and a culture through peak-experiences. In his book how great companies get their mojo from Maslow: https://www.amazon.com/Peak-Great-Companies-Their-Maslow/dp/0787988618 Chip explains how by helping people understand their full potential and “climb the ladder” to the very top shelf of the needs pyramid, you can help people reach their peak-performance and unleash a life full of abundant talent, creativity and commitment.&nbsp;
+> WE WANT TO LEARN and we want to help and give knowledge to others so we, in return, can grow and feel good abut ourselves.
 
-AND the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls:&nbsp; Peak-experiences.
+It's really that simple.
 
-Which brings me to my next point of this story: How do you create peak experiences for yourself and for others? Two very very simple things: Learning and teaching, mentoring and being mentored.
+Abraham Maslow created the[ Hierarchy of Needs Pyramid](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) - we are all familiar with this, and Chip Conley, former Head of Hospitality and Strategy at Airbnb has taken this theory and applied it to building a business, a brand, a brand voice and a culture through peak-experiences. In his [book](https://chipconley.com/getting-more-mojo-from-maslow/); '[How Great Companies Get Their Mojo From Maslow'](https://www.amazon.com/Peak-Companies-Maslow-non-Franchise-Leadership-ebook/dp/B0067KS0VS/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1497374507&amp;sr=1-1&amp;keywords=mojo+from+maslow): Chip explains how helping people understand their full potential and help them transform themselves, you can help people reach their peak-performance and unleash a life full of abundant talent, creativity and commitment.&nbsp;
 
-When I was in High school, back in Denmark, I had this very very old Greek teacher, yes believe me he was old, but he was also wise, I didn’t pay much attention back then, but I’ve thought about what he used to say to us on Monday mornings, numerous times since:&nbsp;
+AND the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls:&nbsp;*Peak-experiences.*Conley argues that any individuals’ deepest motivations sit at the top of the pyramid - and take on an inspirational quality.
 
-“If you can come to me by the end of the week and show me 4 books that you’ve read” I won’t care if you haven’t done your homework” BAM! Had that been today, I would have been thrilled to get a way out, off the hook of those horrible Greek characters, but back then…you can probably imagine how many people raised their hands and handed in 4 books. zero, all through 3 years of High School.&nbsp;
+Which brings me to my next point of this story:
+
+How do you create peak experiences for yourself and for others?
+
+**Two very very simple things:**
+
+Learning and teaching, mentoring and being mentored.
+
+When I was in High School, back in Denmark, I had this very very old Latin teacher, yes believe me he was old, but he was also wise, I didn’t pay much attention back then, but I’ve thought about what he used to say to us on Monday mornings, numerous times since:&nbsp;
+
+*“If you can come to me by the end of the week and show me four books that you’ve read” I won’t care if you haven’t done your homework!”*
+
+BAM!
+
+Had that been today, I would have been thrilled to get a way out, off the hook of that horrible Latin grammar, but back then…you can probably imagine how many people raised their hands and handed in four books. zero, all through three years of High School.&nbsp;
 
 Did any of you ever have a teacher like that? Well I never knew it back then, but he was GOLD. Iver was his name.
 
-So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch upon or play around with the upper shelf? The very top shelf of self-actualization and peak-performance? Our very best version of ourselves, where we are inspired and motivated to do good and to give away wisdom? Well not very often in most cases, and I am only speaking for myself.
+So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch upon or play around with the upper shelf? The very top block that covers the self-actualization and peak-performance needs?
+
+Our very best version of ourselves, where we are inspired and motivated to do good and to give away wisdom? Well not very often in most cases, and I am only speaking for myself.
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
