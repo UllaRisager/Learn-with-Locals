@@ -8,7 +8,7 @@ image-alt: Strikingly
 snippet: 'At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them'
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
-blog-date: May 28th 2017
+blog-date: June 214th 2017
 author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler and digital nomad and also the founder of Learn With Locals."
 author-about: Follow her on instagram @ulla_nuna.
 ---
