@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What I Learned From Strikingly Susan At Startup Weekend.
+title: Strikingly Susan At Startup Weekend.
 subtitle: Strikingly’s mission is so crystal clear it’s hard NOT to be inspired
 image_path: /uploads/susanlou.jpg
 banner: /uploads/strikingly.jpg
