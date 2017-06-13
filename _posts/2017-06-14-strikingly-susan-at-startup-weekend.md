@@ -50,16 +50,14 @@ She told me about how she, and one of the co-founders, would personally add peop
 
 Susan would also (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with these people and she actually showed me numerous amounts of WeChats and also explained how she has landed exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she has helped Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, maybe not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE.
 
-#### #
+&nbsp;
 {: .present-before-paste}
 
 ##### Which brings me to my next point.
 {: .present-before-paste}
 
-#### #
-{: .present-before-paste}
-
 In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said: *"They say tech is disrupting people, that robots are replacing us, but we at Airbnb; you guys &nbsp;- you are the ones disrupting tech - robots - because you have hearts and Airbnb is made up of a community of hearts."*
+{: .present-before-paste}
 
 This statement supports by belief that we as people don't just wanna be seen as users we don’t just wanna sign up to services or simply BUY services, hell no - we want to be acknowledged as human beings, which is why we buy into experiences, interactions with REAL people, peers, experts, mentors and role-models. People with hearts.
 
@@ -75,16 +73,14 @@ In his [book](https://chipconley.com/getting-more-mojo-from-maslow/); '[How Grea
 
 AND the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls:&nbsp;*Peak-experiences.*He alsoargues that any individuals’ deepest motivations sit at the top of the pyramid - and take on an inspirational quality.
 
-#### #
+&nbsp;
 {: .present-before-paste}
 
 ##### Which brings me to my next point of this story:
 {: .present-before-paste}
 
-#### #
-{: .present-before-paste}
-
 How do you create peak experiences for yourself and for others?
+{: .present-before-paste}
 
 **Two very very simple things:**
 
@@ -112,8 +108,7 @@ Well not very often in most cases. I am only speaking for myself, but I'm pretty
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
-#### #
-{: .present-before-paste}
+&nbsp;
 
 ##### So my last thought is to ask this:
 {: .present-before-paste}
@@ -138,9 +133,9 @@ In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-B
 
 Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
-#### #
+&nbsp;
 
-##### **So why am I sharing this story of meeting Strikingly Susan with you?**
+**So why am I sharing this story of meeting Strikingly Susan with you?**
 
 Well because:
 
