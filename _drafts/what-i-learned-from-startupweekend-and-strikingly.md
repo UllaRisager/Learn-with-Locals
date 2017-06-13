@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What I learned from Strikingly and  Startup Weekend in Bali
-subtitle: How teaching my mates freed up time for my own projects
+title: What I learned from Strikingly and Startup Weekend
+subtitle: Strikingly’s mission is so crystal clear it’s hard NOT to be inspired
 image_path: /uploads/strikingly.jpg
 banner: /uploads/strikingly.jpg
 image-alt: Strikingly
@@ -16,7 +16,7 @@ author-about: Follow her on instagram @ulla_nuna.
 
 A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at Strikingly.
 
-I was attending a Startup Weekend event here in Bali. We were all there to pitch our ideas and learn.
+I was attending a [Startup Weekend](http://startupweekend.org/) event here in Bali. We were all there to pitch our ideas and learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
@@ -90,6 +90,6 @@ Strikingly’s mission is so crystal clear it’s hard NOT to be inspired:&nbsp;
 
 David Chen, CEO and co-founder of Strikingly.
 
-I too believe that every human being is by nature, creative and entrepreneurial, which is why I started Learn With Locals, something that came to me as an idea in the first place when I was renting out my apartment on Airbnb and saw a demand for truly unique experiences, not only from my guests, but also from myself as a host. I truly wanted to connect with my guests in a different way other than just changeing their sheets and handing them my keys. You can read more about that story here. http://www.learnwithlocals.io/2017/05/10/the-story-behind-learn-with-locals.html
+I too believe that every human being is by nature, creative and entrepreneurial, which is why I started Learn With Locals, something that came to me as an idea in the first place when I was renting out my apartment on Airbnb and saw a demand for truly unique experiences, not only from my guests, but also from myself as a host. I truly wanted to connect with my guests in a different way other than just changing their sheets and handing them my keys. You can read more about that story here. http://www.learnwithlocals.io/2017/05/10/the-story-behind-learn-with-locals.html
 
 &nbsp;So, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about and Own your dreams and join our community: http://www.learnwithlocals.io/ so we can help each other reach the top shelf -
