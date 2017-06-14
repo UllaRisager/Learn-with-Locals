@@ -50,7 +50,10 @@ She told me about how she, and one of the co-founders, would personally add peop
 
 She would (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with people. She also explained how she was able to land exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she is helping Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, perhaps not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE...
 
-##### Which brings me to my first point.
+#### &nbsp;
+{: .present-before-paste}
+
+#### Which brings me to my first point.
 {: .present-before-paste}
 
 In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
@@ -73,7 +76,9 @@ He argues that the only way to help people reach this very top shelf, is enablin
 
 Believe it or not, but why not try it our for yourself?!
 
-##### Which brings me to my next point of this story:
+&nbsp;
+
+#### Which brings me to my next point of this story:
 {: .present-before-paste}
 
 How do you create peak experiences for yourself and for others?
@@ -105,7 +110,7 @@ The “problem” is that in order to reach that state of mind, we need to pass 
 ##### &nbsp;
 {: .present-before-paste}
 
-##### So my last thought is asking you this:
+#### So my last thought is asking you this:
 {: .present-before-paste}
 
 &nbsp;*"Why aren’t we doing this, why aren’t we living a life full of peak-performances and self-actualisation ever single day?"*
@@ -126,7 +131,9 @@ In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-B
 
 Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
-**So why am I sharing this story of meeting Susan and learning about Strikingly with you?**
+&nbsp;
+
+#### **So why am I sharing this story of meeting Susan and learning about Strikingly with you?**
 
 Well because:
 
@@ -144,7 +151,7 @@ Just like Iver, my High School Latin teacher.&nbsp;
 
 ##### &nbsp;
 
-##### Do yourself a favor and claim your voice
+#### Do yourself a favor and claim your voice
 
 I truly believe that every human being is by nature, creative and entrepreneurial, which is [why I started Learn With Locals.](/2017/05/10/the-story-behind-learn-with-locals.html)
 
