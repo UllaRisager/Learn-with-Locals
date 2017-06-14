@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strikingly Susan At Startup Weekend
+title: Learning From Strikingly At Startup Weekend
 subtitle: Strikingly’s mission is so crystal clear it’s hard NOT to be inspired
 image_path: /uploads/susanlou.jpg
 banner: /uploads/strikingly.jpg
@@ -50,8 +50,6 @@ She told me about how she, and one of the co-founders, would personally add peop
 
 Susan would also (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with these people and she actually showed me numerous amounts of WeChats and also explained how she has landed exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she has helped Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, maybe not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE.
 
-{: .present-before-paste}
-
 ##### Which brings me to my next point.
 {: .present-before-paste}
 
@@ -71,8 +69,6 @@ In his [book](https://chipconley.com/getting-more-mojo-from-maslow/); '[How Grea
 ![](/uploads/versions/maslows-hierarchy-of-needs1---x----1344-1000x---.jpg)
 
 AND the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls: *Peak-experiences.*He alsoargues that any individuals’ deepest motivations sit at the top of the pyramid - and take on an inspirational quality.
-
-{: .present-before-paste}
 
 ##### Which brings me to my next point of this story:
 {: .present-before-paste}
