@@ -14,7 +14,7 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com/s).
+A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com).
 
 ![](/uploads/versions/strikingly---x----1024-683x---.jpg)
 
