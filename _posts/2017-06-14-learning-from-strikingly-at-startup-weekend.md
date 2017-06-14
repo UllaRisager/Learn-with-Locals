@@ -129,6 +129,8 @@ In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-B
 
 Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
+#### &nbsp;
+
 #### **So why am I sharing this story of meeting Susan and learning about Strikingly with you?**
 
 Well because:
