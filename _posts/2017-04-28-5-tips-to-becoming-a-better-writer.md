@@ -19,7 +19,7 @@ I love writing, but there’s a very big difference between journaling and writi
 
 It wasn’t until I met Ali - a digital nomad, holistic health coach and journalist living in Ubud, Bali, that I realized just how bad my writing actually was.
 
-Turns our Ali had studied journalism, only she wasn’t really working within this field, instead she was a holistic health coach turned digital nomad - who just happened to be at the same co-workation with [The Institute Of Code](http://www.instituteofcode.com/){:target="_blank"} that I was also attending.
+Turns our Ali had studied journalism, only she wasn’t really working within this field, instead she was a holistic health coach turned digital nomad - who just happened to be at the same co-workation with [The Institute Of Code](http://www.instituteofcode.com/) that I was also attending.
 
 She gave me a few tricks on writing and how to structure my content - that I would like to share with you here.
 
@@ -79,9 +79,7 @@ At home you're probably stressed out and not really open to learning and meeting
 
 If you’re interested in writing and becoming a better writer or content creator, I strongly recommend learning from someone like Ali, it doesn’t have to be in Bali and it doesn’t have to be her, but what better way to learn than from a passionate person who inspires you?
 
-If you - or someone you know who would like to teach a skill, please let me know by signing up [here](/signup.html){:target="_blank"}.
-
-You can also learn more about our [Writing and Content Creation experience here.](/upskills/blogging-content-creation.html)
+If you - or someone you know who would like to teach a skill, please let me know by signing up [here](/).
 
 [Home](/)
 
