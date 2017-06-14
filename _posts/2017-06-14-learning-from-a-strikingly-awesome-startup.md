@@ -94,13 +94,15 @@ Had that been today, I would have been thrilled to get a way out, off the hook o
 
 Did any of you ever have a teacher like that? Well I never knew it back then, but he was GOLD. Iver was his name, he passed away, but his wisdom is still very much with me.
 
-So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch these other needs?
+So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch upon these other needs?
 
-The very top block that covers the self-actualization and peak-performance needs?
+Especially the very top block that covers the self-actualization and peak-performance needs?
 
 * Where the very best version of ourselves just sits there.
 * Where we are inspired and motivated to do good and to give away wisdom?
 * Well not very often in most cases. I am only speaking for myself, but I'm pretty sure many of you can relate.
+
+&nbsp;
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
