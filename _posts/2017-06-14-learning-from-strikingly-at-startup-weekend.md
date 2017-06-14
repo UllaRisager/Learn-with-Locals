@@ -22,7 +22,7 @@ I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
-I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She started laughing and shrugged her shoulders, (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
+I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She started laughing (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
 
 I remember thinking: *Ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier.* I was just curious - perhaps I could tweak my theme, just like with Wordpress, being quite the perfectionist when it comes to how things look.
 
@@ -145,6 +145,6 @@ Something that came to me as an idea in the first place when I was renting out m
 
 So to round up, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
 
-###### [Home](/){:target="_blank"}
+###### [Home](/)
 
-###### [More stories](/blog.html){:target="_blank"}
+###### [More stories](/blog.html)
