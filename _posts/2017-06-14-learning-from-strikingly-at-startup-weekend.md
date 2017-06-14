@@ -145,7 +145,7 @@ Well because:
 
 > *“The meaning of life is to find your gift and the purpose of life is to give it away.”*
 
-Just like Iver, my High School Latin teacher.
+Just like Iver, my High School Latin teacher did.
 
 #### &nbsp;
 
