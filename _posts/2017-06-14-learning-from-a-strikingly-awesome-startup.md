@@ -128,7 +128,7 @@ The idea is still there but it just stays an idea - a thought and nothing else -
 
 In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726), Elizabeth Gilbert reminds us that: *"Ideas are driven by a single impulse: to be made manifest"* and all it really takes for an idea to come alive is human interaction.
 
-Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
+Not coding skills or business skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
 &nbsp;
 
