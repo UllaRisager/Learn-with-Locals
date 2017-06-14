@@ -5,7 +5,7 @@ subtitle: Strikingly’s mission is so crystal clear it’s hard NOT to be inspi
 image_path: /uploads/susanlou.jpg
 banner: /uploads/susanlou.jpg
 image-alt: Strikingly
-snippet: Their mission is so empowering it’s hard not to be inspired when you’re trying to build a company on your own
+snippet: Their mission is so empowering it’s hard not to be inspired when you’re trying to build a company on your own.
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: June 13th 2017
@@ -50,7 +50,7 @@ She told me about how she, and one of the co-founders, would personally add peop
 
 She would (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with people. She also explained how she was able to land exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she is helping Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, perhaps not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE…
 
-###
+## #
 {: .present-before-paste}
 
 #### Which brings me to my first point of this story
@@ -103,7 +103,7 @@ The very top block that covers the self-actualization and peak-performance needs
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
-####
+### #
 {: .present-before-paste}
 
 #### So my last point is to ask you this:
@@ -127,7 +127,7 @@ In her book; [Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-Beyon
 
 Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
-####
+### #
 
 #### **Why am I sharing this story of meeting Susan and learning about Strikingly with you?**
 
@@ -143,7 +143,7 @@ Well because:
 
 Just like Iver, my High School Latin teacher did.
 
-####
+### #
 
 #### So do yourself a favor and claim your voice
 
@@ -153,7 +153,7 @@ So if you share the belief in empowering the independence of thinkers and doers,
 
 Show me what you’re passionate about, own your dreams and [join our community](/) so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
 
-######
+##### #
 
 ###### [Home](/)
 
