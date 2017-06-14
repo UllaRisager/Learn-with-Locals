@@ -9,7 +9,7 @@ snippet: "Traveling is no longer about the trip or the destination - it's about 
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: April 28th 2017
-author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and Founder of learnwithlocals.io."
+author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and founder of learnwithlocals.io."
 author-about: Follow @LearnWithLocals on Instagram
 ---
 

@@ -9,7 +9,7 @@ snippet: How being turned down by Airbnb made me start my own business.
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 10th 2017
-author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and Founder of learnwithlocals.io."
+author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and founder of learnwithlocals.io."
 author-about: Follow @LearnWithLocals on Instagram
 ---
 

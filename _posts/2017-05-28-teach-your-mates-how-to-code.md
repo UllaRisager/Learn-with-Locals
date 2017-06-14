@@ -9,7 +9,7 @@ snippet: Teaching my friends actually freed up time for me to work on my own pro
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 28th 2017
-author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and Founder of learnwithlocals.io."
+author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and founder of learnwithlocals.io."
 author-about: Follow @LearnWithLocals on Instagram
 ---
 
