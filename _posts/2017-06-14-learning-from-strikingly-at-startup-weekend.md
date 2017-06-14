@@ -38,7 +38,7 @@ The thing about Strikingly, is that their mission is so empowering it’s hard *
 
 **-David Chen, CEO and co-founder of Strikingly.**
 
-(Read full article [here](https://www.linkedin.com/pulse/20141114052002-45578172-owning-your-dreams-in-the-digital-age)).
+(Read full article [here](https://www.linkedin.com/pulse/20141114052002-45578172-owning-your-dreams-in-the-digital-age){:target="_blank"}).
 
 **Susan told me the story of three guys**&nbsp;who applied to [Y Combinator​](http://www.ycombinator.com/){:target="_blank"}, got rejected and then applied again and became Y Combinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.
 
