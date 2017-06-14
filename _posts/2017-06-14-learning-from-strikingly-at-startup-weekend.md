@@ -24,19 +24,19 @@ It was towards the end of the night of the closing party and we were sipping coc
 
 I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She started laughing (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
 
-I remember thinking: *Ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier.* I was just curious - perhaps I could tweak my theme, just like with Wordpress, being quite the perfectionist when it comes to how things look.
+I remember thinking; Ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier. I was just curious and perhaps I could tweak my theme, just like in Wordpress, being quite the perfectionist when it comes to how things look.
 
-But I also remember thinking: *WOW, this girl knows her shit!&nbsp;*She was VERY clear on what Strikingly was and wasn't and who their audience was and I was very fascinated by her clarity.
+But I also remember thinking: *WOW, this girl really knows her shit!&nbsp;*She was just so clear on what Strikingly was and wasn't and who their users were and I was very fascinated by her clear vision.
 
 > *"At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them"*
 
 *Everyone.* Not just people with specific skills, but everyone.
 
-Strikingly’s mission is so crystal clear it’s hard NOT to be inspired:
+The thing about Strikingly, is that their mission is so crystal clear it’s hard *not*&nbsp;to be inspired when you're trying to build a company on your own:
 
 > *“We want to reinvent people’s relationship with the Internet to encourage a world of creators and of contributors. How will we help drive the growth of the creative thinkers and doers, and enable their independence? We want to democratize the ability to spread information online. We’re lowering barriers for spreading ideas and creativity by empowering anyone and everyone to turn their creativity and ideas into reality and build brands around them.”*
 
--David Chen, CEO and co-founder of Strikingly.
+**-David Chen, CEO and co-founder of Strikingly.**
 
 (Read full article [here](https://www.linkedin.com/pulse/20141114052002-45578172-owning-your-dreams-in-the-digital-age)).
 
