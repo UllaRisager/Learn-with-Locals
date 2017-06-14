@@ -78,7 +78,7 @@ Believe it or not, but why not try it our for yourself?!
 
 &nbsp;
 
-#### Which brings me to my next point of this story:
+#### Which brings me to the next point of this story:
 {: .present-before-paste}
 
 How do you create peak experiences for yourself and for others?
