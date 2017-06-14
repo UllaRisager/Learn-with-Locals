@@ -14,11 +14,11 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-&nbsp;A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com).&nbsp;
+&nbsp;A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com){:target="_blank"}.&nbsp;
 
 ![](/uploads/versions/strikingly---x----1024-683x---.jpg)
 
-I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali. We were all there to pitch our ideas and to learn.
+I was attending [Startup Weekend](http://startupweekend.org/){:target="_blank"}&nbsp;here in Bali. We were all there to pitch our ideas and to learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
@@ -40,7 +40,7 @@ The thing about Strikingly, is that their mission is so empowering it’s hard *
 
 (Read full article [here](https://www.linkedin.com/pulse/20141114052002-45578172-owning-your-dreams-in-the-digital-age)).
 
-**Susan told me the story of three guys**&nbsp;who applied to [Y Combinator​](http://www.ycombinator.com/), got rejected and then applied again and became Y Combinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.
+**Susan told me the story of three guys**&nbsp;who applied to [Y Combinator​](http://www.ycombinator.com/){:target="_blank"}, got rejected and then applied again and became Y Combinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.
 
 Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how*&nbsp;they acquired their users and the actual people and vision driving the company.
 
@@ -56,7 +56,7 @@ She would (in her own words “stalk”) or more accurately; add users to her pe
 #### Which brings me to my first point.
 {: .present-before-paste}
 
-In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
+In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/){:target="_blank"}&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
 
 > *"They say tech is disrupting people, that robots are replacing us, but we at Airbnb; you guys &nbsp;- you are the ones disrupting tech - robots - because you have hearts and Airbnb is made up of a community of hearts."*
 
@@ -66,9 +66,9 @@ This statement supports my belief that we as people don't just wanna be seen as 
 
 It's really that simple.
 
-Abraham Maslow created the[ Hierarchy of Needs Pyramid](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs) - we are all familiar with this, and Chip Conley, former Head of Hospitality and Strategy at Airbnb has taken this theory and applied it to building a business, a brand, a brand voice and a culture through peak-experiences.
+Abraham Maslow created the[ Hierarchy of Needs Pyramid](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs){:target="_blank"} - we are all familiar with this, and Chip Conley, former Head of Hospitality and Strategy at Airbnb has taken this theory and applied it to building a business, a brand, a brand voice and a culture through peak-experiences.
 
-In his [book](https://chipconley.com/getting-more-mojo-from-maslow/); '[How Great Companies Get Their Mojo From Maslow'](https://www.amazon.com/Peak-Companies-Maslow-non-Franchise-Leadership-ebook/dp/B0067KS0VS/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1497374507&amp;sr=1-1&amp;keywords=mojo+from+maslow): Chip explains how helping people understand their full potential and help them transform themselves, you can help people reach their peak-performance and unleash a life full of abundant talent, creativity and fulfillment.
+In his [book](https://chipconley.com/getting-more-mojo-from-maslow/){:target="_blank"}; '[How Great Companies Get Their Mojo From Maslow'](https://www.amazon.com/Peak-Companies-Maslow-non-Franchise-Leadership-ebook/dp/B0067KS0VS/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1497374507&amp;sr=1-1&amp;keywords=mojo+from+maslow){:target="_blank"}: Chip explains how helping people understand their full potential and help them transform themselves, you can help people reach their peak-performance and unleash a life full of abundant talent, creativity and fulfillment.
 
 ![](/uploads/versions/maslows-hierarchy-of-needs1---x----1344-1000x---.jpg)
 
@@ -127,7 +127,7 @@ The truth is that people like us - you and me, we all have ideas. Ideas that we 
 
 The idea is still there but it just stays an idea - a thought and nothing else - and that’s a problem.
 
-In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726), Elizabeth Gilbert reminds us that: *"Ideas are driven by a single impulse: to be made manifest"* and all it really takes for an idea to come alive is human interaction.
+In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726){:target="_blank"}, Elizabeth Gilbert reminds us that: *"Ideas are driven by a single impulse: to be made manifest"* and all it really takes for an idea to come alive is human interaction.
 
 Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
@@ -153,12 +153,12 @@ Just like Iver, my High School Latin teacher.&nbsp;
 
 #### Do yourself a favor and claim your voice
 
-I truly believe that every human being is by nature, creative and entrepreneurial, which is [why I started Learn With Locals.](/2017/05/10/the-story-behind-learn-with-locals.html)
+I truly believe that every human being is by nature, creative and entrepreneurial, which is [why I started Learn With Locals.](/2017/05/10/the-story-behind-learn-with-locals.html){:target="_blank"}
 
 So if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice.
 
-Show me what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
+Show me what you’re passionate about, own your dreams and [join our community](/){:target="_blank"}&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
 
-###### [Home](/)
+###### [Home](/){:target="_blank"}
 
-###### [More stories](/blog.html)
+###### [More stories](/blog.html){:target="_blank"}
