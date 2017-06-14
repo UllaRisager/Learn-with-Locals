@@ -101,6 +101,8 @@ The very top block that covers the self-actualization and peak-performance needs
 * Where we are inspired and motivated to do good and to give away wisdom?
 * Well not very often in most cases. I am only speaking for myself, but I'm pretty sure many of you can relate.
 
+&nbsp;
+
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
 #### &nbsp;
@@ -135,7 +137,9 @@ Well because:
 2. Someone might be reading this and perhaps be inspired to take action.
 3. I want you to live a life full of creativity, empowerment and belonging.
 
-Pablo Picasso said:
+&nbsp;
+
+**Pablo Picasso said:**
 
 > *“The meaning of life is to find your gift and the purpose of life is to give it away.”*
 
