@@ -48,14 +48,16 @@ Susan told me about how she joined the company two years ago and how the entire 
 
 She told me about how she, and one of the co-founders, would personally add people on Facebook and follow them on Instagram, people who were building sites with Strikingly and people who had questions or who didn’t finish their site for some reasons, they would immediately email these people and ask *why*&nbsp;they stopped and what they could do to improve the product.
 
-Susan would also (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with these people and she actually showed me numerous amounts of WeChats and also explained how she has landed exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she has helped Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, maybe not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE.
+She would (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with people. She also explained how she has landed exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she has helped Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, perhaps not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE...
 
 ##### Which brings me to my next point.
 {: .present-before-paste}
 
-In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said: *"They say tech is disrupting people, that robots are replacing us, but we at Airbnb; you guys &nbsp;- you are the ones disrupting tech - robots - because you have hearts and Airbnb is made up of a community of hearts."*
+In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
 
-This statement supports by belief that we as people don't just wanna be seen as users we don’t just wanna sign up to services or simply BUY services, hell no - we want to be acknowledged as human beings, which is why we buy into experiences, interactions with REAL people, peers, experts, mentors and role-models. People with hearts.
+> *"They say tech is disrupting people, that robots are replacing us, but we at Airbnb; you guys &nbsp;- you are the ones disrupting tech - robots - because you have hearts and Airbnb is made up of a community of hearts."*
+
+This statement supports my belief that we as people don't just wanna be seen as users we don’t just wanna sign up to services or simply BUY services, hell no - we want to be acknowledged as human beings, which is why we buy into experiences, interactions with REAL people, peers, experts, mentors and role-models. People with hearts.
 
 > WE WANT TO LEARN and we want to be inspired and help give knowledge to others so we, in return, can grow and feel good about ourselves.
 
