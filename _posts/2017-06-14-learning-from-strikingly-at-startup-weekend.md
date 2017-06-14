@@ -132,18 +132,16 @@ Not a website or coding skills or any other skills for that matter, it JUST TAKE
 Well because:
 
 1. I am inspired and I would like to pass that inspiration and feeling on to you.
+2. Someone might be reading this and perhaps be inspired to take action.
+3. I want you to live a life full of creativity, empowerment and belonging.
 
-Someone might be reading this and perhaps be inspired to take action.
-
-1. I want you to live a life full of creativity, empowerment and belonging.
-
-2. Pablo Picasso said:
+Pablo Picasso said:
 
 > *“The meaning of life is to find your gift and the purpose of life is to give it away.”*
 
 Just like Iver, my High School Latin teacher.
 
-#### #
+#### &nbsp;
 
 #### Do yourself a favor and claim your voice
 
