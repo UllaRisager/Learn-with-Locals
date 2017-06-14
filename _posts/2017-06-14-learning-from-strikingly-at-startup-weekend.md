@@ -48,7 +48,7 @@ Susan told me about how she joined the company two years ago and how the entire 
 
 She told me about how she, and one of the co-founders, would personally add people on Facebook and follow them on Instagram, people who were building sites with Strikingly and people who had questions or who didn’t finish their site for some reasons, they would immediately email these people and ask *why*&nbsp;they stopped and what they could do to improve the product.
 
-She would (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with people. She also explained how she has landed exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she has helped Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, perhaps not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE...
+She would (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with people. She also explained how she was able to land exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she has helped Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, perhaps not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE...
 
 ##### Which brings me to my first point.
 {: .present-before-paste}
