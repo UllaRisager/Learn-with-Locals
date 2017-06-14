@@ -32,7 +32,7 @@ But I also remember thinking&nbsp;*WOW this girl really knows her shit!&nbsp;*Sh
 
 *Everyone.* Not just people with specific skills, but everyone.
 
-The thing about Strikingly, is that their mission is so crystal clear it’s hard *not*&nbsp;to be inspired when you're trying to build a company on your own:
+The thing about Strikingly, is that their mission is so empowering it’s hard *not*&nbsp;to be inspired when you're trying to build a company on your own:
 
 > *“We want to reinvent people’s relationship with the Internet to encourage a world of creators and of contributors. How will we help drive the growth of the creative thinkers and doers, and enable their independence? We want to democratize the ability to spread information online. We’re lowering barriers for spreading ideas and creativity by empowering anyone and everyone to turn their creativity and ideas into reality and build brands around them.”*
 
