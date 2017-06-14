@@ -52,7 +52,7 @@ She would (in her own words “stalk”) or more accurately; add users to her pe
 
 &nbsp;
 
-##### Which brings me to my first point of this story
+#### Which brings me to my first point of this story
 {: .present-before-paste}
 
 In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
@@ -106,7 +106,7 @@ The “problem” is that in order to reach that state of mind, we need to pass 
 
 &nbsp;
 
-##### So my last point is to ask you this:
+#### So my last point is to ask you this:
 {: .present-before-paste}
 
 &nbsp;*"Why aren’t we doing this, why aren’t we living a life full of peak-performances and self-actualisation ever single day?"*
@@ -129,7 +129,7 @@ Not a website or coding skills or any other skills for that matter, it JUST TAKE
 
 &nbsp;
 
-##### **Why am I sharing this story of meeting Susan and learning about Strikingly with you?**
+#### **Why am I sharing this story of meeting Susan and learning about Strikingly with you?**
 
 Well because:
 
@@ -145,7 +145,7 @@ Just like Iver, my High School Latin teacher did.
 
 &nbsp;
 
-##### So do yourself a favor and claim your voice
+#### So do yourself a favor and claim your voice
 
 I truly believe that every human being is by nature, creative and entrepreneurial, which is [why I started Learn With Locals.](/2017/05/10/the-story-behind-learn-with-locals.html)
 
