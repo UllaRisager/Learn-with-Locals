@@ -3,7 +3,7 @@ layout: post
 title: Learning From Strikingly At Startup Weekend
 subtitle: Strikingly’s mission is so crystal clear it’s hard NOT to be inspired
 image_path: /uploads/susanlou.jpg
-banner: /uploads/strikingly.jpg
+banner: /uploads/susanlou.jpg
 image-alt: Strikingly
 snippet: 'At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them.'
 author-photo: /images/blog/author/ulla.jpg
