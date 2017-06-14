@@ -131,7 +131,7 @@ Not a website or coding skills or any other skills for that matter, it JUST TAKE
 
 #### &nbsp;
 
-#### **So why am I sharing this story of meeting Susan and learning about Strikingly with you?**
+#### **Why am I sharing this story of meeting Susan and learning about Strikingly with you?**
 
 Well because:
 
@@ -149,7 +149,7 @@ Just like Iver, my High School Latin teacher did.
 
 #### &nbsp;
 
-#### Do yourself a favor and claim your voice
+#### So do yourself a favor and claim your voice
 
 I truly believe that every human being is by nature, creative and entrepreneurial, which is [why I started Learn With Locals.](/2017/05/10/the-story-behind-learn-with-locals.html)
 
