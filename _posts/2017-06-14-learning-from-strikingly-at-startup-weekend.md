@@ -145,6 +145,6 @@ Something that came to me as an idea in the first place when I was renting out m
 
 So to round up, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
 
-###### [Home](/)
+###### [Home](/){:target="_blank"}
 
-###### [More stories](/blog.html)
+###### [More stories](/blog.html){:target="_blank"}
