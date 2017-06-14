@@ -10,8 +10,8 @@ snippet: What I learned from a professional journalist in Bali and how she helpe
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: May 4th 2017
-author-bio: "Always curious and on the move, that's how Ulla describes herself. She is a passionate traveler and digital nomad and also the founder of Learn With Locals."
-author-about: Follow her on instagram @ulla_nuna.
+author-bio: "Entrepreneur, storyteller, self-proclaimed lover of pink. Co-owner myguideseoul.com and Founder of learnwithlocals.io."
+author-about: Follow @LearnWithLocals on Instagram
 ---
 
 
