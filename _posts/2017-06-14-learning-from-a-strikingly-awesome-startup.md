@@ -140,6 +140,8 @@ Well because:
 2. Someone might be reading this and perhaps be inspired to take action.
 3. I want you to live a life full of creativity, empowerment and belonging.
 
+&nbsp;
+
 **Pablo Picasso said:**
 
 > *“The meaning of life is to find your gift and the purpose of life is to give it away.”*
