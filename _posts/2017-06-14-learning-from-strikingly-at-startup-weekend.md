@@ -18,7 +18,7 @@ A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Str
 
 ![](/uploads/versions/strikingly---x----1024-683x---.jpg)
 
-I was attending [Startup Weekend](http://startupweekend.org/) here in Bali. We were all there to pitch our ideas and to learn.
+I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali. We were all there to pitch our ideas and to learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
@@ -26,13 +26,13 @@ I asked: *“Hey Susan, is it possible to get access to the CSS and also add you
 
 I remember thinking; Ehm…ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier. I was just curious to see if I could tweak my theme, just like in Wordpress, being quite the perfectionist when it comes to how things look.
 
-But I also remember thinking *WOW this girl really knows her shit!*She was just so clear on what Strikingly was and wasn't and who their users were and I was very fascinated by her clear vision.
+But I also remember thinking&nbsp;*WOW this girl really knows her shit!*She was just so clear on what Strikingly was and wasn't and who their users were and I was very fascinated by her clear vision.
 
 > *"At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them"*
 
 *Everyone.* Not just people with specific skills, but everyone.
 
-The thing about Strikingly, is that their mission is so empowering it’s hard *not* to be inspired when you're trying to build a company on your own:
+The thing about Strikingly, is that their mission is so empowering it’s hard *not*&nbsp;to be inspired when you're trying to build a company on your own:
 
 > *“We want to reinvent people’s relationship with the Internet to encourage a world of creators and of contributors. How will we help drive the growth of the creative thinkers and doers, and enable their independence? We want to democratize the ability to spread information online. We’re lowering barriers for spreading ideas and creativity by empowering anyone and everyone to turn their creativity and ideas into reality and build brands around them.”*
 
@@ -40,25 +40,25 @@ The thing about Strikingly, is that their mission is so empowering it’s hard *
 
 (Read full article [here](https://www.linkedin.com/pulse/20141114052002-45578172-owning-your-dreams-in-the-digital-age)).
 
-**Susan told me the story of three guys** who applied to [Y Combinator​](http://www.ycombinator.com/), got rejected and then applied again and became Y Combinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.
+**Susan told me the story of three guys**&nbsp;who applied to [Y Combinator​](http://www.ycombinator.com/), got rejected and then applied again and became Y Combinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.
 
-Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how* they acquired their users and the actual people and vision driving the company.
+Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how*&nbsp;they acquired their users and the actual people and vision driving the company.
 
 Susan told me about how she joined the company two years ago and how the entire team of maybe two people besides the three co-founders had to move to China, because their visas ran out and they were not able to renew or get green cards.
 
-She told me about how she, and one of the co-founders, would personally add people on Facebook and follow them on Instagram, people who were building sites with Strikingly and people who had questions or who didn’t finish their site for some reasons, they would immediately email these people and ask *why* they stopped and what they could do to improve the product.
+She told me about how she, and one of the co-founders, would personally add people on Facebook and follow them on Instagram, people who were building sites with Strikingly and people who had questions or who didn’t finish their site for some reasons, they would immediately email these people and ask *why*&nbsp;they stopped and what they could do to improve the product.
 
 She would (in her own words “stalk”) or more accurately; add users to her personal WeChat, WhatsApp, etc. to create a personal relationship with people. She also explained how she was able to land exclusive partnerships with companies like Google through this very personal approach, but more importantly, how she is helping Strikingly build a super dedicated customer base of people who will be brand advocates for life - ok, perhaps not for life, but long enough to tell their friends about their experience. Because it really is all about THE EXPERIENCE…
 
-####
+### &nbsp;
 {: .present-before-paste}
 
-#### Which brings me to my first point.
+#### Which brings me to my first point of this story
 {: .present-before-paste}
 
-In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/) took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
+In Paris 2015, just a few hours before the Terrorist Attacks began, Brian Chesky, CEO and co-founder of [Airbnb](https://www.airbnb.com/)&nbsp;took the stage and spoke to an audience of 5,000 hosts. I sat on the front row and he said:
 
-> *"They say tech is disrupting people, that robots are replacing us, but we at Airbnb; you guys  - you are the ones disrupting tech - robots - because you have hearts and Airbnb is made up of a community of hearts."*
+> *"They say tech is disrupting people, that robots are replacing us, but we at Airbnb; you guys &nbsp;- you are the ones disrupting tech - robots - because you have hearts and Airbnb is made up of a community of hearts."*
 
 This statement supports my belief that we as people don't just wanna be seen as users we don’t just wanna sign up to services or simply BUY services, hell no - we want to be acknowledged as human beings, which is why we buy into experiences, interactions with REAL people, peers, experts, mentors and role-models. People with hearts.
 
@@ -72,11 +72,11 @@ In his [book](https://chipconley.com/getting-more-mojo-from-maslow/); '[How Grea
 
 ![](/uploads/versions/maslows-hierarchy-of-needs1---x----1344-1000x---.jpg)
 
-He argues that the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls: *Peak-experiences.*He also states that any individuals’ deepest motivations sit at the top of the pyramid - and take on an inspirational quality.
+He argues that the only way to help people reach this very top shelf, is enabling them and helping them to have what he calls:&nbsp;*Peak-experiences.*He also states that any individuals’ deepest motivations sit at the top of the pyramid - and take on an inspirational quality.
 
 Believe it or not, but why not try it our for yourself?!
 
-#### Which brings me to the next point of this story:
+#### Which brings me to the next point
 {: .present-before-paste}
 
 How do you create peak experiences for yourself and for others?
@@ -105,15 +105,15 @@ Well not very often in most cases. I am only speaking for myself, but I'm pretty
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
-#####
+#### #
 {: .present-before-paste}
 
 #### So my last thought is asking you this:
 {: .present-before-paste}
 
- *"Why aren’t we doing this, why aren’t we living a life full of peak-performances and self-actualisation ever single day?"*
+&nbsp;*"Why aren’t we doing this, why aren’t we living a life full of peak-performances and self-actualisation ever single day?"*
 
-Well,  firstly, here's a potential answer:
+Well, &nbsp;firstly, here's a potential answer:
 
 ![](/uploads/versions/maslow-2014-wifi---x----894-894x---.jpg)
 
@@ -121,11 +121,11 @@ Because we constantly have to charge our smartphones and laptops and drones and 
 
 Secondly, we are too afraid to grab opportunities when they are handed to us.
 
-The truth is that people like us - you and me, we all have ideas. Ideas that we would like to realize, but we don't  necessarily always know how to. Because we are often faced with these very specific but in reality "minor" and "insignificant" obstacles, which can seem huge and overwhelming, we lose faith in ourselves.
+The truth is that people like us - you and me, we all have ideas. Ideas that we would like to realize, but we don't&nbsp; necessarily always know how to. Because we are often faced with these very specific but in reality "minor" and "insignificant" obstacles, which can seem huge and overwhelming, we lose faith in ourselves.
 
 The idea is still there but it just stays an idea - a thought and nothing else - and that’s a problem.
 
-In her book; [Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726), Elizabeth Gilbert reminds us that: *"Ideas are driven by a single impulse: to be made manifest"* and all it really takes for an idea to come alive is human interaction.
+In her book;&nbsp;[Big Magic](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726), Elizabeth Gilbert reminds us that: *"Ideas are driven by a single impulse: to be made manifest"* and all it really takes for an idea to come alive is human interaction.
 
 Not a website or coding skills or any other skills for that matter, it JUST TAKES A HUMAN BEING - YOU!
 
@@ -145,7 +145,7 @@ Someone might be reading this and perhaps be inspired to take action.
 
 Just like Iver, my High School Latin teacher.
 
-#####
+#### #
 
 #### Do yourself a favor and claim your voice
 
@@ -153,7 +153,7 @@ I truly believe that every human being is by nature, creative and entrepreneuria
 
 So if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice.
 
-Show me what you’re passionate about, own your dreams and [join our community](/) so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
+Show me what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
 
 ###### [Home](/)
 
