@@ -153,6 +153,8 @@ So if you share the belief in empowering the independence of thinkers and doers,
 
 Show me what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
 
-[Home](/)
+###### &nbsp;
+
+###### [Home](/)
 
 ###### [More stories](/blog.html)
