@@ -86,15 +86,15 @@ How do you create peak experiences for yourself and for others?
 
 Learning and teaching = mentoring and being mentored.
 
-When I was in High School, back in Denmark, I had this very very old Latin teacher, yes believe me he was old, but he was also wise, I didn’t pay much attention back then, but I’ve thought about what he used to say to us on Monday mornings, numerous times since:
+When I was in High School, back in Denmark, I had this very very old Latin teacher, yes believe me he was old, but he was also wise. I didn’t pay much attention back then, but I’ve thought about what he used to preach to us come Monday mornings, numerous times since:
 
 > *“If you can come to me by the end of the week and show me four books that you’ve read” I won’t care if you haven’t done your homework!”*
 
-Had that been today, I would have been thrilled to get a way out, off the hook of that horrible Latin grammar, but back then…you can probably imagine how many people raised their hands and handed in four books. zero, all through three years of High School.
+Had that been today, I would have been thrilled to get a way out, off the hook of that horrible Latin grammar, but back then, you can probably imagine how many people raised their hands and handed in four books. zero, all through three years of High School.
 
-Did any of you ever have a teacher like that? Well I never knew it back then, but he was GOLD. Iver was his name, he passed away, but his wisdom is still among us.
+Did any of you ever have a teacher like that? Well I never knew it back then, but he was GOLD. Iver was his name, he passed away, but his wisdom is still very much with me.
 
-So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch this need?
+So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much covered, most fortunate people got the basic needs covered, but how often do we really touch these other needs?
 
 The very top block that covers the self-actualization and peak-performance needs?
 
