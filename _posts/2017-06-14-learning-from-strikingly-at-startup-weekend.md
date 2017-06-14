@@ -14,11 +14,7 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-<<<<<<< HEAD
-A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com).
-=======
-A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com/).
->>>>>>> origin/master
+&nbsp;A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com).&nbsp;
 
 ![](/uploads/versions/strikingly---x----1024-683x---.jpg)
 
@@ -149,8 +145,4 @@ I believe that every human being is by nature, creative and entrepreneurial, whi
 
 Something that came to me as an idea in the first place when I was renting out my apartment on Airbnb and saw a demand for truly unique experiences, not only from my guests, but also from myself as a host. I truly wanted to connect with my guests in a different way other than just changing their sheets and handing them my keys. You can read more about that story [here](/2017/05/10/the-story-behind-learn-with-locals.html).
 
-<<<<<<< HEAD
-So to round up, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about, own your dreams and [join our community](/) so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
-=======
-So to round up, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose.
->>>>>>> origin/master
+&laquo;&laquo;&laquo;&lt; HEAD So to round up, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose. ======= So to round up, if you share the belief in empowering the independence of thinkers and doers, do yourself a favor and claim your voice. Show us what you’re passionate about, own your dreams and [join our community](/)&nbsp;so we can help each other reach our very own peak-performances and live a life full of meaning, connection and purpose. &raquo;&raquo;&raquo;&gt; origin/master
