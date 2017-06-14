@@ -99,10 +99,11 @@ So if we look at the Hierarchy of Needs pyramid, the bottom shelf is pretty much
 Especially the very top block that covers the self-actualization and peak-performance needs?
 
 * Where the very best version of ourselves just sits there.
-* Where we are inspired and motivated to do good and to give away wisdom?
-* Well not very often in most cases. I am only speaking for myself, but I'm pretty sure many of you can relate.
+* Where we are inspired and motivated to do good and to give away wisdom.
 
 &nbsp;
+
+Well not very often in most cases. I am only speaking for myself, but I'm pretty sure many of you can relate.
 
 The “problem” is that in order to reach that state of mind, we need to pass through the middle shelf, the belonging and love, the psychological and self-esteem needs what will allow us to touch upon the self-fulfilment needs.
 
