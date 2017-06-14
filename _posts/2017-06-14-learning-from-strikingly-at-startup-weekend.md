@@ -22,7 +22,7 @@ I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
-I asked: *“Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?”*She started laughing (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
+I asked: *“Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?”&nbsp;*She started laughing (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
 
 I remember thinking; Ehm...ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier. I was just curious to see if I could tweak my theme, just like in Wordpress, being quite the perfectionist when it comes to how things look.
 
