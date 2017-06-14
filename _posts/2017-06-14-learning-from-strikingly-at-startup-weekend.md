@@ -14,19 +14,19 @@ author-about: Follow her on instagram @ulla_nuna.
 ---
 
 
-&nbsp; A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com).&nbsp;
+&nbsp;A few days ago, I had the pleasure of meeting Susan Lou, Head of Product at [Strikingly](https://www.strikingly.com).&nbsp;
 
 ![](/uploads/versions/strikingly---x----1024-683x---.jpg)
 
-I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali. We were all there to pitch our ideas and learn.
+I was attending [Startup Weekend](http://startupweekend.org/)&nbsp;here in Bali. We were all there to pitch our ideas and to learn.
 
 It was towards the end of the night of the closing party and we were sipping cocktails on the rooftop of the highest building in Canggu, tired from a long weekend of pitches, impressions and new faces.
 
-I asked her: “Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?” She started laughing (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
+I asked: *“Hey Susan, is it possible to get access to the CSS and also add your own HTML into a Strikingly template?”*She started laughing (in a good way), then looked at me - smiled and said: *"That's because you're a developer, our product is not meant for people who can code."*
 
-I remember thinking; Ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier. I was just curious and perhaps I could tweak my theme, just like in Wordpress, being quite the perfectionist when it comes to how things look.
+I remember thinking; Ehm...ok, well I just wanted to move a small Sign Up box slightly to the left when I was playing around with it earlier. I was just curious to see if I could tweak my theme, just like in Wordpress, being quite the perfectionist when it comes to how things look.
 
-But I also remember thinking: *WOW, this girl really knows her shit!&nbsp;*She was just so clear on what Strikingly was and wasn't and who their users were and I was very fascinated by her clear vision.
+But I also remember thinking&nbsp;*WOW this girl really knows her shit!&nbsp;*She was just so clear on what Strikingly was and wasn't and who their users were and I was very fascinated by her clear vision.
 
 > *"At Strikingly, our mission is to give everyone the power to turn their creativity and ideas into reality and build brands around them"*
 
@@ -42,7 +42,7 @@ The thing about Strikingly, is that their mission is so crystal clear it’s har
 
 **Susan told me the story of three guys**&nbsp;who applied to [Y Combinator​](http://www.ycombinator.com/), got rejected and then applied again and became Y Combinator's first Chinese based startup raising $1,2 million in funding - not touching a single dime up until recently, because three months in they were already sustainable.
 
-Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how*&nbsp;they acquired their users and the people and vision driving the company.
+Ok, no big deal, they’re probably not the only ones with a story like that. But what is strikingly awesome about this company is *how*&nbsp;they acquired their users and the actual people and vision driving the company.
 
 Susan told me about how she joined the company two years ago and how the entire team of maybe two people besides the three co-founders had to move to China, because their visas ran out and they were not able to renew or get green cards.
 
