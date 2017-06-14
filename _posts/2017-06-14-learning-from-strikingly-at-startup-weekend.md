@@ -9,7 +9,7 @@ snippet: 'The thing about Strikingly, is that their mission is so empowering itâ
 author-photo: /images/blog/author/ulla.jpg
 author-name: Ulla
 blog-date: June 13th 2017
-author-bio:  "Founder of learnwithlocals.io and co-owner myguideseoul.com."
+author-bio:  "Founder of Learn With Locals."
 author-about: Follow @LearnWithLocals on Instagram
 ---
 
